@@ -1,0 +1,134 @@
+{
+  "Underpost": {
+    "head": ["Seo", "Pwa", "UnderpostScripts", "Css"],
+    "body": ["CacheControl", "UnderpostDefaultSplashScreen"],
+    "mailer": {
+      "userVerifyEmail": "DefaultVerifyEmail",
+      "userRecoverEmail": "DefaultRecoverEmail"
+    },
+    "views": [
+      {
+        "path": "/offline",
+        "title": "No Network Connection",
+        "client": "NoNetworkConnection",
+        "head": [],
+        "body": [],
+        "offlineDefault": true
+      },
+      {
+        "path": "/maintenance",
+        "title": "Server Maintenance",
+        "client": "Maintenance",
+        "head": [],
+        "body": [],
+        "maintenanceDefault": true
+      },
+      {
+        "path": "/test",
+        "title": "Test",
+        "client": "Test",
+        "head": [],
+        "body": []
+      }
+    ]
+  },
+  "CyberiaPortal": {
+    "head": ["Seo", "Pwa", "Microdata", "CyberiaPortalScripts", "Css"],
+    "body": ["CacheControl", "CyberiaDefaultSplashScreen", "SwaggerDarkMode"],
+    "mailer": {
+      "userVerifyEmail": "DefaultVerifyEmail",
+      "userRecoverEmail": "DefaultRecoverEmail"
+    },
+    "views": [
+      {
+        "path": "/offline",
+        "title": "No Network Connection",
+        "client": "NoNetworkConnection",
+        "head": [],
+        "body": [],
+        "offlineDefault": true
+      },
+      {
+        "path": "/maintenance",
+        "title": "Server Maintenance",
+        "client": "Maintenance",
+        "head": [],
+        "body": [],
+        "maintenanceDefault": true
+      },
+      {
+        "path": "/test",
+        "title": "Test",
+        "client": "Test",
+        "head": [],
+        "body": []
+      }
+    ]
+  },
+  "Cryptokoyn": {
+    "head": ["Seo", "Pwa", "Microdata", "CryptokoynScripts", "Css"],
+    "body": ["CacheControl", "DefaultSplashScreen"],
+    "mailer": {
+      "userVerifyEmail": "DefaultVerifyEmail",
+      "userRecoverEmail": "DefaultRecoverEmail"
+    },
+    "views": [
+      {
+        "path": "/offline",
+        "title": "No Network Connection",
+        "client": "NoNetworkConnection",
+        "head": [],
+        "body": [],
+        "offlineDefault": true
+      },
+      {
+        "path": "/maintenance",
+        "title": "Server Maintenance",
+        "client": "Maintenance",
+        "head": [],
+        "body": [],
+        "maintenanceDefault": true
+      },
+      {
+        "path": "/test",
+        "title": "Test",
+        "client": "Test",
+        "head": [],
+        "body": []
+      }
+    ]
+  },
+  "Itemledger": {
+    "head": ["Seo", "PwaItemledger", "Microdata", "ItemledgerScripts", "Css"],
+    "body": ["CacheControl", "DefaultSplashScreen"],
+    "mailer": {
+      "userVerifyEmail": "DefaultVerifyEmail",
+      "userRecoverEmail": "DefaultRecoverEmail"
+    },
+    "views": [
+      {
+        "path": "/offline",
+        "title": "No Network Connection",
+        "client": "NoNetworkConnection",
+        "head": [],
+        "body": [],
+        "offlineDefault": true
+      },
+      {
+        "path": "/maintenance",
+        "title": "Server Maintenance",
+        "client": "Maintenance",
+        "head": [],
+        "body": [],
+        "maintenanceDefault": true
+      },
+      {
+        "path": "/test",
+        "title": "Test",
+        "client": "Test",
+        "head": [],
+        "body": []
+      }
+    ]
+  }
+}

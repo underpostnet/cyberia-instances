@@ -1,0 +1,12 @@
+[
+  {
+    "volumeMountPath": "/home/dd/engine/src/client/public/cyberia",
+    "claimName": "pvc-public-dd-cyberia",
+    "volumeName": "vol-public-dd-cyberia"
+  },
+  {
+    "volumeMountPath": "/home/dd/engine/src/client/public/underpost",
+    "claimName": "pvc-public-dd-cyberia-underpost",
+    "volumeName": "vol-public-dd-cyberia-underpost"
+  }
+]
