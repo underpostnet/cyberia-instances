@@ -1,0 +1,29 @@
+{
+  "_id": "6a4012df6112c35896109089",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 9,
+      "agility": 2,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 3
+    },
+    "item": {
+      "id": "composite-bark-plating",
+      "type": "breastplate",
+      "description": "Protective gear fashioned from the hardened, indigo-hued stems of the local flora.",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {}
+  },
+  "cid": "bafkreic6ujrrugy33zytc36kev3nmt5unvxc6lxlpaecb7uz25a7zmsrxu",
+  "sha256": "d362e12494b5c59681580123bba3ae2086850ab89125770999d70b4665bd45e5",
+  "createdAt": "2026-06-27T18:13:51.403Z",
+  "updatedAt": "2026-06-27T18:13:51.403Z",
+  "__v": 0
+}

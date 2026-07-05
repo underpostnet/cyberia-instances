@@ -1,0 +1,3206 @@
+{
+  "_id": "6a4023c0821b919c65caccf4",
+  "code": "sap-logic-array",
+  "name": "Sap-Logic Array",
+  "description": "A cluster of decommissioned environmental-control hardware where physical biological growth has become inseparable from the underlying utility-infrastructure.",
+  "entities": [
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff2"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff3"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff4"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff5"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff6"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff7"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff8"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccff9"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccffa"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccffb"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccffc"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccffd"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 0,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccffe"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335eccfff"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd000"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd001"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd002"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd003"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd004"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd005"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd006"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd007"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd008"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd009"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 5,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd00f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd010"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd011"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd012"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd013"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd014"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd015"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd016"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd017"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 10,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd018"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd019"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd01f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd020"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd021"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd022"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd023"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd024"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 15,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd025"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd026"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd027"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd028"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd029"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd02f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd030"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd031"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 20,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd032"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd033"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd034"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd035"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd036"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd037"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd038"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd039"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 25,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd03f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd040"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd041"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd042"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd043"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd044"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd045"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd046"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd047"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd048"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd049"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 30,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd04f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd050"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd051"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd052"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd053"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd054"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd055"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd056"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd057"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd058"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd059"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd05f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd060"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd061"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd062"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd063"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd064"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd065"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd066"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd067"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd068"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd069"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd06f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd070"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd071"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd072"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd073"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd074"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd075"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 0,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd076"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 5,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd077"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 10,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd078"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 15,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd079"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 20,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 25,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 30,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 60,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(11, 111, 31, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd07f"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 7,
+      "initCellY": 5,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd080"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 10,
+      "initCellY": 8,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd081"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 15,
+      "initCellY": 6,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd082"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 29,
+      "initCellY": 14,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd083"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 42,
+      "initCellY": 7,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd084"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 47,
+      "initCellY": 11,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd085"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 45,
+      "initCellY": 13,
+      "dimX": 6,
+      "dimY": 6,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd086"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 37,
+      "initCellY": 25,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd087"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 35,
+      "initCellY": 27,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd088"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 14,
+      "initCellY": 27,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd089"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 18,
+      "initCellY": 24,
+      "dimX": 7,
+      "dimY": 7,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08a"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 17,
+      "initCellY": 30,
+      "dimX": 7,
+      "dimY": 7,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08b"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 7,
+      "initCellY": 51,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08c"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 11,
+      "initCellY": 54,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08d"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 7,
+      "initCellY": 42,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08e"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 22,
+      "initCellY": 57,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd08f"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 53,
+      "initCellY": 22,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd090"
+    },
+    {
+      "entityType": "static",
+      "initCellX": 55,
+      "initCellY": 26,
+      "dimX": 7,
+      "dimY": 7,
+      "color": "rgba(223, 22, 22, 1)",
+      "objectLayerItemIds": [
+        "amethyst-tree-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd091"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd092"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd093"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd094"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd095"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd096"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd097"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd098"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd099"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09a"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09b"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 40,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09c"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09d"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 45,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09e"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd09f"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a0"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a1"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a2"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 50,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a3"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 30,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a4"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 30,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a5"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 50,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a6"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 60,
+      "initCellY": 40,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a7"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 30,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a8"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 60,
+      "initCellY": 45,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0a9"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 50,
+      "initCellY": 60,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0aa"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 55,
+      "initCellY": 50,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor-degraded"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0ab"
+    },
+    {
+      "entityType": "floor",
+      "initCellX": 35,
+      "initCellY": 55,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-floor-degraded-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0ac"
+    },
+    {
+      "entityType": "portal",
+      "initCellX": 7,
+      "initCellY": 18,
+      "dimX": 4,
+      "dimY": 4,
+      "color": "rgba(255, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-portal"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0ad"
+    },
+    {
+      "entityType": "portal",
+      "initCellX": 58,
+      "initCellY": 58,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(255, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "amethyst-grass-portal"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0ae"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 30,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0af"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 35,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-top-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b0"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 40,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-top-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b1"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 45,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-top-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b2"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 50,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-top-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b3"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 55,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-top-alpha"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b4"
+    },
+    {
+      "entityType": "obstacle",
+      "initCellX": 60,
+      "initCellY": 35,
+      "dimX": 5,
+      "dimY": 5,
+      "color": "rgba(0, 0, 0, 1)",
+      "objectLayerItemIds": [
+        "sap-logic-array-wall-left-beta"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b5"
+    },
+    {
+      "entityType": "bot",
+      "initCellX": 42,
+      "initCellY": 40,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(133, 133, 133, 1)",
+      "objectLayerItemIds": [
+        "knot-node-terminal"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b6"
+    },
+    {
+      "entityType": "bot",
+      "initCellX": 51,
+      "initCellY": 40,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(133, 133, 133, 1)",
+      "objectLayerItemIds": [
+        "knot-node-terminal"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b7"
+    },
+    {
+      "entityType": "bot",
+      "initCellX": 42,
+      "initCellY": 47,
+      "dimX": 3,
+      "dimY": 3,
+      "color": "rgba(133, 133, 133, 1)",
+      "objectLayerItemIds": [
+        "knot-node-terminal"
+      ],
+      "spawnRadius": 0,
+      "aggroRange": 0,
+      "maxLife": 0,
+      "lifeRegen": 0,
+      "_id": "6a43305f07990bc335ecd0b8"
+    }
+  ],
+  "tags": [
+    "sap",
+    "logic",
+    "array"
+  ],
+  "status": "published",
+  "thumbnail": "6a43305f07990bc335eccf2d",
+  "gridX": 64,
+  "gridY": 64,
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "createdAt": "2026-06-27T19:25:52.252Z",
+  "updatedAt": "2026-06-27T19:25:52.252Z",
+  "__v": 0
+}

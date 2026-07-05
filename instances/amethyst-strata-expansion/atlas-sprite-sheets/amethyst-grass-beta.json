@@ -1,0 +1,80 @@
+{
+  "_id": "6a40139c192c16dbcde161c7",
+  "fileId": "6a40139b192c16dbcde161c6",
+  "cid": "bafkreidkytqmzxbcn56xge7vtuqqys5dpzrw5cqvvpl3he7fpznno6gnzm",
+  "metadata": {
+    "itemKey": "amethyst-grass-beta",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 1000,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 960,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 1440,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-06-27T18:17:00.041Z",
+  "updatedAt": "2026-06-27T18:17:00.041Z",
+  "__v": 0
+}

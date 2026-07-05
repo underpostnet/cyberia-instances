@@ -1,0 +1,19 @@
+{
+  "_id": "6a4456d8b38301b2f28dd1b4",
+  "entityType": "bot",
+  "liveItemIds": [
+    "elara-voss-kalu",
+    "atlas_pistol_mk2"
+  ],
+  "deadItemIds": [
+    "ghost"
+  ],
+  "dropItemIds": [
+    "elara-voss-kalu"
+  ],
+  "defaultObjectLayers": [],
+  "behavior": "hostile",
+  "createdAt": "2026-06-30T23:52:56.704Z",
+  "updatedAt": "2026-06-30T23:52:56.704Z",
+  "__v": 0
+}

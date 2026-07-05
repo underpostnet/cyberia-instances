@@ -1,0 +1,128 @@
+{
+  "_id": "6a4012df8df0fac6c13c20cb",
+  "code": "amethyst-strata-expansion",
+  "name": "The Violet-Flora Strata",
+  "description": "A sudden biological re-coding within the Southern-Verdant-Buffer has introduced an invasive, purple-pigmented phenotype. These humanoid-patterned growths are disrupting the local ecological-registry, forcing the Atlas Confederation to deploy field agents to stabilize the terraforming-layers before the shift becomes permanent.",
+  "tags": [
+    "saga",
+    "generated"
+  ],
+  "status": "unlisted",
+  "thumbnail": "6a4014d6192c16dbcde16557",
+  "cyberiaMapCodes": [
+    "amethyst-foliage-expanse",
+    "sap-logic-array"
+  ],
+  "itemIds": [
+    {
+      "id": "elara-voss-kalu",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532806"
+    },
+    {
+      "id": "jiro-samsara-lin",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532807"
+    },
+    {
+      "id": "spore-suppressor-slugger",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532808"
+    },
+    {
+      "id": "biometric-masking-array",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532809"
+    },
+    {
+      "id": "violet-growth-knot",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280a"
+    },
+    {
+      "id": "purplish-sap-vial",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280b"
+    },
+    {
+      "id": "composite-bark-plating",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280c"
+    },
+    {
+      "id": "coin",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280d"
+    },
+    {
+      "id": "vossen-khyber",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280e"
+    },
+    {
+      "id": "thon-zheng",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a62063453280f"
+    },
+    {
+      "id": "knot-node-terminal",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532810"
+    },
+    {
+      "id": "purplish-sap-vial-extracted",
+      "defaultPlayerInventory": false,
+      "_id": "6a42b42a733a620634532811"
+    }
+  ],
+  "portals": [
+    {
+      "sourceMapCode": "amethyst-foliage-expanse",
+      "sourceCellX": 27,
+      "sourceCellY": 56,
+      "targetMapCode": "sap-logic-array",
+      "targetCellX": 58,
+      "targetCellY": 58,
+      "portalMode": "inter-portal"
+    },
+    {
+      "sourceMapCode": "sap-logic-array",
+      "sourceCellX": 7,
+      "sourceCellY": 18,
+      "targetMapCode": "amethyst-foliage-expanse",
+      "targetCellX": 27,
+      "targetCellY": 56,
+      "portalMode": "inter-portal"
+    },
+    {
+      "sourceMapCode": "amethyst-foliage-expanse",
+      "sourceCellX": 53,
+      "sourceCellY": 5,
+      "targetMapCode": "amethyst-foliage-expanse",
+      "targetCellX": -1,
+      "targetCellY": -1,
+      "portalMode": "intra-random"
+    },
+    {
+      "sourceMapCode": "sap-logic-array",
+      "sourceCellX": 58,
+      "sourceCellY": 58,
+      "targetMapCode": "amethyst-foliage-expanse",
+      "targetCellX": -1,
+      "targetCellY": -1,
+      "portalMode": "inter-random"
+    }
+  ],
+  "playerSpawn": {
+    "sourceMapCode": "sap-logic-array",
+    "sourceCellX": 35,
+    "sourceCellY": 55,
+    "random": false
+  },
+  "seed": "",
+  "topologyMode": "procedural",
+  "conf": "6a4019d98df0fac6c13c2168",
+  "createdAt": "2026-06-27T18:13:51.301Z",
+  "updatedAt": "2026-06-27T18:13:51.301Z",
+  "__v": 0
+}

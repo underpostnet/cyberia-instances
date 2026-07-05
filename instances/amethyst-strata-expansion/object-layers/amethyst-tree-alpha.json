@@ -1,0 +1,34 @@
+{
+  "_id": "6a401802192c16dbcde165ad",
+  "data": {
+    "stats": {
+      "effect": 7,
+      "resistance": 2,
+      "agility": 3,
+      "range": 7,
+      "intelligence": 6,
+      "utility": 10
+    },
+    "item": {
+      "id": "amethyst-tree-alpha",
+      "type": "static",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiclfxypib2lr3dedpnulzxoj6t4xuqsxzskxjpxq4qhremzrbyrju",
+      "metadataCid": "bafkreifbkou65w2jwzftoavbxisojzx6grxlbbio2trgejhi5jhjmpe25a"
+    }
+  },
+  "cid": "bafkreiesffamifvsl6nlyosujfjpnmossblhpiewx7csjta56fzicook2e",
+  "objectLayerRenderFramesId": "6a401800192c16dbcde165aa",
+  "atlasSpriteSheetId": "6a401802192c16dbcde165ac",
+  "sha256": "9b5101a4fc4af3fe62b7ded9968c3416ccad238e6f10fb04fe562fe0e3ad9c34",
+  "createdAt": "2026-06-27T18:35:46.903Z",
+  "updatedAt": "2026-06-27T18:35:46.903Z",
+  "__v": 0
+}

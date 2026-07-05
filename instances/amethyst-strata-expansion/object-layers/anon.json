@@ -1,0 +1,34 @@
+{
+  "_id": "6a4015c23ede25476444e370",
+  "data": {
+    "stats": {
+      "effect": 10,
+      "resistance": 6,
+      "agility": 2,
+      "range": 8,
+      "intelligence": 6,
+      "utility": 7
+    },
+    "item": {
+      "id": "anon",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiccsh4l44k3b5wmypgeqalpdwvvqaxoomelmxheqzbuad4zllz4pi",
+      "metadataCid": "bafkreiaqqg4r7dggju3mc4zfkkepc5mul5m2nrpu2sbyvyagfqpxbe2qwi"
+    }
+  },
+  "cid": "bafkreiafpdnynvrf4mncdcgouzkmp6ioeit52m3mwwukira5fekrsdduve",
+  "objectLayerRenderFramesId": "6a428554f42b617bff84bcc7",
+  "atlasSpriteSheetId": "6a4015c23ede25476444e36e",
+  "sha256": "0578db86d625e31a2188cea654c7f90e2227dd336cb5a8a4441d2915190c74a9",
+  "createdAt": "2026-06-27T18:26:10.684Z",
+  "updatedAt": "2026-06-27T18:26:10.684Z",
+  "__v": 0
+}

@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6a4015d08df0fac6c13c2149",
+    "code": "default-ghost",
+    "order": 0,
+    "speaker": "Ghost",
+    "text": "...",
+    "mood": "neutral",
+    "createdAt": "2026-06-27T18:26:24.447Z",
+    "updatedAt": "2026-06-27T18:26:24.447Z",
+    "__v": 0
+  }
+]

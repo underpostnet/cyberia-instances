@@ -1,0 +1,18 @@
+{
+  "_id": "6a4015cf8df0fac6c13c2136",
+  "triggerItemId": "coin",
+  "logicEventIds": [
+    "coin_drop_or_transaction"
+  ],
+  "skills": [
+    {
+      "logicEventId": "coin_drop_or_transaction",
+      "name": "Coin Drop",
+      "description": "Coins are dropped automatically when an entity is killed. Transfer amount scales with kill percent rules.",
+      "summonedEntityItemId": "coin"
+    }
+  ],
+  "createdAt": "2026-06-27T18:26:23.426Z",
+  "updatedAt": "2026-06-27T18:26:23.426Z",
+  "__v": 0
+}

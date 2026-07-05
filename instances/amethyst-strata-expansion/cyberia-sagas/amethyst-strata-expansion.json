@@ -1,0 +1,74 @@
+{
+  "_id": "6a4023c0821b919c65caccf1",
+  "code": "amethyst-strata-expansion",
+  "name": "The Violet-Flora Strata",
+  "description": "A sudden biological re-coding within the Southern-Verdant-Buffer has introduced an invasive, purple-pigmented phenotype. These humanoid-patterned growths are disrupting the local ecological-registry, forcing the Atlas Confederation to deploy field agents to stabilize the terraforming-layers before the shift becomes permanent.",
+  "mapCodes": [
+    "athel-ferrum-outpost",
+    "verdant-buffer-zone",
+    "amethyst-foliage-expanse",
+    "sap-logic-array",
+    "the-bloom-apex"
+  ],
+  "itemIds": [
+    "elara-voss-kalu",
+    "jiro-samsara-lin",
+    "spore-suppressor-slugger",
+    "biometric-masking-array",
+    "violet-growth-knot",
+    "purplish-sap-vial",
+    "composite-bark-plating",
+    "coin",
+    "vossen-khyber",
+    "thon-zheng",
+    "knot-node-terminal"
+  ],
+  "questCodes": [
+    {
+      "providerSkinItemId": "jiro-samsara-lin",
+      "questCode": "buffer-drift-survey",
+      "_id": "6a403b6b80ab6141ed688404"
+    },
+    {
+      "providerSkinItemId": "vossen-khyber",
+      "questCode": "perimeter-hardening",
+      "_id": "6a403b6b80ab6141ed688405"
+    },
+    {
+      "providerSkinItemId": "thon-zheng",
+      "questCode": "the-bloom-reclamation",
+      "_id": "6a403b6b80ab6141ed688406"
+    },
+    {
+      "providerSkinItemId": "knot-node-terminal",
+      "questCode": "knot-node-neutralization",
+      "_id": "6a403b6b80ab6141ed688407"
+    }
+  ],
+  "actionCodes": [
+    {
+      "providerSkinItemId": "jiro-samsara-lin",
+      "actionCode": "interact-jiro-samsara-lin",
+      "_id": "6a403b6b80ab6141ed688400"
+    },
+    {
+      "providerSkinItemId": "vossen-khyber",
+      "actionCode": "interact-vossen-khyber",
+      "_id": "6a403b6b80ab6141ed688401"
+    },
+    {
+      "providerSkinItemId": "thon-zheng",
+      "actionCode": "interact-thon-zheng",
+      "_id": "6a403b6b80ab6141ed688402"
+    },
+    {
+      "providerSkinItemId": "knot-node-terminal",
+      "actionCode": "interact-knot-node-terminal",
+      "_id": "6a403b6b80ab6141ed688403"
+    }
+  ],
+  "status": "unlisted",
+  "createdAt": "2026-06-27T19:25:52.213Z",
+  "updatedAt": "2026-06-27T19:25:52.213Z",
+  "__v": 0
+}

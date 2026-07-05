@@ -1,0 +1,34 @@
+{
+  "_id": "6a4012df6112c35896109083",
+  "data": {
+    "stats": {
+      "effect": 5,
+      "resistance": 2,
+      "agility": 6,
+      "range": 5,
+      "intelligence": 7,
+      "utility": 4
+    },
+    "item": {
+      "id": "elara-voss-kalu",
+      "type": "skin",
+      "description": "A high-level ecological-registrar with skin stained by violet-spore exposure; she manages the biological records of the buffer-zone.",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreigtip2o3shsyurtd3wtmpa4fdmln7ewukhsrnnkkddcmzv7shmqim",
+      "metadataCid": "bafkreifansvrvqvgqcplpflkegbs4b6cz26cdpkt6dg7gmhoqppy33lmei"
+    }
+  },
+  "cid": "bafkreicyleqa7qbugjjblg2pey6ikjkek5ywayr5km7uy3k4clm5ctxdoi",
+  "objectLayerRenderFramesId": "6a413e2568158a3e6f84163e",
+  "atlasSpriteSheetId": "6a413e2d68158a3e6f841640",
+  "sha256": "da0f2e692600640f3f041e41d6173547917393203c33c42888caaf72afe16c3f",
+  "createdAt": "2026-06-27T18:13:51.375Z",
+  "updatedAt": "2026-06-27T18:13:51.375Z",
+  "__v": 0
+}

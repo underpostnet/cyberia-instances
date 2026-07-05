@@ -1,0 +1,16 @@
+{
+  "_id": "6a4023c0821b919c65caccf2",
+  "code": "athel-ferrum-outpost",
+  "name": "Athel-Ferrum Outpost",
+  "description": "A dense, multicultural settlement serving as the Atlas Confederation's primary monitoring station for the adjacent bio-zones, where commerce and heavy-duty security intersect.",
+  "entities": [],
+  "tags": [],
+  "status": "unlisted",
+  "gridX": 16,
+  "gridY": 16,
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "createdAt": "2026-06-27T19:25:52.235Z",
+  "updatedAt": "2026-06-27T21:06:51.848Z",
+  "__v": 0
+}

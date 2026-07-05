@@ -1,0 +1,29 @@
+{
+  "_id": "6a4012df6112c35896109085",
+  "data": {
+    "stats": {
+      "effect": 6,
+      "resistance": 1,
+      "agility": 3,
+      "range": 7,
+      "intelligence": 2,
+      "utility": 2
+    },
+    "item": {
+      "id": "spore-suppressor-slugger",
+      "type": "weapon",
+      "description": "A pneumatic tool designed to drive off aggressive, mutagen-heavy vegetation with high-pressure bursts.",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {}
+  },
+  "cid": "bafkreiaaj32orje4nl7l5glscusqfxtsbwp4axxosdwljtsszxdljcainy",
+  "sha256": "b4417516fd92d1d4c50786ca92a3465ab5ec602390a58b3aa46894f3956f2f1b",
+  "createdAt": "2026-06-27T18:13:51.386Z",
+  "updatedAt": "2026-06-27T18:13:51.386Z",
+  "__v": 0
+}

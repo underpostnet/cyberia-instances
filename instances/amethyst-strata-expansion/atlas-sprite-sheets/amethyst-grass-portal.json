@@ -1,0 +1,101 @@
+{
+  "_id": "6a42a08daf8795d1b2205c6d",
+  "fileId": "6a42a08daf8795d1b2205c6c",
+  "cid": "bafkreiarkyhhuiinyt6vigjvqtl3a4flj5jxs56dc3gyybovy3woptdwgq",
+  "metadata": {
+    "itemKey": "amethyst-grass-portal",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 400,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        },
+        {
+          "x": 960,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 2
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 1440,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        },
+        {
+          "x": 480,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 2
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 960,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 1440,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        },
+        {
+          "x": 0,
+          "y": 960,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 2
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-06-29T16:42:53.836Z",
+  "updatedAt": "2026-06-29T16:42:53.836Z",
+  "__v": 0
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "6a418d77175934e535d9e59b",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "sap-logic-array-floor",
+      "type": "floor",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreietbgmu5jeylxzw5hnoflcienhewmth3a2amxb4jh3mecmmi7c56a",
+      "metadataCid": "bafkreid5zmrjjpqgwvyqn4c7odehvpows5ozfi72xutas3wpstydp5kjny"
+    }
+  },
+  "cid": "bafkreiay6tu3rzxmjgrmqqf5rrig5wb4q2ghide55wptm7xznd7c4ydqfy",
+  "objectLayerRenderFramesId": "6a418e30175934e535d9e8ec",
+  "atlasSpriteSheetId": "6a418d77175934e535d9e59a",
+  "sha256": "c35d1973064ba026b9af9d4e4beaa532393245dec76123a603c5e5f8c18414af",
+  "createdAt": "2026-06-28T21:09:11.879Z",
+  "updatedAt": "2026-06-28T21:09:11.879Z",
+  "__v": 0
+}

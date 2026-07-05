@@ -1,0 +1,34 @@
+{
+  "_id": "6a418c05175934e535d9def2",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "sap-logic-array-wall-left-beta",
+      "type": "obstacle",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreidurwiukm2ucf3dbv7gpuidz5w2lqweculz6u7gk4bxkcrqkvx4qm",
+      "metadataCid": "bafkreia5zeqje7zqixebpepzn6g56w5ob5uvdoku74jmcxkwt2r6vy6mwa"
+    }
+  },
+  "cid": "bafkreihjauu6eo23f4snpsoh3hur2jje3ofdtirhmlts47hxyznss4tjsa",
+  "objectLayerRenderFramesId": "6a418c04175934e535d9deef",
+  "atlasSpriteSheetId": "6a418c05175934e535d9def1",
+  "sha256": "f02bbbbb0c041e35acfdad1359bbb371b395cee579f0259d8236f23110943768",
+  "createdAt": "2026-06-28T21:03:01.973Z",
+  "updatedAt": "2026-06-28T21:03:01.973Z",
+  "__v": 0
+}

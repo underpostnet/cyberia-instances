@@ -1,0 +1,34 @@
+{
+  "_id": "6a4015883ede25476444e330",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "coin",
+      "type": "coin",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreifrjzvikvvq33d2tqba43oaui3xgcm7faaa6qxxhc6lforx6kov7i",
+      "metadataCid": "bafkreiamkwgikjnj6stgfmipx2y4onpthhmqqkn3cwku3xtoryebjfjc7e"
+    }
+  },
+  "cid": "bafkreifuxxw3333alhavfzwvgtwfv3q7hdlsormdk75yij7e2zg5hwxc3y",
+  "objectLayerRenderFramesId": "6a428518f42b617bff84bca7",
+  "atlasSpriteSheetId": "6a4015883ede25476444e32e",
+  "sha256": "65997d1cdeace6e77b97a29feeeaaba8c8d6cae7a4dcebdce760a9ab6290afda",
+  "createdAt": "2026-06-27T18:25:12.611Z",
+  "updatedAt": "2026-06-27T18:25:12.611Z",
+  "__v": 0
+}

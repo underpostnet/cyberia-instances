@@ -1,0 +1,34 @@
+{
+  "_id": "6a40139c192c16dbcde161c8",
+  "data": {
+    "stats": {
+      "effect": 3,
+      "resistance": 2,
+      "agility": 1,
+      "range": 2,
+      "intelligence": 2,
+      "utility": 1
+    },
+    "item": {
+      "id": "amethyst-grass-beta",
+      "type": "floor",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreidkytqmzxbcn56xge7vtuqqys5dpzrw5cqvvpl3he7fpznno6gnzm",
+      "metadataCid": "bafkreigsya4wn5pu5bk3rff7twardwdb6uez7wwxzcvfmbtetzxgpy32va"
+    }
+  },
+  "cid": "bafkreif3l4o67ca2jg2ujgnyd3grgg4xnqzfta6bxzc3vjldsccgdnvf5y",
+  "objectLayerRenderFramesId": "6a401399192c16dbcde161c5",
+  "atlasSpriteSheetId": "6a40139c192c16dbcde161c7",
+  "sha256": "becd0ff520552e7ed922948a0d320af849108202d1ed01aedab78f7b8b9336c5",
+  "createdAt": "2026-06-27T18:17:00.074Z",
+  "updatedAt": "2026-06-27T18:17:00.074Z",
+  "__v": 0
+}

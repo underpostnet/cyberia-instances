@@ -1,0 +1,16 @@
+{
+  "_id": "6a4023c0821b919c65caccf3",
+  "code": "verdant-buffer-zone",
+  "name": "Verdant Buffer Zone",
+  "description": "A fortified transition corridor where Atlas security forces attempt to regulate the creeping, unprogrammed expansion of the unmapped flora.",
+  "entities": [],
+  "tags": [],
+  "status": "unlisted",
+  "gridX": 16,
+  "gridY": 16,
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "createdAt": "2026-06-27T19:25:52.238Z",
+  "updatedAt": "2026-06-27T21:06:51.852Z",
+  "__v": 0
+}

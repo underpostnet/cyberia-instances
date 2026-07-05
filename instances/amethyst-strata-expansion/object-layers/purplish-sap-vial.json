@@ -1,0 +1,34 @@
+{
+  "_id": "6a4012df6112c35896109088",
+  "data": {
+    "stats": {
+      "effect": 7,
+      "resistance": 0,
+      "agility": 1,
+      "range": 0,
+      "intelligence": 2,
+      "utility": 6
+    },
+    "item": {
+      "id": "purplish-sap-vial",
+      "type": "resource",
+      "description": "A viscous, violet fluid harvested from the rogue biomass, used in improvised biological stabilizers.",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreia3nwp5bx55ag7j672bu5rjhgi4zah7mejbufoywdkri34n5u7ubm",
+      "metadataCid": "bafkreihfhhw3ko5ahdxrzpi2ehazylnaacb4o7jhler37mvbmunc6h2avm"
+    }
+  },
+  "cid": "bafkreiasjssvtbjyqfpavcwmkdh5lmgyjxflxyjict7ocgvqwmrcbrj4za",
+  "objectLayerRenderFramesId": "6a414855175934e535d9cf7b",
+  "atlasSpriteSheetId": "6a4145217eb0d5fb6728f8c0",
+  "sha256": "eaf24156da13a6d9e66c52040fb90a63d4363ba63e58379d29ede73c952ff6b4",
+  "createdAt": "2026-06-27T18:13:51.399Z",
+  "updatedAt": "2026-06-27T18:13:51.399Z",
+  "__v": 0
+}

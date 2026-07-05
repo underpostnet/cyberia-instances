@@ -1,0 +1,16 @@
+{
+  "_id": "6a4023c0821b919c65caccf5",
+  "code": "the-bloom-apex",
+  "name": "The Bloom Apex",
+  "description": "A massive, hyper-accelerated growth site where the physical landscape and the maintenance-layer have merged into a single, unmapped terrain.",
+  "entities": [],
+  "tags": [],
+  "status": "unlisted",
+  "gridX": 16,
+  "gridY": 16,
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "createdAt": "2026-06-27T19:25:52.255Z",
+  "updatedAt": "2026-06-27T21:06:51.869Z",
+  "__v": 0
+}

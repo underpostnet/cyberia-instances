@@ -1,0 +1,80 @@
+{
+  "_id": "6a4145217eb0d5fb6728f8c0",
+  "fileId": "6a414857175934e535d9cf7c",
+  "cid": "bafkreia3nwp5bx55ag7j672bu5rjhgi4zah7mejbufoywdkri34n5u7ubm",
+  "metadata": {
+    "itemKey": "purplish-sap-vial",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 500,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 960,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 1440,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-06-28T16:00:33.073Z",
+  "updatedAt": "2026-06-28T16:00:33.073Z",
+  "__v": 0
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "6a4012df6112c35896109086",
+  "data": {
+    "stats": {
+      "effect": 4,
+      "resistance": 2,
+      "agility": 7,
+      "range": 1,
+      "intelligence": 5,
+      "utility": 8
+    },
+    "item": {
+      "id": "biometric-masking-array",
+      "type": "skill",
+      "description": "A tactical adjustment that mimics the biological signature of the local violet-flora.",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {}
+  },
+  "cid": "bafkreicxdtirc2dqzqitiyxnzyrixef7t4yuriuu6ag447lzfobukogmmu",
+  "sha256": "2488a0a1d39b69cad0b3ae93e73118bca9c300d4d73b53734dbb16712a6c60d8",
+  "createdAt": "2026-06-27T18:13:51.391Z",
+  "updatedAt": "2026-06-27T18:13:51.391Z",
+  "__v": 0
+}

@@ -1,0 +1,677 @@
+{
+  "saga": {
+    "code": "amethyst-strata-expansion",
+    "name": "The Violet-Flora Strata",
+    "description": "A sudden biological re-coding within the Southern-Verdant-Buffer has introduced an invasive, purple-pigmented phenotype. These humanoid-patterned growths are disrupting the local ecological-registry, forcing the Atlas Confederation to deploy field agents to stabilize the terraforming-layers before the shift becomes permanent.",
+    "mapCodes": [
+      "athel-ferrum-outpost",
+      "verdant-buffer-zone",
+      "amethyst-foliage-expanse",
+      "sap-logic-array",
+      "the-bloom-apex"
+    ],
+    "itemIds": [
+      "elara-voss-kalu",
+      "jiro-samsara-lin",
+      "spore-suppressor-slugger",
+      "biometric-masking-array",
+      "violet-growth-knot",
+      "purplish-sap-vial",
+      "composite-bark-plating",
+      "coin",
+      "vossen-khyber",
+      "thon-zheng",
+      "knot-node-terminal"
+    ],
+    "questCodes": [
+      {
+        "providerSkinItemId": "jiro-samsara-lin",
+        "questCode": "buffer-drift-survey"
+      },
+      {
+        "providerSkinItemId": "knot-node-terminal",
+        "questCode": "knot-node-neutralization"
+      },
+      {
+        "providerSkinItemId": "vossen-khyber",
+        "questCode": "perimeter-hardening"
+      },
+      {
+        "providerSkinItemId": "thon-zheng",
+        "questCode": "the-bloom-reclamation"
+      }
+    ],
+    "actionCodes": [
+      {
+        "providerSkinItemId": "jiro-samsara-lin",
+        "actionCode": "interact-jiro-samsara-lin"
+      },
+      {
+        "providerSkinItemId": "vossen-khyber",
+        "actionCode": "interact-vossen-khyber"
+      },
+      {
+        "providerSkinItemId": "thon-zheng",
+        "actionCode": "interact-thon-zheng"
+      },
+      {
+        "providerSkinItemId": "knot-node-terminal",
+        "actionCode": "interact-knot-node-terminal"
+      }
+    ]
+  },
+  "instance": {
+    "code": "amethyst-strata-expansion",
+    "name": "The Violet-Flora Strata",
+    "description": "A sudden biological re-coding within the Southern-Verdant-Buffer has introduced an invasive, purple-pigmented phenotype. These humanoid-patterned growths are disrupting the local ecological-registry, forcing the Atlas Confederation to deploy field agents to stabilize the terraforming-layers before the shift becomes permanent.",
+    "tags": [
+      "saga",
+      "generated"
+    ],
+    "cyberiaMapCodes": [
+      "athel-ferrum-outpost",
+      "verdant-buffer-zone",
+      "amethyst-foliage-expanse",
+      "sap-logic-array",
+      "the-bloom-apex"
+    ],
+    "itemIds": [
+      {
+        "id": "elara-voss-kalu",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "jiro-samsara-lin",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "spore-suppressor-slugger",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "biometric-masking-array",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "violet-growth-knot",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "purplish-sap-vial",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "composite-bark-plating",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "coin",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "vossen-khyber",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "thon-zheng",
+        "defaultPlayerInventory": false
+      },
+      {
+        "id": "knot-node-terminal",
+        "defaultPlayerInventory": false
+      }
+    ],
+    "portals": [],
+    "topologyMode": "procedural"
+  },
+  "maps": [
+    {
+      "code": "athel-ferrum-outpost",
+      "name": "Athel-Ferrum Outpost",
+      "description": "A dense, multicultural settlement serving as the Atlas Confederation's primary monitoring station for the adjacent bio-zones, where commerce and heavy-duty security intersect."
+    },
+    {
+      "code": "verdant-buffer-zone",
+      "name": "Verdant Buffer Zone",
+      "description": "A fortified transition corridor where Atlas security forces attempt to regulate the creeping, unprogrammed expansion of the unmapped flora."
+    },
+    {
+      "code": "amethyst-foliage-expanse",
+      "name": "Amethyst Foliage Expanse",
+      "description": "The deep interior of the forest, characterized by dense, violet-hued growth and the presence of divergent humanoids with chromatic skin shifts."
+    },
+    {
+      "code": "sap-logic-array",
+      "name": "Sap-Logic Array",
+      "description": "A cluster of decommissioned environmental-control hardware where physical biological growth has become inseparable from the underlying utility-infrastructure."
+    },
+    {
+      "code": "the-bloom-apex",
+      "name": "The Bloom Apex",
+      "description": "A massive, hyper-accelerated growth site where the physical landscape and the maintenance-layer have merged into a single, unmapped terrain."
+    }
+  ],
+  "quests": [
+    {
+      "code": "buffer-drift-survey",
+      "title": "The Buffer Drift Survey",
+      "description": "The Verdant Buffer Zone is experiencing heavy biological saturation. The Atlas Confederation requires an immediate audit of the local flora to determine if the Instance-Physical entanglement is stabilizing.",
+      "prerequisiteCodes": [],
+      "unlocksQuestCodes": [
+        "knot-node-neutralization"
+      ],
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "steps": [
+        {
+          "id": "consult-surveyor",
+          "description": "Consult with the sector's lead environmental surveyor.",
+          "objectives": [
+            {
+              "type": "talk",
+              "itemId": "jiro-samsara-lin",
+              "quantity": 1
+            }
+          ]
+        },
+        {
+          "id": "collect-samples",
+          "description": "Gather samples of the anomalous growth for analysis.",
+          "objectives": [
+            {
+              "type": "collect",
+              "itemId": "purplish-sap-vial",
+              "quantity": 3
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "itemId": "coin",
+          "quantity": 50
+        }
+      ]
+    },
+    {
+      "code": "knot-node-neutralization",
+      "title": "Knot-Node Neutralization",
+      "description": "The saturation has coalesced into humanoid-shaped entities. These mutagens are tethering themselves to the physical layer via biological nodes. Neutralize the manifestations to prevent further entanglement.",
+      "prerequisiteCodes": [
+        "buffer-drift-survey"
+      ],
+      "unlocksQuestCodes": [
+        "perimeter-hardening"
+      ],
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "steps": [
+        {
+          "id": "clear-mutagens",
+          "description": "Engage and neutralize the mutated humanoid entities.",
+          "objectives": [
+            {
+              "type": "kill",
+              "itemId": "elara-voss-kalu",
+              "quantity": 5
+            }
+          ]
+        },
+        {
+          "id": "harvest-nodes",
+          "description": "Recover the central growth nodes from the neutralized entities.",
+          "objectives": [
+            {
+              "type": "collect",
+              "itemId": "violet-growth-knot",
+              "quantity": 1
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "itemId": "spore-suppressor-slugger",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "code": "perimeter-hardening",
+      "title": "Perimeter Hardening",
+      "description": "Atlas security is deploying reinforced bark-composite plating to stabilize the boundary. Scavenge the necessary materials from recent combat zones to assist in the deployment.",
+      "prerequisiteCodes": [
+        "knot-node-neutralization"
+      ],
+      "unlocksQuestCodes": [
+        "the-bloom-reclamation"
+      ],
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "steps": [
+        {
+          "id": "scavenge-plating",
+          "description": "Collect discarded plating from the skirmish sites.",
+          "objectives": [
+            {
+              "type": "collect",
+              "itemId": "composite-bark-plating",
+              "quantity": 10
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "itemId": "biometric-masking-array",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "code": "the-bloom-reclamation",
+      "title": "The Bloom Reclamation",
+      "description": "The source of the encroachment is a central anomaly at the Bloom Apex. We must reclaim the core to restore the ecological parameters of the zone.",
+      "prerequisiteCodes": [
+        "perimeter-hardening"
+      ],
+      "unlocksQuestCodes": [],
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "steps": [
+        {
+          "id": "eliminate-apex-entity",
+          "description": "Eliminate the primary mutagenic manifestation at the center of the anomaly.",
+          "objectives": [
+            {
+              "type": "kill",
+              "itemId": "elara-voss-kalu",
+              "quantity": 1
+            }
+          ]
+        }
+      ],
+      "rewards": [
+        {
+          "itemId": "coin",
+          "quantity": 200
+        }
+      ]
+    }
+  ],
+  "dialogues": [
+    {
+      "code": "default-jiro-samsara-lin",
+      "order": 0,
+      "speaker": "Jiro Samsara-Lin",
+      "text": "Surveyor's badge still works, just. If you're here to help the buffer, I can use the extra eyes.",
+      "mood": "weary"
+    },
+    {
+      "code": "default-vossen-khyber",
+      "order": 0,
+      "speaker": "Elara Vossen-Khyber",
+      "text": "The canopy's tint is shifting again. Watch your step near the root-works.",
+      "mood": "concerned"
+    },
+    {
+      "code": "default-thon-zheng",
+      "order": 0,
+      "speaker": "Kaelen Thon-Zheng",
+      "text": "Atlas is watching the borders. Don't get caught in the swell.",
+      "mood": "stern"
+    },
+    {
+      "code": "default-knot-node-terminal",
+      "order": 0,
+      "speaker": "Knot-Node Terminal",
+      "text": "ENV-CONTROL NODE ONLINE. Biological interference detected on junction array. Awaiting suppression directive.",
+      "mood": "mechanical"
+    },
+    {
+      "code": "buffer-drift-survey",
+      "order": 0,
+      "speaker": "Jiro Samsara-Lin",
+      "text": "The arboreal canopy is losing its hue. We need to map the extent of this chromatic drift before the greenery is lost entirely.",
+      "mood": "urgent"
+    },
+    {
+      "code": "quest-talk-buffer-drift-survey",
+      "order": 0,
+      "speaker": "jiro-samsara-lin",
+      "text": "The survey is done. The somatic shift is more widespread than the Atlas edicts suggested. It's not just the leaves; it's the roots themselves.",
+      "mood": "grim"
+    },
+    {
+      "code": "knot-node-neutralization",
+      "order": 0,
+      "speaker": "Aris Thorne-Mbeki",
+      "text": "The violet-skinned ones have anchored themselves to the junction points. They're strangling the flow of the canopy-ways.",
+      "mood": "tense"
+    },
+    {
+      "code": "perimeter-hardening",
+      "order": 0,
+      "speaker": "Solis Val-D'souza",
+      "text": "The encroachment is pushing too close to the settlement. We need to reinforce the biological boundary lines.",
+      "mood": "authoritative"
+    },
+    {
+      "code": "the-bloom-reclamation",
+      "order": 0,
+      "speaker": "Rina Okafor-Voss",
+      "text": "The forest is choking. We have to clear the violet-drifters and restore the original growth patterns.",
+      "mood": "determined"
+    }
+  ],
+  "actions": [
+    {
+      "code": "interact-jiro-samsara-lin",
+      "label": "Jiro Samsara Lin",
+      "dialogCode": "default-jiro-samsara-lin",
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "questDialogueCodes": [
+        {
+          "questCode": "buffer-drift-survey",
+          "dialogCode": "quest-talk-buffer-drift-survey"
+        }
+      ],
+      "shopItems": [
+        {
+          "itemId": "elara-voss-kalu",
+          "priceItemId": "coin",
+          "priceQty": 85
+        }
+      ],
+      "craftRecipes": [],
+      "storageSlots": 4
+    },
+    {
+      "code": "interact-vossen-khyber",
+      "label": "Vossen Khyber",
+      "dialogCode": "default-vossen-khyber",
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "questDialogueCodes": [
+        {
+          "questCode": "perimeter-hardening",
+          "dialogCode": "perimeter-hardening"
+        }
+      ],
+      "shopItems": [
+        {
+          "itemId": "spore-suppressor-slugger",
+          "priceItemId": "coin",
+          "priceQty": 420
+        }
+      ],
+      "craftRecipes": [],
+      "storageSlots": 2
+    },
+    {
+      "code": "interact-thon-zheng",
+      "label": "Thon Zheng",
+      "dialogCode": "default-thon-zheng",
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "questDialogueCodes": [
+        {
+          "questCode": "the-bloom-reclamation",
+          "dialogCode": "the-bloom-reclamation"
+        }
+      ],
+      "shopItems": [],
+      "craftRecipes": [
+        {
+          "outputItems": [
+            {
+              "itemId": "composite-bark-plating",
+              "qty": 1
+            }
+          ],
+          "ingredients": [
+            {
+              "itemId": "violet-growth-knot",
+              "qty": 3
+            },
+            {
+              "itemId": "purplish-sap-vial",
+              "qty": 1
+            }
+          ]
+        }
+      ],
+      "storageSlots": 6
+    },
+    {
+      "code": "interact-knot-node-terminal",
+      "label": "Knot-Node Terminal",
+      "dialogCode": "default-knot-node-terminal",
+      "sourceMapCode": null,
+      "sourceCellX": null,
+      "sourceCellY": null,
+      "questDialogueCodes": [
+        {
+          "questCode": "knot-node-neutralization",
+          "dialogCode": "knot-node-neutralization"
+        }
+      ],
+      "shopItems": [],
+      "craftRecipes": [],
+      "storageSlots": 0
+    }
+  ],
+  "objectLayers": [
+    {
+      "stats": {
+        "effect": 0,
+        "resistance": 3,
+        "agility": 4,
+        "range": 0,
+        "intelligence": 9,
+        "utility": 6
+      },
+      "item": {
+        "id": "elara-voss-kalu",
+        "type": "skin",
+        "description": "A high-level ecological-registrar with skin stained by violet-spore exposure; she manages the biological records of the buffer-zone.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 5,
+        "resistance": 7,
+        "agility": 4,
+        "range": 5,
+        "intelligence": 4,
+        "utility": 3
+      },
+      "item": {
+        "id": "jiro-samsara-lin",
+        "type": "skin",
+        "description": "A veteran Atlas-security-contractor specialized in managing non-compliant botanical-growth.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 6,
+        "resistance": 1,
+        "agility": 3,
+        "range": 7,
+        "intelligence": 2,
+        "utility": 2
+      },
+      "item": {
+        "id": "spore-suppressor-slugger",
+        "type": "weapon",
+        "description": "A pneumatic tool designed to drive off aggressive, mutagen-heavy vegetation with high-pressure bursts.",
+        "activable": true
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 4,
+        "resistance": 2,
+        "agility": 7,
+        "range": 1,
+        "intelligence": 5,
+        "utility": 8
+      },
+      "item": {
+        "id": "biometric-masking-array",
+        "type": "skill",
+        "description": "A tactical adjustment that mimics the biological signature of the local violet-flora.",
+        "activable": true
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 5,
+        "resistance": 8,
+        "agility": 0,
+        "range": 0,
+        "intelligence": 0,
+        "utility": 0
+      },
+      "item": {
+        "id": "violet-growth-knot",
+        "type": "obstacle",
+        "description": "A dense, pulsating mass of purple-pigmented biomass that obstructs navigation through the undergrowth.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 7,
+        "resistance": 0,
+        "agility": 1,
+        "range": 0,
+        "intelligence": 2,
+        "utility": 6
+      },
+      "item": {
+        "id": "purplish-sap-vial",
+        "type": "resource",
+        "description": "A viscous, violet fluid harvested from the rogue biomass, used in improvised biological stabilizers.",
+        "activable": true
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 0,
+        "resistance": 9,
+        "agility": 2,
+        "range": 0,
+        "intelligence": 0,
+        "utility": 3
+      },
+      "item": {
+        "id": "composite-bark-plating",
+        "type": "breastplate",
+        "description": "Protective gear fashioned from the hardened, indigo-hued stems of the local flora.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 0,
+        "resistance": 0,
+        "agility": 0,
+        "range": 0,
+        "intelligence": 0,
+        "utility": 10
+      },
+      "item": {
+        "id": "coin",
+        "type": "coin",
+        "description": "Standard Atlas-sanctioned credit chit accepted across the outpost's vendors and contractors.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 4,
+        "resistance": 6,
+        "agility": 4,
+        "range": 4,
+        "intelligence": 5,
+        "utility": 4
+      },
+      "item": {
+        "id": "vossen-khyber",
+        "type": "skin",
+        "description": "Elara Vossen-Khyber, the Atlas perimeter officer overseeing the reinforcement of the buffer's boundary lines.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 3,
+        "resistance": 5,
+        "agility": 4,
+        "range": 3,
+        "intelligence": 6,
+        "utility": 6
+      },
+      "item": {
+        "id": "thon-zheng",
+        "type": "skin",
+        "description": "Kaelen Thon-Zheng, a border-watch fabricator who barters reclaimed bark-composite gear for salvage.",
+        "activable": false
+      },
+      "render": null
+    },
+    {
+      "stats": {
+        "effect": 0,
+        "resistance": 6,
+        "agility": 0,
+        "range": 0,
+        "intelligence": 8,
+        "utility": 7
+      },
+      "item": {
+        "id": "knot-node-terminal",
+        "type": "skin",
+        "description": "A decommissioned environmental-control terminal at the Sap-Logic Array, now the interface for coordinating node neutralization.",
+        "activable": true
+      },
+      "render": null
+    }
+  ],
+  "skills": [
+    {
+      "triggerItemId": "spore-suppressor-slugger",
+      "logicEventIds": [
+        "projectile"
+      ],
+      "skills": [
+        {
+          "logicEventId": "projectile",
+          "name": "Spore Suppression Volley",
+          "description": "Fires a suppressant projectile in the direction of the tap. Spawn chance and lifetime scale with Intelligence and Range.",
+          "summonedEntityItemId": "biometric-masking-array"
+        }
+      ]
+    }
+  ]
+}

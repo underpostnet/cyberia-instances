@@ -1,0 +1,34 @@
+{
+  "_id": "6a42a08daf8795d1b2205c6e",
+  "data": {
+    "stats": {
+      "effect": 9,
+      "resistance": 2,
+      "agility": 4,
+      "range": 1,
+      "intelligence": 2,
+      "utility": 4
+    },
+    "item": {
+      "id": "amethyst-grass-portal",
+      "type": "portal",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiarkyhhuiinyt6vigjvqtl3a4flj5jxs56dc3gyybovy3woptdwgq",
+      "metadataCid": "bafkreichmtasiz7nb22ikjan3vx5snh56fwxyndop6mlmz2vknr3dqgb7i"
+    }
+  },
+  "cid": "bafkreiavq4eqn6tpai4qooravrqdtpef6bi6cshlvrkklxdqakmqarerey",
+  "objectLayerRenderFramesId": "6a42a08aaf8795d1b2205c6b",
+  "atlasSpriteSheetId": "6a42a08daf8795d1b2205c6d",
+  "sha256": "5e48513bec7494e4c4e60302ff2d6cf8038c28a76d5213ab599234434e119c4f",
+  "createdAt": "2026-06-29T16:42:53.870Z",
+  "updatedAt": "2026-06-29T16:42:53.870Z",
+  "__v": 0
+}

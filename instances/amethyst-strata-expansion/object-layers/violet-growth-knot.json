@@ -1,0 +1,29 @@
+{
+  "_id": "6a4012df6112c35896109087",
+  "data": {
+    "stats": {
+      "effect": 5,
+      "resistance": 8,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "violet-growth-knot",
+      "type": "obstacle",
+      "description": "A dense, pulsating mass of purple-pigmented biomass that obstructs navigation through the undergrowth.",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {}
+  },
+  "cid": "bafkreib72aasna4kpg6s7jmp4dyeeii7mgfyjhpxllyslnu2m3p6np2iye",
+  "sha256": "9de600fcf1bf6379763f5226e11dc76be852aad1f1ec89432458fe14d22cf4b2",
+  "createdAt": "2026-06-27T18:13:51.395Z",
+  "updatedAt": "2026-06-27T18:13:51.395Z",
+  "__v": 0
+}
