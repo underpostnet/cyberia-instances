@@ -51,8 +51,10 @@ RUN set -eux; \
 WORKDIR /home/dd
 
 RUN --mount=type=secret,id=github_username \
+    # --mount=type=secret,id=github_token \
     set -eu; \
     export GITHUB_USERNAME="$(cat /run/secrets/github_username)"; \
+    # export GITHUB_TOKEN="$(cat /run/secrets/github_token)"; \
     export ENGINE_CYBERIA_REPO="engine-cyberia"; \
     export INSTANCE_CODE="amethyst-strata-expansion"; \
     cd /home/dd; \
@@ -61,30 +63,44 @@ RUN --mount=type=secret,id=github_username \
     cp -a ./"$ENGINE_CYBERIA_REPO"/. /home/dd/engine/; \
     rm -rf ./"$ENGINE_CYBERIA_REPO"; \
     cd /home/dd; \
-    underpost clone "$GITHUB_USERNAME/$ENGINE_CYBERIA_REPO"; \
+    underpost clone "$GITHUB_USERNAME/cyberia-instances"; \
     rm -rf /home/dd/engine/engine-private; \
     mkdir -p /home/dd/engine/engine-private/conf/dd-cyberia; \
-    cp -a ./cyberia-instances/conf/. /home/dd/engine/engine-private/conf/dd-cyberia/.; \
+    cp -a ./cyberia-instances/conf/dd-cyberia/. /home/dd/engine/engine-private/conf/dd-cyberia/.; \
     cp -a /home/dd/engine/package.json /home/dd/engine/engine-private/conf/dd-cyberia/package.json; \
     mkdir -p /home/dd/engine/engine-private/cyberia-instances; \
     cp -a ./cyberia-instances/instances/"$INSTANCE_CODE" /home/dd/engine/engine-private/cyberia-instances/"$INSTANCE_CODE"; \
     mkdir -p /home/dd/engine/src/client/public/cyberia; \
     cp -a ./cyberia-instances/public/cyberia/. /home/dd/engine/src/client/public/cyberia/.; \
-    \
+    # The engine gRPC server loads its schema at runtime from
+    # cyberia-server/gen/proto/cyberia.proto (src/grpc/cyberia/grpc-server.js);
+    # fetch just that file so the engine can bind :50051 / :4005 without the
+    # full cyberia-server repo.
+    underpost clone "$GITHUB_USERNAME/cyberia-server"; \
+    mkdir -p /home/dd/engine/cyberia-server/gen/proto; \
+    cp -a ./cyberia-server/gen/proto/cyberia.proto /home/dd/engine/cyberia-server/gen/proto/cyberia.proto; \
+    rm -rf ./cyberia-server; \
+    cd /home/dd/engine; \
     # --- install deps + env, then replay build-safe itc provisioning ----------
     npm install; \
     node bin env dd-cyberia development; \
     ( cd /home/dd/engine/hardhat && npm install --include=dev ); \
     # --- build the client bundle (assets are now in place) --------------------
+    cd /home/dd/engine; \
     node bin client dd-cyberia; \
     # --- CREDENTIAL SCRUB (defense in depth, while secrets are still in scope) -
     # 1) Redact every real secret value from any file it may have reached.
-    for _secret in "$GITHUB_TOKEN" "$CLOUDINARY_API_SECRET" "$CLOUDINARY_API_KEY"; do \
+    # for _secret in "$GITHUB_TOKEN" "$CLOUDINARY_API_SECRET" "$CLOUDINARY_API_KEY"; do \
+    for _secret in "$GITHUB_USERNAME"; do \
+    # for _secret in "$GITHUB_USERNAME" "$GITHUB_TOKEN"; do \
       [ -n "$_secret" ] || continue; \
       grep -rlF --exclude-dir=node_modules --exclude-dir=.git "$_secret" /home/dd/engine 2>/dev/null \
         | xargs -r sed -i "s#${_secret}#__REDACTED__#g" || true; \
     done; \
-    unset GITHUB_TOKEN GITHUB_USERNAME CLOUDINARY_CLOUD_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET; \
+    # unset GITHUB_TOKEN GITHUB_USERNAME; \
+    # unset GITHUB_TOKEN GITHUB_USERNAME CLOUDINARY_CLOUD_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET; \
+    unset GITHUB_USERNAME; \
+
     # 2) Every .git dir — clone URLs embed the token in .git/config, and the
     #    private history itself must not ship.
     find /home/dd/engine -type d -name .git -prune -exec rm -rf {} + 2>/dev/null || true; \
@@ -98,13 +114,13 @@ RUN --mount=type=secret,id=github_username \
     #    runtime server never imports it, so its dev node_modules is pure bloat.
     npm cache clean --force 2>/dev/null || true; \
     rm -rf /home/dd/cyberia-instances \
-    rm -rf /home/dd/engine/src/client/public/itemledger \
-    rm -rf /home/dd/engine/src/client/public/cryptokoyn \
-    rm -rf /home/dd/engine/src/client/components/cryptokoyn \
-    rm -rf /home/dd/engine/src/client/components/itemledger \
-    rm -rf /home/dd/engine/src/client/Itemledger.index.js \
-    rm -rf /home/dd/engine/src/client/Cryptokoyn.index.js \
-    rm -rf /home/dd/engine/hardhat/node_modules \
+           /home/dd/engine/src/client/public/itemledger \
+           /home/dd/engine/src/client/public/cryptokoyn \
+           /home/dd/engine/src/client/components/cryptokoyn \
+           /home/dd/engine/src/client/components/itemledger \
+           /home/dd/engine/src/client/Itemledger.index.js \
+           /home/dd/engine/src/client/Cryptokoyn.index.js \
+           /home/dd/engine/hardhat/node_modules \
            /home/dd/engine/.npm /tmp/* /var/tmp/* /var/cache/dnf
 
 # ---------------------------------------------------------------------------
