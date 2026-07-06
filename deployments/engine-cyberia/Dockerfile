@@ -2,12 +2,6 @@
 #
 # engine-cyberia — PRODUCTION image (underpost/engine-cyberia).
 #
-# Secure multi-stage build. The dd-cyberia deploy is assembled from a PRIVATE
-# GitHub repository at build time, but the published image is PUBLIC, so no
-# credential, token, private-repo VCS metadata, cache, or temp artifact may
-# survive into the final stage. See Dockerfile.dev for the full security
-# rationale — this file is the production counterpart (NODE_ENV=production).
-
 # ---------------------------------------------------------------------------
 # Stage 1 — builder: clone the private deploy, build it, then scrub secrets.
 # ---------------------------------------------------------------------------
@@ -121,7 +115,7 @@ ENV NODE_ENV=production
 # re-download, no git/build toolchain. libstdc++ is the only runtime lib the
 # prebuilt Node binary needs beyond the base image.
 COPY --from=builder /usr/local/ /usr/local/
-RUN dnf install -y libstdc++ git && dnf clean all && rm -rf /var/cache/dnf && \
+RUN dnf install -y libstdc++ git sudo && dnf clean all && rm -rf /var/cache/dnf && \
     useradd --create-home --home-dir /home/dd --shell /usr/sbin/nologin dd && \
     # underpost persists its global env at $(npm root -g)/underpost/.env; the
     # non-root runtime user must be able to write it (fixes EACCES on start).
