@@ -2,7 +2,7 @@
     "type": "module",
     "main": "src/server.js",
     "name": "engine",
-    "version": "3.2.30",
+    "version": "3.2.70",
     "description": "engine server",
     "scripts": {
         "start": "node --max-old-space-size=8192 src/server dd-cyberia"
