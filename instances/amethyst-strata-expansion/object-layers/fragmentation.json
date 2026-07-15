@@ -1,0 +1,34 @@
+{
+  "_id": "6a56b91a9fab49c408b339e2",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 6,
+      "agility": 3,
+      "range": 4,
+      "intelligence": 2,
+      "utility": 10
+    },
+    "item": {
+      "id": "fragmentation",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreihar2f6xtau7g5mi2uicd3v4c67elj5et3zpgafltkuvjh6o7u3mu",
+      "metadataCid": "bafkreigmlmoxnatyhhzkwj6k2d4jhvkdb4du6fhrnqjx3x4kzvzeqndbgq"
+    }
+  },
+  "cid": "bafkreid7ljlkhiwxaezeedyb3hk47bjfbv37vg7gne3ncdzwjz66y7zifa",
+  "objectLayerRenderFramesId": "6a56b91a9fab49c408b339e1",
+  "atlasSpriteSheetId": "6a56b91a9fab49c408b339e0",
+  "sha256": "77c113c25489810271ba69ae45d7d455290842af0fa495c6c1b49468f4930caf",
+  "createdAt": "2026-07-14T22:32:58.866Z",
+  "updatedAt": "2026-07-14T22:32:58.866Z",
+  "__v": 0
+}

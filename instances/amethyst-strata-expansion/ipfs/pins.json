@@ -232,6 +232,30 @@
     ]
   },
   {
+    "cid": "bafkreihar2f6xtau7g5mi2uicd3v4c67elj5et3zpgafltkuvjh6o7u3mu",
+    "resourceType": "atlas-sprite-sheet",
+    "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet.png",
+    "mfsPaths": [
+      "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet.png"
+    ]
+  },
+  {
+    "cid": "bafkreia4nyh6uyfemudvtfxj4w4cess57pd2z6oljtf2pwylphznepygii",
+    "resourceType": "atlas-metadata",
+    "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet_metadata.json",
+    "mfsPaths": [
+      "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet_metadata.json"
+    ]
+  },
+  {
+    "cid": "bafkreidxyej4evejqebhdotjvzc5pvcvfeeeflypusk4nqnusrupjeymv4",
+    "resourceType": "object-layer-data",
+    "mfsPath": "/object-layer/fragmentation/fragmentation_data.json",
+    "mfsPaths": [
+      "/object-layer/fragmentation/fragmentation_data.json"
+    ]
+  },
+  {
     "cid": "bafkreicwc4snls2pj7jduuuixeeezkhtfjq3carbq7bcetgc2m6goz2h2u",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet.png",

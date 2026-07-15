@@ -17,62 +17,72 @@
     {
       "id": "elara-voss-kalu",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532806"
+      "_id": "6a56ca2e11deaede18645584"
     },
     {
       "id": "jiro-samsara-lin",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532807"
+      "_id": "6a56ca2e11deaede18645585"
     },
     {
       "id": "spore-suppressor-slugger",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532808"
+      "_id": "6a56ca2e11deaede18645586"
     },
     {
       "id": "biometric-masking-array",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532809"
+      "_id": "6a56ca2e11deaede18645587"
     },
     {
       "id": "violet-growth-knot",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280a"
+      "_id": "6a56ca2e11deaede18645588"
     },
     {
       "id": "purplish-sap-vial",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280b"
+      "_id": "6a56ca2e11deaede18645589"
     },
     {
       "id": "composite-bark-plating",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280c"
+      "_id": "6a56ca2e11deaede1864558a"
     },
     {
       "id": "coin",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280d"
+      "_id": "6a56ca2e11deaede1864558b"
     },
     {
       "id": "vossen-khyber",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280e"
+      "_id": "6a56ca2e11deaede1864558c"
     },
     {
       "id": "thon-zheng",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a62063453280f"
+      "_id": "6a56ca2e11deaede1864558d"
     },
     {
       "id": "knot-node-terminal",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532810"
+      "_id": "6a56ca2e11deaede1864558e"
     },
     {
       "id": "purplish-sap-vial-extracted",
       "defaultPlayerInventory": false,
-      "_id": "6a42b42a733a620634532811"
+      "_id": "6a56ca2e11deaede1864558f"
+    },
+    {
+      "id": "atlas_pistol_mk2_bullet",
+      "defaultPlayerInventory": false,
+      "_id": "6a56ca2e11deaede18645590"
+    },
+    {
+      "id": "atlas_pistol_mk2",
+      "defaultPlayerInventory": false,
+      "_id": "6a56ca2e11deaede18645591"
     }
   ],
   "portals": [
@@ -123,6 +133,6 @@
   "topologyMode": "procedural",
   "conf": "6a4019d98df0fac6c13c2168",
   "createdAt": "2026-06-27T18:13:51.301Z",
-  "updatedAt": "2026-06-27T18:13:51.301Z",
+  "updatedAt": "2026-07-14T23:45:50.214Z",
   "__v": 0
 }

@@ -35,8 +35,13 @@
   "entityDefaults": [
     {
       "entityType": "player",
-      "liveItemIds": ["anon", "atlas_pistol_mk2"],
-      "deadItemIds": ["ghost"],
+      "liveItemIds": [
+        "anon",
+        "atlas_pistol_mk2"
+      ],
+      "deadItemIds": [
+        "ghost"
+      ],
       "dropItemIds": [],
       "defaultObjectLayers": [
         {
@@ -64,8 +69,13 @@
     },
     {
       "entityType": "other_player",
-      "liveItemIds": ["anon", "atlas_pistol_mk2"],
-      "deadItemIds": ["ghost"],
+      "liveItemIds": [
+        "anon",
+        "atlas_pistol_mk2"
+      ],
+      "deadItemIds": [
+        "ghost"
+      ],
       "dropItemIds": [],
       "defaultObjectLayers": [
         {
@@ -93,8 +103,12 @@
     },
     {
       "entityType": "bot",
-      "liveItemIds": ["purple"],
-      "deadItemIds": ["ghost"],
+      "liveItemIds": [
+        "purple"
+      ],
+      "deadItemIds": [
+        "ghost"
+      ],
       "dropItemIds": [],
       "defaultObjectLayers": [
         {
@@ -112,7 +126,9 @@
     },
     {
       "entityType": "skill",
-      "liveItemIds": ["atlas_pistol_mk2_bullet"],
+      "liveItemIds": [
+        "atlas_pistol_mk2_bullet"
+      ],
       "deadItemIds": [],
       "dropItemIds": [],
       "defaultObjectLayers": [
@@ -126,7 +142,9 @@
     },
     {
       "entityType": "coin",
-      "liveItemIds": ["coin"],
+      "liveItemIds": [
+        "coin"
+      ],
       "deadItemIds": [],
       "dropItemIds": [],
       "defaultObjectLayers": [
@@ -140,7 +158,9 @@
     },
     {
       "entityType": "floor",
-      "liveItemIds": ["grass"],
+      "liveItemIds": [
+        "grass"
+      ],
       "deadItemIds": [],
       "dropItemIds": [],
       "defaultObjectLayers": [],
@@ -180,17 +200,29 @@
     },
     {
       "entityType": "resource",
-      "liveItemIds": ["wood-1"],
-      "deadItemIds": ["wood-extracted-1"],
-      "dropItemIds": ["wood-drop-1"],
+      "liveItemIds": [
+        "wood-1"
+      ],
+      "deadItemIds": [
+        "wood-extracted-1"
+      ],
+      "dropItemIds": [
+        "wood-drop-1"
+      ],
       "defaultObjectLayers": [],
       "behavior": ""
     },
     {
       "entityType": "resource",
-      "liveItemIds": ["wood-2"],
-      "deadItemIds": ["wood-extracted-2"],
-      "dropItemIds": ["wood-drop-2"],
+      "liveItemIds": [
+        "wood-2"
+      ],
+      "deadItemIds": [
+        "wood-extracted-2"
+      ],
+      "dropItemIds": [
+        "wood-drop-2"
+      ],
       "defaultObjectLayers": [],
       "behavior": ""
     }
@@ -250,15 +282,21 @@
   "skillConfig": [
     {
       "triggerItemId": "atlas_pistol_mk2",
-      "logicEventIds": ["projectile"]
+      "logicEventIds": [
+        "projectile"
+      ]
     },
     {
       "triggerItemId": "coin",
-      "logicEventIds": ["coin_drop_or_transaction"]
+      "logicEventIds": [
+        "coin_drop_or_transaction"
+      ]
     },
     {
       "triggerItemId": "hatchet",
-      "logicEventIds": ["projectile"]
+      "logicEventIds": [
+        "projectile"
+      ]
     }
   ],
   "skillRules": {
@@ -273,11 +311,15 @@
     "doppelgangerInitialLifeFraction": 1
   },
   "equipmentRules": {
-    "activeItemTypes": ["skin", "breastplate", "weapon"],
+    "activeItemTypes": [
+      "skin",
+      "breastplate",
+      "weapon"
+    ],
     "onePerType": true,
     "requireSkin": true
   },
   "createdAt": "2026-06-27T18:43:37.568Z",
-  "updatedAt": "2026-06-27T18:43:37.568Z",
+  "updatedAt": "2026-07-14T23:45:50.276Z",
   "__v": 0
 }
