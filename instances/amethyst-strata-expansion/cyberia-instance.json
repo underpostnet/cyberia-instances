@@ -3,16 +3,10 @@
   "code": "amethyst-strata-expansion",
   "name": "The Violet-Flora Strata",
   "description": "A sudden biological re-coding within the Southern-Verdant-Buffer has introduced an invasive, purple-pigmented phenotype. These humanoid-patterned growths are disrupting the local ecological-registry, forcing the Atlas Confederation to deploy field agents to stabilize the terraforming-layers before the shift becomes permanent.",
-  "tags": [
-    "saga",
-    "generated"
-  ],
+  "tags": ["saga", "generated"],
   "status": "unlisted",
   "thumbnail": "6a4014d6192c16dbcde16557",
-  "cyberiaMapCodes": [
-    "amethyst-foliage-expanse",
-    "sap-logic-array"
-  ],
+  "cyberiaMapCodes": ["amethyst-foliage-expanse", "sap-logic-array"],
   "itemIds": [
     {
       "id": "elara-voss-kalu",
@@ -81,7 +75,7 @@
     },
     {
       "id": "atlas_pistol_mk2",
-      "defaultPlayerInventory": false,
+      "defaultPlayerInventory": true,
       "_id": "6a56ca2e11deaede18645591"
     }
   ],
