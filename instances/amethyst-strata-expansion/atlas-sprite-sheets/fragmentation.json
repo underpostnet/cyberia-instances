@@ -9,6 +9,7 @@
     "cellPixelDim": 20,
     "frame_duration": 250,
     "frames": {
+      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
@@ -88,6 +89,12 @@
           "frameIndex": 10
         }
       ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
       "default_idle": [
         {
           "x": 1500,
@@ -167,6 +174,14 @@
           "frameIndex": 10
         }
       ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
       "none_idle": [
         {
           "x": 3000,
@@ -245,22 +260,7 @@
           "height": 500,
           "frameIndex": 10
         }
-      ],
-      "up_idle": [],
-      "right_idle": [],
-      "left_idle": [],
-      "up_right_idle": [],
-      "down_right_idle": [],
-      "up_left_idle": [],
-      "down_left_idle": [],
-      "up_walking": [],
-      "down_walking": [],
-      "right_walking": [],
-      "left_walking": [],
-      "up_right_walking": [],
-      "down_right_walking": [],
-      "up_left_walking": [],
-      "down_left_walking": []
+      ]
     }
   },
   "createdAt": "2026-07-14T22:32:58.699Z",

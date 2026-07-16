@@ -240,7 +240,7 @@
     ]
   },
   {
-    "cid": "bafkreia4nyh6uyfemudvtfxj4w4cess57pd2z6oljtf2pwylphznepygii",
+    "cid": "bafkreigmlmoxnatyhhzkwj6k2d4jhvkdb4du6fhrnqjx3x4kzvzeqndbgq",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet_metadata.json",
     "mfsPaths": [
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "cid": "bafkreidxyej4evejqebhdotjvzc5pvcvfeeeflypusk4nqnusrupjeymv4",
+    "cid": "bafkreid7ljlkhiwxaezeedyb3hk47bjfbv37vg7gne3ncdzwjz66y7zifa",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/fragmentation/fragmentation_data.json",
     "mfsPaths": [
