@@ -14,6 +14,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -30,6 +31,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -46,6 +48,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -62,6 +65,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -78,6 +82,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -94,6 +99,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -110,6 +116,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -126,6 +133,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -142,6 +150,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -158,6 +167,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -174,6 +184,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -190,6 +201,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -206,6 +218,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -222,6 +235,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -238,6 +252,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -254,6 +269,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -270,6 +286,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -286,6 +303,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -302,6 +320,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -318,6 +337,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -334,6 +354,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -350,6 +371,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -366,6 +388,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -382,6 +405,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -398,6 +422,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -414,6 +439,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -430,6 +456,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -446,6 +473,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -462,6 +490,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -478,6 +507,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -494,6 +524,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -510,6 +541,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -526,6 +558,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -542,6 +575,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -558,6 +592,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -574,6 +609,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -590,6 +626,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -606,6 +643,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -622,6 +660,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -638,6 +677,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -654,6 +694,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -670,6 +711,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -686,6 +728,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -702,6 +745,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -718,6 +762,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -734,6 +779,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -750,6 +796,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -766,6 +813,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -782,6 +830,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -798,6 +847,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -814,6 +864,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -830,6 +881,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -846,6 +898,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -862,6 +915,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -878,6 +932,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -894,6 +949,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -910,6 +966,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -926,6 +983,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -942,6 +1000,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -958,6 +1017,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -974,6 +1034,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -990,6 +1051,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1006,6 +1068,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1022,6 +1085,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1038,6 +1102,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1054,6 +1119,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1070,6 +1136,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1086,6 +1153,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1102,6 +1170,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1118,6 +1187,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1134,6 +1204,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1150,6 +1221,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1166,6 +1238,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1182,6 +1255,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1198,6 +1272,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1214,6 +1289,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1230,6 +1306,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1246,6 +1323,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1262,6 +1340,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1278,6 +1357,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1294,6 +1374,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1310,6 +1391,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1326,6 +1408,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1342,6 +1425,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1358,6 +1442,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1374,6 +1459,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1390,6 +1476,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1406,6 +1493,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1422,6 +1510,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1438,6 +1527,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1454,6 +1544,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1470,6 +1561,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1486,6 +1578,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1502,6 +1595,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1518,6 +1612,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1534,6 +1629,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1550,6 +1646,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1566,6 +1663,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1582,6 +1680,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1598,6 +1697,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1614,6 +1714,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1630,6 +1731,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1646,6 +1748,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1662,6 +1765,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1678,6 +1782,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1694,6 +1799,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1710,6 +1816,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1726,6 +1833,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1742,6 +1850,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1758,6 +1867,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1774,6 +1884,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1790,6 +1901,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1806,6 +1918,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1822,6 +1935,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1838,6 +1952,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1854,6 +1969,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1870,6 +1986,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1886,6 +2003,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1902,6 +2020,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1918,6 +2037,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1934,6 +2054,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1950,6 +2071,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1966,6 +2088,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1982,6 +2105,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -1998,6 +2122,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2014,6 +2139,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2030,6 +2156,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2046,6 +2173,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2062,6 +2190,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2078,6 +2207,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2094,6 +2224,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2110,6 +2241,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2126,6 +2258,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2142,6 +2275,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2158,6 +2292,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2174,6 +2309,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2190,6 +2326,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2206,6 +2343,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2222,6 +2360,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2238,6 +2377,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2254,6 +2394,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2270,6 +2411,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2286,6 +2428,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2302,6 +2445,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2318,6 +2462,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2334,6 +2479,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2350,6 +2496,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2366,6 +2513,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2382,6 +2530,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2398,6 +2547,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2414,6 +2564,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2430,6 +2581,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2446,6 +2598,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2462,6 +2615,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2478,6 +2632,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2494,6 +2649,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2510,6 +2666,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2526,6 +2683,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2542,6 +2700,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2558,6 +2717,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2574,6 +2734,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2590,6 +2751,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2606,6 +2768,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2622,6 +2785,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2638,6 +2802,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2654,6 +2819,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-beta"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2670,6 +2836,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2686,6 +2853,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2702,6 +2870,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2718,6 +2887,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2734,6 +2904,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2750,6 +2921,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2766,6 +2938,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2782,6 +2955,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2798,6 +2972,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2814,6 +2989,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2830,6 +3006,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2846,6 +3023,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2862,6 +3040,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2878,6 +3057,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2894,6 +3074,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2910,6 +3091,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2926,6 +3108,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2942,6 +3125,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2958,6 +3142,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2974,6 +3159,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -2990,6 +3176,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3006,6 +3193,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3022,6 +3210,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3038,6 +3227,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3054,6 +3244,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3070,6 +3261,7 @@
       "objectLayerItemIds": [
         "amethyst-tree-alpha"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3086,6 +3278,7 @@
       "objectLayerItemIds": [
         "jiro-samsara-lin"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3103,6 +3296,7 @@
         "elara-voss-kalu",
         "atlas_pistol_mk2"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3120,6 +3314,7 @@
         "elara-voss-kalu",
         "atlas_pistol_mk2"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3136,6 +3331,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3152,6 +3348,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3168,6 +3365,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3184,6 +3382,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3200,6 +3399,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3216,6 +3416,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3232,6 +3433,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3248,6 +3450,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3264,6 +3467,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3280,6 +3484,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3296,6 +3501,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3312,6 +3518,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3328,6 +3535,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3344,6 +3552,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3360,6 +3569,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3376,6 +3586,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3392,6 +3603,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3408,6 +3620,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3424,6 +3637,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3440,6 +3654,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3456,6 +3671,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3472,6 +3688,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3488,6 +3705,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3504,6 +3722,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3520,6 +3739,7 @@
       "objectLayerItemIds": [
         "elara-voss-kalu"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3536,6 +3756,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3552,6 +3773,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3568,6 +3790,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3584,6 +3807,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3600,6 +3824,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3616,6 +3841,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3632,6 +3858,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3648,6 +3875,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3664,6 +3892,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3680,6 +3909,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3696,6 +3926,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3712,6 +3943,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3728,6 +3960,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3744,6 +3977,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3760,6 +3994,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3776,6 +4011,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3792,6 +4028,7 @@
       "objectLayerItemIds": [
         "purplish-sap-vial"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3808,6 +4045,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-portal"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3824,6 +4062,7 @@
       "objectLayerItemIds": [
         "amethyst-grass-portal"
       ],
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
@@ -3838,12 +4077,12 @@
   ],
   "status": "published",
   "thumbnail": "6a582afb3baaebb06d3d29b7",
+  "preview": "6a582afc3baaebb06d3d29b8",
   "gridX": 64,
   "gridY": 64,
   "cellWidth": 32,
   "cellHeight": 32,
   "createdAt": "2026-06-27T18:13:51.314Z",
-  "updatedAt": "2026-07-16T00:51:08.074Z",
-  "__v": 0,
-  "preview": "6a582afc3baaebb06d3d29b8"
+  "updatedAt": "2026-06-27T18:13:51.314Z",
+  "__v": 0
 }

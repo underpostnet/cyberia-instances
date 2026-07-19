@@ -1,0 +1,29 @@
+{
+  "_id": "6a5c162a2e1dbf5a3a3087ba",
+  "sourceMapCode": "amethyst-foliage-expanse",
+  "sourceCellX": 20,
+  "sourceCellY": 48,
+  "code": "interact-jiro-samsara-lin",
+  "label": "Jiro Samsara Lin",
+  "dialogCode": "default-jiro-samsara-lin",
+  "questDialogueCodes": [
+    {
+      "questCode": "buffer-drift-survey",
+      "dialogCode": "quest-talk-buffer-drift-survey",
+      "_id": "6a5c16aac86fa6bafd4e4bd5"
+    }
+  ],
+  "shopItems": [
+    {
+      "itemId": "elara-voss-kalu",
+      "priceItemId": "coin",
+      "priceQty": 85,
+      "_id": "6a5c162a35d4e57a36f1d57d"
+    }
+  ],
+  "craftRecipes": [],
+  "storageSlots": 4,
+  "createdAt": "2026-07-19T00:11:22.875Z",
+  "updatedAt": "2026-07-19T00:11:22.875Z",
+  "__v": 0
+}
