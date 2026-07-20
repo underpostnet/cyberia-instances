@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-2",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreifllfhwfpxf2q5zjx3pq3evjexyeqx67s3a4dzhq67gait2uqgml4",
+      "metadataCid": "bafkreic6m64i7w66by5st6ehrjfvnjin5vxejzsfdlhk4xegpbbizlpc7m"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 500
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

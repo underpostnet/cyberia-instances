@@ -1,0 +1,101 @@
+{
+  "_id": "69e9551f5c639cfaa8d89a48",
+  "fileId": "69eb87adec349738c647144f",
+  "cid": "bafkreibqmzdxhyijrvlavybeh475altj2az5ka36ah6xrewky3mkx3xs44",
+  "metadata": {
+    "itemKey": "ssatellite",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 1000,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 1500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 0,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 1000,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 0,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-22T23:09:19.697Z",
+  "updatedAt": "2026-07-20T19:29:44.264Z",
+  "__v": 0
+}

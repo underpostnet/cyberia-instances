@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 2,
+      "resistance": 0,
+      "agility": 5,
+      "range": 10,
+      "intelligence": 6,
+      "utility": 10
+    },
+    "item": {
+      "id": "atlas_pistol_mk2",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreig3bw5g3hi6y2ubbuxvpbcvoed7geutuiwr76srxggswpm4v5fdha",
+      "metadataCid": "bafkreifr4lfgp7q7qfnytlobyqcpl2va6p74fpk4bhpl77u4uxetm526vy"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

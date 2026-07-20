@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "kishins",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 7,
+      "resistance": 4,
+      "agility": 10,
+      "range": 5,
+      "intelligence": 9,
+      "utility": 9
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

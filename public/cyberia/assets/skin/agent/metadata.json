@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "agent",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 5,
+      "resistance": 4,
+      "agility": 6,
+      "range": 2,
+      "intelligence": 0,
+      "utility": 1
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

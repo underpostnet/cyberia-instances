@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 5,
+      "resistance": 3,
+      "agility": 7,
+      "range": 0,
+      "intelligence": 3,
+      "utility": 5
+    },
+    "item": {
+      "id": "atlas_pistol_mk2_bullet",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreih7pciroahkqbcgr5fcr4dg2bnv256dc2e6662j5l7f7ut7q5s46m",
+      "metadataCid": "bafkreifp3a2tbpqwfrjkp5634ykbmrlnelzfxhoebz3l7qcm2gpvjsts2m"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

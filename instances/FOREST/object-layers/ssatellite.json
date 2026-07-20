@@ -1,0 +1,34 @@
+{
+  "_id": "69e9551f5c639cfaa8d89a49",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "ssatellite",
+      "type": "foreground",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreibqmzdxhyijrvlavybeh475altj2az5ka36ah6xrewky3mkx3xs44",
+      "metadataCid": "bafkreih55wusf3yhlulu3loc4gb7ss35raui7itrx6ohfpkcysuvxkysta"
+    }
+  },
+  "cid": "bafkreifse3ndmnyig43ecz54lmdlorut3ibn5rjscy5vicddgeb3dx23ly",
+  "objectLayerRenderFramesId": "69eb87aaec349738c647144e",
+  "atlasSpriteSheetId": "69e9551f5c639cfaa8d89a48",
+  "sha256": "5374210fcdb74c54d13050ac84af7d1680ec6ba2135ba1d44da3486490fd63be",
+  "createdAt": "2026-04-22T23:09:19.727Z",
+  "updatedAt": "2026-07-20T19:29:44.645Z",
+  "__v": 0
+}

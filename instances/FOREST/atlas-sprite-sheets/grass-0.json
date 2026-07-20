@@ -1,0 +1,59 @@
+{
+  "_id": "69e77e7d5e56cc1b4f51000e",
+  "fileId": "69e77fa85e56cc1b4f510205",
+  "cid": "bafkreigbhdug6yok5rbkuj63lv3rctzpzp4ymkrm2hv5ntomtvqqphlh2e",
+  "metadata": {
+    "itemKey": "grass-0",
+    "atlasWidth": 1024,
+    "atlasHeight": 1024,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-21T13:41:17.557Z",
+  "updatedAt": "2026-07-20T19:29:42.780Z",
+  "__v": 0
+}

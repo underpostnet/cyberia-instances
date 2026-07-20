@@ -1,0 +1,59 @@
+{
+  "_id": "69e8ae58853cd147846eea43",
+  "fileId": "69e8ae58853cd147846eea42",
+  "cid": "bafkreid7xtr2nmmayd2ahqfmmx4vj6cp2yzjixqjhait7akyxae5pqadua",
+  "metadata": {
+    "itemKey": "wood-drop-2",
+    "atlasWidth": 1024,
+    "atlasHeight": 1024,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-22T11:17:44.898Z",
+  "updatedAt": "2026-07-20T19:29:49.150Z",
+  "__v": 0
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "alex",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 8,
+      "resistance": 5,
+      "agility": 3,
+      "range": 6,
+      "intelligence": 3,
+      "utility": 4
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

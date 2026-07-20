@@ -1,0 +1,34 @@
+{
+  "_id": "69ebe480ce99d89029d67be1",
+  "data": {
+    "stats": {
+      "effect": 4,
+      "resistance": 5,
+      "agility": 5,
+      "range": 2,
+      "intelligence": 10,
+      "utility": 10
+    },
+    "item": {
+      "id": "gp2",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreicmq322rt6w5zkyxjxfbybnjeobwtnmf3sdzo2ijnmms32drzn4ku",
+      "metadataCid": "bafkreicxndp5hlzgrjlamfoo3icjaotphju2hfqqhi2fh4edwzpjdxjpoy"
+    }
+  },
+  "cid": "bafkreids5honl3b44arxuw7tesgsvx36sa6vux7qdprrxpy5bm7k6iilde",
+  "objectLayerRenderFramesId": "69ebeff860b244b96d5224fa",
+  "atlasSpriteSheetId": "69ebf00360b244b96d5224fc",
+  "sha256": "d697dd048b09f7c0a6fa7e4126d0fe772bf97fad7c3c653129253987265772b4",
+  "createdAt": "2026-04-24T21:45:36.694Z",
+  "updatedAt": "2026-07-20T19:29:42.685Z",
+  "__v": 0
+}

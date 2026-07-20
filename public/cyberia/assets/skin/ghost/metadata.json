@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 1,
+      "resistance": 0,
+      "agility": 3,
+      "range": 0,
+      "intelligence": 8,
+      "utility": 8
+    },
+    "item": {
+      "id": "ghost",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreicwc4snls2pj7jduuuixeeezkhtfjq3carbq7bcetgc2m6goz2h2u",
+      "metadataCid": "bafkreibahtt267uwd2epyqhflrlpeah7c3ldgyjw6n5uhlmvvpqhxl5a7e"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

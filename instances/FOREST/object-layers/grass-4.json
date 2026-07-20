@@ -1,0 +1,34 @@
+{
+  "_id": "69e78fdc5e56cc1b4f512126",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "grass-4",
+      "type": "floor",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreie2a7marpk5mmcmjlfdjtbqlydnrffu775jopsjlsiilpuiiscidu",
+      "metadataCid": "bafkreifoozv5eenu7gnkgrngtj65ybi6si3r6oa4slfu4o4f4nlxgonyxm"
+    }
+  },
+  "cid": "bafkreiabg2fgbvyies4dhrvv2sxy7asnftviwnc5lqdwssdnizlhzhw4yq",
+  "objectLayerRenderFramesId": "69e78fda5e56cc1b4f512123",
+  "atlasSpriteSheetId": "69e78fdc5e56cc1b4f512125",
+  "sha256": "df727822cca6c58bb4422b46e51ffad85da74c475de6d9f84ceece305f072ae4",
+  "createdAt": "2026-04-21T14:55:24.391Z",
+  "updatedAt": "2026-07-20T19:29:43.360Z",
+  "__v": 0
+}

@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "kaneki",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 2,
+      "resistance": 7,
+      "agility": 9,
+      "range": 4,
+      "intelligence": 0,
+      "utility": 10
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-drop-1",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreie6ufkd7kfjc3cvxmx2h33bds3y6dqyzd2c5qeyegi3ptdciirspa",
+      "metadataCid": "bafkreieny3ef6lzaesnzuagjk4khci2usvol77ug4p7isl3rb6c3dpwk3e"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 500
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

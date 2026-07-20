@@ -1,0 +1,34 @@
+{
+  "_id": "69e91a3e1c7d01218075eb7b",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "stone-2",
+      "type": "obstacle",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreidopuwbwcfdk6f33lu2d3cllpiim34xynwnsglicu3eclswubc7bm",
+      "metadataCid": "bafkreiehoexiu3mmw23vi5aaqxcsvzzaqs4hkdcd5taz6te2amefh5itc4"
+    }
+  },
+  "cid": "bafkreihw6cvhlzhf4uyql7eufcie6fh2hb7wy7q3o3avtcb7ak76uxilfa",
+  "objectLayerRenderFramesId": "69e91a3c1c7d01218075eb78",
+  "atlasSpriteSheetId": "69e91a3e1c7d01218075eb7a",
+  "sha256": "1c4dd3b8bb9af63dd9c3df291a3eb7c7e877b42f40cd187973561100492fba6e",
+  "createdAt": "2026-04-22T18:58:06.345Z",
+  "updatedAt": "2026-07-20T19:29:46.753Z",
+  "__v": 0
+}

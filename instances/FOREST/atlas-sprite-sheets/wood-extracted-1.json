@@ -1,0 +1,59 @@
+{
+  "_id": "69e89ba0c4f3358ab235963d",
+  "fileId": "69e89ba0c4f3358ab235963c",
+  "cid": "bafkreie7p42pcbnmfjmyg7srdszdj6wuif4akrqywsmol6b5dnrhpxptwq",
+  "metadata": {
+    "itemKey": "wood-extracted-1",
+    "atlasWidth": 1024,
+    "atlasHeight": 1024,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-22T09:57:52.712Z",
+  "updatedAt": "2026-07-20T19:29:49.198Z",
+  "__v": 0
+}

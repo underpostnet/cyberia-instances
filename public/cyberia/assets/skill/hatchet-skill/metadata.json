@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "hatchet-skill",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 0,
+      "resistance": 5,
+      "agility": 6,
+      "range": 2,
+      "intelligence": 2,
+      "utility": 10
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

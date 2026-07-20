@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-extracted-2",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreigbedcssddfem43ns6x56matddyq4cj3hyqp53aq7pbiol3yzocxi",
+      "metadataCid": "bafkreiesxv2dlm252indg5scysrwazi4eqx6zoorqtvt6jm37tyxgfs6xy"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 500
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

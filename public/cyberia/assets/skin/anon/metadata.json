@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 10,
+      "resistance": 6,
+      "agility": 2,
+      "range": 8,
+      "intelligence": 6,
+      "utility": 7
+    },
+    "item": {
+      "id": "anon",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiccsh4l44k3b5wmypgeqalpdwvvqaxoomelmxheqzbuad4zllz4pi",
+      "metadataCid": "bafkreidntrgdmw5fsxjnav3uhfemen66clqjafsfwuxalzhapkef4rnppe"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

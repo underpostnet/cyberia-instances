@@ -38,7 +38,7 @@ RUN --mount=type=secret,id=github_username \
     export GITHUB_USERNAME="$(cat /run/secrets/github_username)"; \
     # export GITHUB_TOKEN="$(cat /run/secrets/github_token)"; \
     export ENGINE_CYBERIA_REPO="engine-cyberia"; \
-    export INSTANCE_CODE="amethyst-strata-expansion"; \
+    export INSTANCE_CODES="amethyst-strata-expansion,FOREST"; \
     cd /home/dd; \
     underpost clone "$GITHUB_USERNAME/$ENGINE_CYBERIA_REPO"; \
     mkdir -p /home/dd/engine; \
@@ -51,7 +51,9 @@ RUN --mount=type=secret,id=github_username \
     cp -a ./cyberia-instances/conf/dd-cyberia/. /home/dd/engine/engine-private/conf/dd-cyberia/.; \
     cp -a /home/dd/engine/package.json /home/dd/engine/engine-private/conf/dd-cyberia/package.json; \
     mkdir -p /home/dd/engine/engine-private/cyberia-instances; \
-    cp -a ./cyberia-instances/instances/"$INSTANCE_CODE" /home/dd/engine/engine-private/cyberia-instances/"$INSTANCE_CODE"; \
+    for _ic in $(echo "$INSTANCE_CODES" | tr ',' ' '); do \
+      cp -a ./cyberia-instances/instances/"$_ic" /home/dd/engine/engine-private/cyberia-instances/"$_ic"; \
+    done; \
     mkdir -p /home/dd/engine/src/client/public/cyberia; \
     cp -a ./cyberia-instances/public/cyberia/. /home/dd/engine/src/client/public/cyberia/.; \
     # The engine gRPC server loads its schema at runtime from

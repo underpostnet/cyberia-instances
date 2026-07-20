@@ -1,0 +1,31 @@
+{
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 9,
+      "agility": 3,
+      "range": 2,
+      "intelligence": 10,
+      "utility": 0
+    },
+    "item": {
+      "id": "purple",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreigtip2o3shsyurtd3wtmpa4fdmln7ewukhsrnnkkddcmzv7shmqim",
+      "metadataCid": "bafkreieworqe6rgi7ognriy5ggq6tx3fxhhfhuoresnewnfp63siiyxaku"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

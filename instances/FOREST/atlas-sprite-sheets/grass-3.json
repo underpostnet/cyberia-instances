@@ -1,0 +1,80 @@
+{
+  "_id": "69e78e565e56cc1b4f5119c3",
+  "fileId": "69e78e6f5e56cc1b4f5119c6",
+  "cid": "bafkreidhoo5kuxzquroioiuxde2g73ed6jh2h6g7ilpwwbl5eglqishh2q",
+  "metadata": {
+    "itemKey": "grass-3",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 960,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 1440,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-21T14:48:54.313Z",
+  "updatedAt": "2026-07-20T19:29:42.900Z",
+  "__v": 0
+}

@@ -1,0 +1,80 @@
+{
+  "_id": "69e91a3e1c7d01218075eb7a",
+  "fileId": "69e91a3e1c7d01218075eb79",
+  "cid": "bafkreidopuwbwcfdk6f33lu2d3cllpiim34xynwnsglicu3eclswubc7bm",
+  "metadata": {
+    "itemKey": "stone-2",
+    "atlasWidth": 2048,
+    "atlasHeight": 2048,
+    "cellPixelDim": 20,
+    "frame_duration": 100,
+    "frames": {
+      "up_idle": [],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
+      "default_idle": [
+        {
+          "x": 960,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 1440,
+          "y": 0,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 0
+        },
+        {
+          "x": 480,
+          "y": 480,
+          "width": 480,
+          "height": 480,
+          "frameIndex": 1
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-04-22T18:58:06.308Z",
+  "updatedAt": "2026-07-20T19:29:46.469Z",
+  "__v": 0
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "6a428562fad4aceeacd9e683",
+  "entityType": "floor",
+  "liveItemIds": [
+    "grass"
+  ],
+  "deadItemIds": [],
+  "dropItemIds": [],
+  "defaultObjectLayers": [],
+  "createdAt": "2026-06-29T14:46:58.692Z",
+  "updatedAt": "2026-06-29T14:46:58.692Z",
+  "__v": 0
+}

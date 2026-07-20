@@ -1,0 +1,34 @@
+{
+  "_id": "69ea64a8ce40cc9c82944aab",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "portal",
+      "type": "portal",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreig7owyspeqjiyabscqhdhb2gyqickui5zwiiifz5zkkcoz4z7i7qi",
+      "metadataCid": "bafkreigai6qxsdwuo5syuapr62eryjdskkpwnmsnxjhe6d5w67iuplkfla"
+    }
+  },
+  "cid": "bafkreie2miarbia635oci4xlzi2vboevkjyb3y5kt527lrazizvcicxqpq",
+  "objectLayerRenderFramesId": "69eb6347b567ee8137243e95",
+  "atlasSpriteSheetId": "69ea64a8ce40cc9c82944aaa",
+  "sha256": "f55b38e19e6d274f165b907209adb1812c0a098ec11db0cf0f24699f332e272c",
+  "createdAt": "2026-04-23T18:27:52.883Z",
+  "updatedAt": "2026-07-20T19:29:43.462Z",
+  "__v": 0
+}

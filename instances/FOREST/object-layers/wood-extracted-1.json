@@ -1,0 +1,34 @@
+{
+  "_id": "69e89ba0c4f3358ab235963e",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-extracted-1",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreie7p42pcbnmfjmyg7srdszdj6wuif4akrqywsmol6b5dnrhpxptwq",
+      "metadataCid": "bafkreia6p2xpckyssyeaqol2gbczx7wkjgypi6ahwnn7m2gxi5mxbofcmq"
+    }
+  },
+  "cid": "bafkreihmzdaztgtzchg57e5vqhk5s5coxawxbhz57ossencjpxxavepkuu",
+  "objectLayerRenderFramesId": "69e89b9fc4f3358ab235963b",
+  "atlasSpriteSheetId": "69e89ba0c4f3358ab235963d",
+  "sha256": "5b31e9c37f26f55f53c10240bb8cd55469bae84a6302914105196199b9d5a3bb",
+  "createdAt": "2026-04-22T09:57:52.750Z",
+  "updatedAt": "2026-07-20T19:29:49.274Z",
+  "__v": 0
+}

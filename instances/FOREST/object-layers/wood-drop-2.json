@@ -1,0 +1,34 @@
+{
+  "_id": "69e8ae58853cd147846eea44",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-drop-2",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreid7xtr2nmmayd2ahqfmmx4vj6cp2yzjixqjhait7akyxae5pqadua",
+      "metadataCid": "bafkreihakxd3fuj5qkljn4xvoxx4gmr2ficwx3l5u322cw4bidu3ejdmly"
+    }
+  },
+  "cid": "bafkreigbvu672y2bbcs43oclewafr3ivzlocq4mkfu72malzpgradljicm",
+  "objectLayerRenderFramesId": "69e8ae57853cd147846eea41",
+  "atlasSpriteSheetId": "69e8ae58853cd147846eea43",
+  "sha256": "b242ff6400982f13989511efeba2a372c7defa763e9a87130bc90e0072355523",
+  "createdAt": "2026-04-22T11:17:44.936Z",
+  "updatedAt": "2026-07-20T19:29:49.179Z",
+  "__v": 0
+}

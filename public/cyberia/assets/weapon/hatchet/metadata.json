@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "hatchet",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 6,
+      "resistance": 6,
+      "agility": 6,
+      "range": 2,
+      "intelligence": 2,
+      "utility": 8
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}

@@ -1,0 +1,34 @@
+{
+  "_id": "69e7d61e254d50a346509d2f",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "item": {
+      "id": "wood-1",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreihkhwh2xm4trsf2mtgxgdqrcpxq4welrxymqj4q6hkz5ojbts7hw4",
+      "metadataCid": "bafkreifo5kogtgqwyvqg4svipaypgph7ht4fh53mxxyq4heve6xszhhd2m"
+    }
+  },
+  "cid": "bafkreigjeg264wd4igg4ja4bov2xibpitsnxjwgjupjbgn4sadbslaxucy",
+  "objectLayerRenderFramesId": "69e7d61c254d50a346509d2c",
+  "atlasSpriteSheetId": "69e7d61e254d50a346509d2e",
+  "sha256": "fe18d6022fdc853b8cc1e4a2879b4189f71b3ab9e7709d2a85f4c9881f34616e",
+  "createdAt": "2026-04-21T19:55:10.994Z",
+  "updatedAt": "2026-07-20T19:29:47.369Z",
+  "__v": 0
+}

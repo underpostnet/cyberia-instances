@@ -1,0 +1,26 @@
+{
+  "data": {
+    "item": {
+      "id": "junko",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "stats": {
+      "effect": 4,
+      "resistance": 1,
+      "agility": 8,
+      "range": 6,
+      "intelligence": 8,
+      "utility": 3
+    },
+    "ledger": {
+      "type": "OFF_CHAIN"
+    }
+  },
+  "objectLayerRenderFramesData": {
+    "frame_duration": 250
+  },
+  "generated": true,
+  "generatorVersion": "1.0.0"
+}
