@@ -1,11 +1,5 @@
 {
   "data": {
-    "item": {
-      "id": "fragmentation",
-      "type": "skin",
-      "description": "",
-      "activable": true
-    },
     "stats": {
       "effect": 0,
       "resistance": 6,
@@ -14,8 +8,19 @@
       "intelligence": 2,
       "utility": 10
     },
+    "item": {
+      "id": "fragmentation",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
     "ledger": {
-      "type": "OFF_CHAIN"
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreihar2f6xtau7g5mi2uicd3v4c67elj5et3zpgafltkuvjh6o7u3mu",
+      "metadataCid": "bafkreigmlmoxnatyhhzkwj6k2d4jhvkdb4du6fhrnqjx3x4kzvzeqndbgq"
     }
   },
   "objectLayerRenderFramesData": {
