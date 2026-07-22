@@ -117,7 +117,8 @@
     "multiInstance": {
       "stripPathPrefix": true,
       "env": {
-        "INSTANCE_CODE": "{{code}}"
+        "INSTANCE_CODE": "{{code}}",
+        "CYBERIA_BASE_PATH": "{{path}}"
       },
       "default": "amethyst-strata-expansion",
       "variants": [
