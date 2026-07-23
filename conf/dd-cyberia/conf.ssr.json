@@ -62,6 +62,13 @@
         "client": "Test",
         "head": [],
         "body": []
+      },
+      {
+        "path": "/404",
+        "title": "404 Instance Not Found",
+        "client": "Cyberia404",
+        "head": [],
+        "body": []
       }
     ]
   },
