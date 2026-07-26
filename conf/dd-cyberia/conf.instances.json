@@ -138,7 +138,13 @@
           "path": "/TEST"
         }
       ]
-    }
+    },
+    "customStatusPages": [
+      {
+        "status": "404",
+        "hostPath": "./public/404/index.html"
+      }
+    ]
   },
   {
     "id": "mmo-client",
@@ -288,6 +294,12 @@
           "path": "/TEST"
         }
       ]
-    }
+    },
+    "customStatusPages": [
+      {
+        "status": "404",
+        "hostPath": "./assets/404/index.html"
+      }
+    ]
   }
 ]
