@@ -115,7 +115,6 @@
       }
     ],
     "multiInstance": {
-      "stripPathPrefix": true,
       "variants": [
         "/",
         "/FOREST",
@@ -245,7 +244,6 @@
       }
     ],
     "multiInstance": {
-      "stripPathPrefix": false,
       "variants": [
         "/",
         "/FOREST",
