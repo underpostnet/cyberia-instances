@@ -116,27 +116,10 @@
     ],
     "multiInstance": {
       "stripPathPrefix": true,
-      "env": {
-        "INSTANCE_CODE": "{{code}}",
-        "CYBERIA_BASE_PATH": "{{path}}"
-      },
-      "default": "amethyst-strata-expansion",
       "variants": [
-        {
-          "code": "amethyst-strata-expansion",
-          "slug": "",
-          "path": "/"
-        },
-        {
-          "code": "FOREST",
-          "slug": "forest",
-          "path": "/FOREST"
-        },
-        {
-          "code": "TEST",
-          "slug": "test",
-          "path": "/TEST"
-        }
+        "/",
+        "/FOREST",
+        "/TEST"
       ]
     },
     "customStatusPages": [
@@ -263,36 +246,10 @@
     ],
     "multiInstance": {
       "stripPathPrefix": false,
-      "env": {
-        "CYBERIA_INSTANCE_CODE": "{{code}}",
-        "CYBERIA_DEFAULT_INSTANCE": "{{default}}",
-        "CYBERIA_BASE_PATH": "{{path}}",
-        "CYBERIA_WS_ORIGIN": {
-          "development": "ws://localhost:8081",
-          "production": "wss://server.cyberiaonline.com"
-        },
-        "CYBERIA_ENGINE_API_ORIGIN": {
-          "development": "http://localhost:4005",
-          "production": "https://www.cyberiaonline.com"
-        }
-      },
-      "default": "amethyst-strata-expansion",
       "variants": [
-        {
-          "code": "amethyst-strata-expansion",
-          "slug": "",
-          "path": "/"
-        },
-        {
-          "code": "FOREST",
-          "slug": "forest",
-          "path": "/FOREST"
-        },
-        {
-          "code": "TEST",
-          "slug": "test",
-          "path": "/TEST"
-        }
+        "/",
+        "/FOREST",
+        "/TEST"
       ]
     },
     "customStatusPages": [
