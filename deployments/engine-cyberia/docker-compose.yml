@@ -4,36 +4,6 @@
 # (MongoDB + Valkey + IPFS), then the Cyberia content-authority engine and its
 # per-instance server/client tiers, fronted by an nginx reverse proxy.
 #
-# Canonical location (custom docker-compose workflow):
-#   engine-private/conf/dd-cyberia/docker-compose/cyberia/
-#     ├── docker-compose.yml     (this file — the ENTIRE stack, single source)
-#     ├── compose.env            (working env-file, used as-is — not generated)
-#     ├── nginx.conf             (custom per-variant sub-path routing)
-#     └── mongodb/entrypoint.sh  (replica-set bootstrap)
-# All bind mounts below are relative to this directory: the CLI runs compose with
-# `--project-directory` pinned here (see src/cli/docker-compose.js).
-#
-# Multi-instance: one engine-cyberia (content + asset authority) feeds three
-# cyberia-server + three cyberia-client tiers, one per conf.instances.json
-# multiInstance variant (amethyst-strata-expansion "/", FOREST "/FOREST",
-# TEST "/TEST"). This custom workflow owns nginx.conf and the services below;
-# keep both in sync when its instance topology changes.
-#
-# Startup is a strict health-gated chain: the stable gateway starts after the
-# engine, then each server/client pipeline advances independently:
-#   mongodb + valkey -> engine runtime -> proxy -> 3x server -> 3x client
-#
-# Architecture boundaries (see CLAUDE.md "Cyberia architecture boundaries"):
-#   engine-cyberia  — content, validation, persistence, gRPC(:50051)+REST(:4005)
-#                     data services, asset metadata. The authority layer.
-#   cyberia-server  — authoritative real-time simulation / tick processing (Go).
-#   cyberia-client  — rendering, input, prediction, presentation (WASM bundle).
-#
-# Usage:
-#   underpost docker-compose --up --deploy-id dd-cyberia --docker-compose-id cyberia
-#   (or the docker:cyberia:* npm scripts). The engine-cyberia image bakes the
-#   dd-cyberia build at image-build time, so no private-repo credentials are
-#   required at container start.
 
 name: dd-cyberia
 
@@ -165,7 +135,7 @@ services:
   # server starts but rejects connections until seeded). Serves REST/WS on 4005
   # and the engine gRPC data service on 50051.
   engine-cyberia-runtime:
-    image: ${ENGINE_CYBERIA_IMAGE:-underpost/engine-cyberia-dev}:${ENGINE_CYBERIA_TAG:-v3.2.80}
+    image: ${ENGINE_CYBERIA_IMAGE:-underpost/engine-cyberia-dev}:${ENGINE_CYBERIA_TAG:-v3.2.90}
     container_name: dd-cyberia-engine
     command:
       - /bin/sh
@@ -220,7 +190,7 @@ services:
   # gateway on host port 8081, so one port can route every instance path.
 
   cyberia-server-runtime:
-    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.80}
+    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.90}
     container_name: dd-cyberia-server
     environment:
       INSTANCE_CODE: amethyst-strata-expansion
@@ -232,6 +202,14 @@ services:
       STATIC_DIR: ${CYBERIA_SERVER_STATIC_DIR:-/home/dd/engine/cyberia-server/public}
       APP_ENV: ${CYBERIA_SERVER_APP_ENV:-development}
       LOG_LEVEL: ${CYBERIA_SERVER_LOG_LEVEL:-}
+      CYBERIA_DISABLE_CONNECTION_LIMITS: ${CYBERIA_DISABLE_CONNECTION_LIMITS:-}
+      CYBERIA_MAX_CONNECTIONS: ${CYBERIA_MAX_CONNECTIONS:-}
+      CYBERIA_MAX_CONNECTIONS_PER_IP: ${CYBERIA_MAX_CONNECTIONS_PER_IP:-}
+      CYBERIA_CONNECT_RATE_PER_IP: ${CYBERIA_CONNECT_RATE_PER_IP:-}
+      CYBERIA_CONNECT_BURST_PER_IP: ${CYBERIA_CONNECT_BURST_PER_IP:-}
+      CYBERIA_MESSAGE_RATE: ${CYBERIA_MESSAGE_RATE:-}
+      CYBERIA_MESSAGE_BURST: ${CYBERIA_MESSAGE_BURST:-}
+      CYBERIA_MAX_STRIKES: ${CYBERIA_MAX_STRIKES:-}
     networks:
       - dd-cyberia-internal
     expose:
@@ -248,7 +226,7 @@ services:
     restart: unless-stopped
 
   cyberia-server-forest:
-    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.80}
+    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.90}
     container_name: dd-cyberia-server-forest
     environment:
       INSTANCE_CODE: FOREST
@@ -260,6 +238,14 @@ services:
       STATIC_DIR: ${CYBERIA_SERVER_STATIC_DIR:-/home/dd/engine/cyberia-server/public}
       APP_ENV: ${CYBERIA_SERVER_APP_ENV:-development}
       LOG_LEVEL: ${CYBERIA_SERVER_LOG_LEVEL:-}
+      CYBERIA_DISABLE_CONNECTION_LIMITS: ${CYBERIA_DISABLE_CONNECTION_LIMITS:-}
+      CYBERIA_MAX_CONNECTIONS: ${CYBERIA_MAX_CONNECTIONS:-}
+      CYBERIA_MAX_CONNECTIONS_PER_IP: ${CYBERIA_MAX_CONNECTIONS_PER_IP:-}
+      CYBERIA_CONNECT_RATE_PER_IP: ${CYBERIA_CONNECT_RATE_PER_IP:-}
+      CYBERIA_CONNECT_BURST_PER_IP: ${CYBERIA_CONNECT_BURST_PER_IP:-}
+      CYBERIA_MESSAGE_RATE: ${CYBERIA_MESSAGE_RATE:-}
+      CYBERIA_MESSAGE_BURST: ${CYBERIA_MESSAGE_BURST:-}
+      CYBERIA_MAX_STRIKES: ${CYBERIA_MAX_STRIKES:-}
     networks:
       - dd-cyberia-internal
     expose:
@@ -276,7 +262,7 @@ services:
     restart: unless-stopped
 
   cyberia-server-test:
-    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.80}
+    image: ${CYBERIA_SERVER_IMAGE:-underpost/cyberia-server-dev}:${CYBERIA_SERVER_TAG:-v3.2.90}
     container_name: dd-cyberia-server-test
     environment:
       INSTANCE_CODE: TEST
@@ -288,6 +274,14 @@ services:
       STATIC_DIR: ${CYBERIA_SERVER_STATIC_DIR:-/home/dd/engine/cyberia-server/public}
       APP_ENV: ${CYBERIA_SERVER_APP_ENV:-development}
       LOG_LEVEL: ${CYBERIA_SERVER_LOG_LEVEL:-}
+      CYBERIA_DISABLE_CONNECTION_LIMITS: ${CYBERIA_DISABLE_CONNECTION_LIMITS:-}
+      CYBERIA_MAX_CONNECTIONS: ${CYBERIA_MAX_CONNECTIONS:-}
+      CYBERIA_MAX_CONNECTIONS_PER_IP: ${CYBERIA_MAX_CONNECTIONS_PER_IP:-}
+      CYBERIA_CONNECT_RATE_PER_IP: ${CYBERIA_CONNECT_RATE_PER_IP:-}
+      CYBERIA_CONNECT_BURST_PER_IP: ${CYBERIA_CONNECT_BURST_PER_IP:-}
+      CYBERIA_MESSAGE_RATE: ${CYBERIA_MESSAGE_RATE:-}
+      CYBERIA_MESSAGE_BURST: ${CYBERIA_MESSAGE_BURST:-}
+      CYBERIA_MAX_STRIKES: ${CYBERIA_MAX_STRIKES:-}
     networks:
       - dd-cyberia-internal
     expose:
@@ -315,7 +309,7 @@ services:
   #   cyberia-server-test   -> cyberia-client-test
 
   cyberia-client-runtime:
-    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.80}
+    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.90}
     container_name: dd-cyberia-client
     environment:
       CYBERIA_PORT: '8081'
@@ -340,7 +334,7 @@ services:
     restart: unless-stopped
 
   cyberia-client-forest:
-    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.80}
+    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.90}
     container_name: dd-cyberia-client-forest
     environment:
       CYBERIA_PORT: '8081'
@@ -365,7 +359,7 @@ services:
     restart: unless-stopped
 
   cyberia-client-test:
-    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.80}
+    image: ${CYBERIA_CLIENT_IMAGE:-underpost/cyberia-client-dev}:${CYBERIA_CLIENT_TAG:-v3.2.90}
     container_name: dd-cyberia-client-test
     environment:
       CYBERIA_PORT: '8081'
