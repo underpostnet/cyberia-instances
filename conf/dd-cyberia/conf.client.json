@@ -253,6 +253,7 @@
                 "InstanceEngineCyberia",
                 "ActionEngineCyberia",
                 "EntityEngineCyberia",
+                "FallbackWorldEngineCyberia",
                 "InstanceSelectionView"
             ],
             "core": [
@@ -404,6 +405,11 @@
             },
             {
                 "path": "/cyberia-entity-engine",
+                "client": "CyberiaPortal",
+                "ssr": "CyberiaPortal"
+            },
+            {
+                "path": "/fallback-world-engine",
                 "client": "CyberiaPortal",
                 "ssr": "CyberiaPortal"
             },
