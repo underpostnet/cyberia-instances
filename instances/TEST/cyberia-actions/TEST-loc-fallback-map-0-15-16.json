@@ -1,0 +1,96 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2c7",
+  "code": "TEST-loc-fallback-map-0-15-16",
+  "__v": 0,
+  "craftRecipes": [
+    {
+      "outputItems": [
+        {
+          "itemId": "hatchet",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c42"
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood-drop-1",
+          "qty": 2,
+          "_id": "6a8fd26901edebf032f93c43"
+        },
+        {
+          "itemId": "coin",
+          "qty": 5,
+          "_id": "6a8fd26901edebf032f93c44"
+        }
+      ],
+      "craftTimeMs": 3000,
+      "_id": "6a8fd26901edebf032f93c41"
+    },
+    {
+      "outputItems": [
+        {
+          "itemId": "tim-knife",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c46"
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "wood-drop-2",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c47"
+        },
+        {
+          "itemId": "wood-drop-1",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c48"
+        },
+        {
+          "itemId": "coin",
+          "qty": 10,
+          "_id": "6a8fd26901edebf032f93c49"
+        }
+      ],
+      "craftTimeMs": 5000,
+      "_id": "6a8fd26901edebf032f93c45"
+    },
+    {
+      "outputItems": [
+        {
+          "itemId": "wood-drop-1",
+          "qty": 2,
+          "_id": "6a8fd26901edebf032f93c4b"
+        },
+        {
+          "itemId": "wood-drop-2",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c4c"
+        },
+        {
+          "itemId": "coin",
+          "qty": 5,
+          "_id": "6a8fd26901edebf032f93c4d"
+        }
+      ],
+      "ingredients": [
+        {
+          "itemId": "tim-knife",
+          "qty": 1,
+          "_id": "6a8fd26901edebf032f93c4e"
+        }
+      ],
+      "craftTimeMs": 2000,
+      "_id": "6a8fd26901edebf032f93c4a"
+    }
+  ],
+  "createdAt": "2026-08-27T05:52:34.345Z",
+  "dialogCode": "default-eiri",
+  "label": "Eiri",
+  "questDialogueCodes": [],
+  "shopItems": [],
+  "sourceCellX": 15,
+  "sourceCellY": 16,
+  "sourceMapCode": "TEST-map-0",
+  "storageSlots": 0,
+  "updatedAt": "2026-08-27T06:00:09.005Z"
+}

@@ -1,0 +1,431 @@
+{
+  "_id": "6a8fca92d1e1a48e3f29f81c",
+  "fileId": "6a8fccef4f6f544a74082ee3",
+  "cid": "bafkreiauucjckvyexqieaubsslu6nmyyhedba64rkbzsifquplhfrbtj2y",
+  "metadata": {
+    "itemKey": "tim-knife",
+    "atlasWidth": 4096,
+    "atlasHeight": 4096,
+    "cellPixelDim": 20,
+    "frame_duration": 250,
+    "frames": {
+      "up_idle": [
+        {
+          "x": 1320,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "right_idle": [
+        {
+          "x": 0,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "left_idle": [
+        {
+          "x": 2640,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 0,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_right_idle": [
+        {
+          "x": 1320,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_right_idle": [
+        {
+          "x": 2640,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_left_idle": [
+        {
+          "x": 0,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_left_idle": [
+        {
+          "x": 1320,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "default_idle": [
+        {
+          "x": 1320,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_walking": [
+        {
+          "x": 0,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_walking": [
+        {
+          "x": 2640,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 1000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "right_walking": [
+        {
+          "x": 2640,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "left_walking": [
+        {
+          "x": 1320,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 1500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_right_walking": [
+        {
+          "x": 0,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_right_walking": [
+        {
+          "x": 1320,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1760,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 2200,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "up_left_walking": [
+        {
+          "x": 2640,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "down_left_walking": [
+        {
+          "x": 0,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 440,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 880,
+          "y": 2000,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 2640,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3080,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 1
+        },
+        {
+          "x": 3520,
+          "y": 2500,
+          "width": 440,
+          "height": 500,
+          "frameIndex": 2
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-08-27T05:26:42.737Z",
+  "updatedAt": "2026-08-27T05:36:47.924Z",
+  "__v": 0
+}

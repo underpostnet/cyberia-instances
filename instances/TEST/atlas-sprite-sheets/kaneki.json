@@ -1,0 +1,235 @@
+{
+  "_id": "6a8fcae8d1e1a48e3f29f83c",
+  "fileId": "6a8fcd104f6f544a74082ef3",
+  "cid": "bafkreihocjzmqzud4chnspjl7x7asqkr3frsx3ev7epqkktaw7ocoqots4",
+  "metadata": {
+    "itemKey": "kaneki",
+    "atlasWidth": 4096,
+    "atlasHeight": 4096,
+    "cellPixelDim": 20,
+    "frame_duration": 250,
+    "frames": {
+      "up_idle": [
+        {
+          "x": 500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "down_idle": [
+        {
+          "x": 0,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "right_idle": [
+        {
+          "x": 1500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "left_idle": [
+        {
+          "x": 1000,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "up_right_idle": [
+        {
+          "x": 3500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "down_right_idle": [
+        {
+          "x": 2500,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "up_left_idle": [
+        {
+          "x": 3000,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "down_left_idle": [
+        {
+          "x": 2000,
+          "y": 0,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "default_idle": [
+        {
+          "x": 0,
+          "y": 1500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ],
+      "up_walking": [
+        {
+          "x": 1000,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "down_walking": [
+        {
+          "x": 0,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "right_walking": [
+        {
+          "x": 3000,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "left_walking": [
+        {
+          "x": 2000,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 2500,
+          "y": 500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "up_right_walking": [
+        {
+          "x": 3000,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 3500,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "down_right_walking": [
+        {
+          "x": 1000,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 1500,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "up_left_walking": [
+        {
+          "x": 2000,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 2500,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "down_left_walking": [
+        {
+          "x": 0,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        },
+        {
+          "x": 500,
+          "y": 1000,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 1
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 500,
+          "y": 1500,
+          "width": 500,
+          "height": 500,
+          "frameIndex": 0
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-08-27T05:28:08.674Z",
+  "updatedAt": "2026-08-27T05:37:20.140Z",
+  "__v": 0
+}

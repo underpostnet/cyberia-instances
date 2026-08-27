@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcad1d1e1a48e3f29f822",
+  "data": {
+    "stats": {
+      "effect": 8,
+      "resistance": 6,
+      "agility": 6,
+      "range": 4,
+      "intelligence": 1,
+      "utility": 3
+    },
+    "item": {
+      "id": "hatchet",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreieel5f4ipltthckx4sb4ifngofro7sksfn3zcccwtcgnyr4etzuny",
+      "metadataCid": "bafkreib2dmfnxwil62exwewu2f3okzhuhm2bnym4sim3m6y4m2gsnyylz4"
+    }
+  },
+  "cid": "bafkreifwvarujwrqjcgx7fmu6naqot6u2iwvz64ivewzfdhhik7prkue6a",
+  "objectLayerRenderFramesId": "6a8fccf34f6f544a74082ee6",
+  "atlasSpriteSheetId": "6a8fcabfd1e1a48e3f29f820",
+  "sha256": "b6a82344da30488d7f9594f341074fd4d22d5cfb88a92d928ce742bef8aa84f0",
+  "createdAt": "2026-08-27T05:27:45.653Z",
+  "updatedAt": "2026-08-27T05:36:51.241Z",
+  "__v": 0
+}

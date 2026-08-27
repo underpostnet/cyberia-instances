@@ -1,0 +1,49 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2ce",
+  "code": "TEST-lain-demo-timber-run",
+  "__v": 0,
+  "createdAt": "2026-08-27T05:52:34.367Z",
+  "description": "The camp stockpile is low. Bring back fresh wood.",
+  "prerequisiteCodes": [],
+  "rewards": [
+    {
+      "itemId": "coin",
+      "quantity": 15,
+      "_id": "6a8fd26901edebf032f93c8f"
+    }
+  ],
+  "sourceCellX": 15,
+  "sourceCellY": 22,
+  "sourceMapCode": "TEST-map-0",
+  "steps": [
+    {
+      "id": "step-collect-wood",
+      "description": "Gather 2 pieces of wood.",
+      "objectives": [
+        {
+          "type": "collect",
+          "itemId": "wood-drop-1",
+          "quantity": 2,
+          "_id": "6a8fd26901edebf032f93c91"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c90"
+    },
+    {
+      "id": "step-return-lain",
+      "description": "Deliver the wood to Lain.",
+      "objectives": [
+        {
+          "type": "talk",
+          "itemId": "lain",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93c93"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c92"
+    }
+  ],
+  "title": "Timber Run",
+  "unlocksQuestCodes": [],
+  "updatedAt": "2026-08-27T06:00:09.029Z"
+}

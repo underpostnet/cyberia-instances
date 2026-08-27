@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcaded1e1a48e3f29f832",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 9,
+      "agility": 3,
+      "range": 2,
+      "intelligence": 10,
+      "utility": 0
+    },
+    "item": {
+      "id": "purple",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreigtip2o3shsyurtd3wtmpa4fdmln7ewukhsrnnkkddcmzv7shmqim",
+      "metadataCid": "bafkreieworqe6rgi7ognriy5ggq6tx3fxhhfhuoresnewnfp63siiyxaku"
+    }
+  },
+  "cid": "bafkreid4nyxybdyxmsaaapthlipowjp4u7pxjt45mojwh7tvbv2wzvujb4",
+  "objectLayerRenderFramesId": "69e65640e798c035b503a314",
+  "atlasSpriteSheetId": "69c906d0178523f2652d36b9",
+  "sha256": "7c6e2f808f176480003e675a1eeb25fca7df74cf9d639363fe750d756cd6890f",
+  "createdAt": "2026-08-27T05:27:58.942Z",
+  "updatedAt": "2026-08-27T05:38:17.843Z",
+  "__v": 0
+}

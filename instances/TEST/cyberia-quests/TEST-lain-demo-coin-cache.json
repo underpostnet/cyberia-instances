@@ -1,0 +1,36 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2cd",
+  "code": "TEST-lain-demo-coin-cache",
+  "__v": 0,
+  "createdAt": "2026-08-27T05:52:34.364Z",
+  "description": "Lain is short on change. Round up some loose coins.",
+  "prerequisiteCodes": [],
+  "rewards": [
+    {
+      "itemId": "coin",
+      "quantity": 10,
+      "_id": "6a8fd26901edebf032f93c89"
+    }
+  ],
+  "sourceCellX": 15,
+  "sourceCellY": 22,
+  "sourceMapCode": "TEST-map-0",
+  "steps": [
+    {
+      "id": "step-collect-coins",
+      "description": "Collect 3 coins from field drops.",
+      "objectives": [
+        {
+          "type": "collect",
+          "itemId": "coin",
+          "quantity": 3,
+          "_id": "6a8fd26901edebf032f93c8b"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c8a"
+    }
+  ],
+  "title": "Coin Cache",
+  "unlocksQuestCodes": [],
+  "updatedAt": "2026-08-27T06:00:09.026Z"
+}

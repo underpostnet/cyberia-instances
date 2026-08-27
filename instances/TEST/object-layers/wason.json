@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcad5d1e1a48e3f29f826",
+  "data": {
+    "stats": {
+      "effect": 5,
+      "resistance": 7,
+      "agility": 8,
+      "range": 4,
+      "intelligence": 9,
+      "utility": 5
+    },
+    "item": {
+      "id": "wason",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiaedi5qz27hlm5iguevzg56lt6wxayymraksb7ajajikw5nyafoem",
+      "metadataCid": "bafkreidkaigmsi2dzp4yaq35hj4toxu2z3xaphhwrxaditi3pbghtqqjjm"
+    }
+  },
+  "cid": "bafkreicmylju754g424xxptjeqlzbikfjobzviloghrntg7qf5w4by3pcy",
+  "objectLayerRenderFramesId": "6a8fccf74f6f544a74082ee8",
+  "atlasSpriteSheetId": "6a8fcad5d1e1a48e3f29f824",
+  "sha256": "4cc2d34ff786e6b97bbe69241790a1454b839aa16e31e2d99bf02f6dc0e36f16",
+  "createdAt": "2026-08-27T05:27:49.208Z",
+  "updatedAt": "2026-08-27T05:36:55.342Z",
+  "__v": 0
+}

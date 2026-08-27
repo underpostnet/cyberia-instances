@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6a8fcb822ccebd1c7e97d23c",
+    "order": 0,
+    "code": "quest-talk-alex",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.289Z",
+    "mood": "neutral",
+    "speaker": "Alex",
+    "text": "Wason sent you? Good. The portal anomalies are getting worse. I've logged what I can.",
+    "updatedAt": "2026-08-27T05:38:00.114Z"
+  },
+  {
+    "_id": "6a8fcb822ccebd1c7e97d23d",
+    "order": 1,
+    "code": "quest-talk-alex",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.292Z",
+    "mood": "neutral",
+    "speaker": "Alex",
+    "text": "Tell Wason: the source is somewhere in the deeper nodes. The registry does not lie.",
+    "updatedAt": "2026-08-27T05:38:00.117Z"
+  }
+]

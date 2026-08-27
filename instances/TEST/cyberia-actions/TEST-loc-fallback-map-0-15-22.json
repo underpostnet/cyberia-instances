@@ -1,0 +1,32 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2c9",
+  "code": "TEST-loc-fallback-map-0-15-22",
+  "__v": 0,
+  "craftRecipes": [],
+  "createdAt": "2026-08-27T05:52:34.351Z",
+  "dialogCode": "default-lain",
+  "label": "Lain",
+  "questDialogueCodes": [
+    {
+      "questCode": "TEST-lain-demo-timber-run",
+      "dialogCode": "quest-talk-lain-timber-run",
+      "_id": "6a8fd26901edebf032f93c5d"
+    },
+    {
+      "questCode": "TEST-lain-demo-field-sweep",
+      "dialogCode": "quest-talk-lain-field-sweep",
+      "_id": "6a8fd26901edebf032f93c5e"
+    },
+    {
+      "questCode": "TEST-lain-demo-proof-of-valor",
+      "dialogCode": "quest-talk-lain-proof-of-valor",
+      "_id": "6a8fd26901edebf032f93c5f"
+    }
+  ],
+  "shopItems": [],
+  "sourceCellX": 15,
+  "sourceCellY": 22,
+  "sourceMapCode": "TEST-map-0",
+  "storageSlots": 0,
+  "updatedAt": "2026-08-27T06:00:09.012Z"
+}

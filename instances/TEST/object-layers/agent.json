@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcb7d0faca8157bde4218",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 4,
+      "agility": 7,
+      "range": 4,
+      "intelligence": 2,
+      "utility": 1
+    },
+    "item": {
+      "id": "agent",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiaqs4zzogxnv7yfprbfto56a6umkqldp57y5ktqtsfsd5jjp7n2me",
+      "metadataCid": "bafkreibp2cinxloooqnswemcz7n5euan7xnefeotopo47nhm5ut7phedz4"
+    }
+  },
+  "cid": "bafkreicoei7pybfduankcoxwisoayzzlaeiqvds3wmnpb3ohyrvu7w7kea",
+  "objectLayerRenderFramesId": "6a8fcd2e4f6f544a74082f02",
+  "atlasSpriteSheetId": "6a8fcb7d0faca8157bde4216",
+  "sha256": "4e223efc04a3a01aa13af6449c0c672b01110a8e5bb31af0edc7c46b4fdbea20",
+  "createdAt": "2026-08-27T05:30:37.802Z",
+  "updatedAt": "2026-08-27T05:37:50.867Z",
+  "__v": 0
+}

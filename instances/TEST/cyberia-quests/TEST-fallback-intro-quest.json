@@ -1,0 +1,64 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2ca",
+  "code": "TEST-fallback-intro-quest",
+  "__v": 0,
+  "createdAt": "2026-08-27T05:52:34.353Z",
+  "description": "Help Wason restore order to the fractured nodes.",
+  "prerequisiteCodes": [],
+  "rewards": [
+    {
+      "itemId": "coin",
+      "quantity": 50,
+      "_id": "6a8fd26901edebf032f93c63"
+    }
+  ],
+  "sourceCellX": 12,
+  "sourceCellY": 10,
+  "sourceMapCode": "TEST-map-0",
+  "steps": [
+    {
+      "id": "step-talk-alex",
+      "description": "Find Alex and hear her report on the portal anomalies.",
+      "objectives": [
+        {
+          "type": "talk",
+          "itemId": "alex",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93c65"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c64"
+    },
+    {
+      "id": "step-collect-wood",
+      "description": "Obtain a wood for Wason.",
+      "objectives": [
+        {
+          "type": "collect",
+          "itemId": "wood-drop-1",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93c67"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c66"
+    },
+    {
+      "id": "step-kill-kishins",
+      "description": "Eliminate Kishins anomalies threatening the trade routes.",
+      "objectives": [
+        {
+          "type": "kill",
+          "itemId": "kishins",
+          "quantity": 2,
+          "_id": "6a8fd26901edebf032f93c69"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93c68"
+    }
+  ],
+  "title": "The Wanderer's Task",
+  "unlocksQuestCodes": [
+    "TEST-bounty-quest-alpha"
+  ],
+  "updatedAt": "2026-08-27T06:00:09.015Z"
+}

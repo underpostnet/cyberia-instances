@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcae5d1e1a48e3f29f83a",
+  "data": {
+    "stats": {
+      "effect": 10,
+      "resistance": 0,
+      "agility": 8,
+      "range": 1,
+      "intelligence": 4,
+      "utility": 9
+    },
+    "item": {
+      "id": "lain",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiftsdzg37gd4pzwzxuveq76plunqmu6so67sjgtjiqe22l5y3sdne",
+      "metadataCid": "bafkreiedbtrlhjf2zvi7ulmxm7cpygnrizcvgoradj6s2xjmw72ixvuotq"
+    }
+  },
+  "cid": "bafkreih5mthhswk5zikrvobyg7z7noa7ghumytf3qn3afg7bgboo2k5hda",
+  "objectLayerRenderFramesId": "6a8fcd0c4f6f544a74082ef2",
+  "atlasSpriteSheetId": "6a8fcae5d1e1a48e3f29f838",
+  "sha256": "fd64ce79595dca151ab83837f3f6b81f31e8cc4cbb8376029be1305ced2ba718",
+  "createdAt": "2026-08-27T05:28:05.485Z",
+  "updatedAt": "2026-08-27T05:37:16.165Z",
+  "__v": 0
+}

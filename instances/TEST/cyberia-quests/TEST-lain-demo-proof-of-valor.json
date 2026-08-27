@@ -1,0 +1,49 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2d2",
+  "code": "TEST-lain-demo-proof-of-valor",
+  "__v": 0,
+  "createdAt": "2026-08-27T05:52:34.377Z",
+  "description": "Show Lain you can hold the line on your own.",
+  "prerequisiteCodes": [],
+  "rewards": [
+    {
+      "itemId": "hatchet",
+      "quantity": 1,
+      "_id": "6a8fd26901edebf032f93cb3"
+    }
+  ],
+  "sourceCellX": 15,
+  "sourceCellY": 22,
+  "sourceMapCode": "TEST-map-0",
+  "steps": [
+    {
+      "id": "step-kill-kishins",
+      "description": "Defeat 5 Kishins.",
+      "objectives": [
+        {
+          "type": "kill",
+          "itemId": "kishins",
+          "quantity": 5,
+          "_id": "6a8fd26901edebf032f93cb5"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93cb4"
+    },
+    {
+      "id": "step-report-lain",
+      "description": "Report your feat to Lain.",
+      "objectives": [
+        {
+          "type": "talk",
+          "itemId": "lain",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93cb7"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93cb6"
+    }
+  ],
+  "title": "Proof of Valor",
+  "unlocksQuestCodes": [],
+  "updatedAt": "2026-08-27T06:00:09.040Z"
+}

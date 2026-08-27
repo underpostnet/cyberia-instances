@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcb7a0faca8157bde4214",
+  "data": {
+    "stats": {
+      "effect": 9,
+      "resistance": 8,
+      "agility": 5,
+      "range": 0,
+      "intelligence": 2,
+      "utility": 0
+    },
+    "item": {
+      "id": "alex",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreicckyhlvc4suwtdyb5xqclq4w62mlw37iaegobnr33aadzs5wrnvq",
+      "metadataCid": "bafkreicb5cnnkn5odhuhunrsppsawv255th25mjccdv6eoknv7vyrtf5mu"
+    }
+  },
+  "cid": "bafkreibkpz77xmenkj2aeeabos4uqgjeiifh5sol5ucoqmmw64ujhfqcfa",
+  "objectLayerRenderFramesId": "6a8fcd2a4f6f544a74082f00",
+  "atlasSpriteSheetId": "6a8fcb7a0faca8157bde4212",
+  "sha256": "2a7e7ffbb08d527402100174b9481924420a7ec9cbed04e83196f72893960228",
+  "createdAt": "2026-08-27T05:30:34.293Z",
+  "updatedAt": "2026-08-27T05:37:46.907Z",
+  "__v": 0
+}

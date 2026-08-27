@@ -1,0 +1,32 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2c3",
+  "code": "TEST-loc-fallback-map-0-12-10",
+  "__v": 0,
+  "craftRecipes": [],
+  "createdAt": "2026-08-27T05:52:34.332Z",
+  "dialogCode": "default-wason",
+  "label": "Wason",
+  "questDialogueCodes": [
+    {
+      "questCode": "TEST-fallback-intro-quest",
+      "dialogCode": "quest-talk-wason",
+      "_id": "6a8fd26801edebf032f93c35"
+    },
+    {
+      "questCode": "TEST-wason-errand",
+      "dialogCode": "quest-talk-wason-errand",
+      "_id": "6a8fd26801edebf032f93c36"
+    },
+    {
+      "questCode": "TEST-bounty-quest-alpha",
+      "dialogCode": "quest-talk-wason",
+      "_id": "6a8fd26801edebf032f93c37"
+    }
+  ],
+  "shopItems": [],
+  "sourceCellX": 12,
+  "sourceCellY": 10,
+  "sourceMapCode": "TEST-map-0",
+  "storageSlots": 0,
+  "updatedAt": "2026-08-27T06:00:08.991Z"
+}

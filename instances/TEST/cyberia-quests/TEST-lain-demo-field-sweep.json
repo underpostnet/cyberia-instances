@@ -1,0 +1,62 @@
+{
+  "_id": "6a8fd0a22ccebd1c7e97d2d0",
+  "code": "TEST-lain-demo-field-sweep",
+  "__v": 0,
+  "createdAt": "2026-08-27T05:52:34.372Z",
+  "description": "A mixed patrol order: clear hostiles, then salvage the field.",
+  "prerequisiteCodes": [],
+  "rewards": [
+    {
+      "itemId": "coin",
+      "quantity": 25,
+      "_id": "6a8fd26901edebf032f93c9f"
+    }
+  ],
+  "sourceCellX": 15,
+  "sourceCellY": 22,
+  "sourceMapCode": "TEST-map-0",
+  "steps": [
+    {
+      "id": "step-kill-one",
+      "description": "Defeat 1 Kishin scout.",
+      "objectives": [
+        {
+          "type": "kill",
+          "itemId": "kishins",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93ca1"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93ca0"
+    },
+    {
+      "id": "step-salvage",
+      "description": "Salvage 5 coins from the aftermath.",
+      "objectives": [
+        {
+          "type": "collect",
+          "itemId": "coin",
+          "quantity": 5,
+          "_id": "6a8fd26901edebf032f93ca3"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93ca2"
+    },
+    {
+      "id": "step-debrief-lain",
+      "description": "Debrief with Lain.",
+      "objectives": [
+        {
+          "type": "talk",
+          "itemId": "lain",
+          "quantity": 1,
+          "_id": "6a8fd26901edebf032f93ca5"
+        }
+      ],
+      "_id": "6a8fd26901edebf032f93ca4"
+    }
+  ],
+  "title": "Field Sweep",
+  "unlocksQuestCodes": [],
+  "updatedAt": "2026-08-27T06:00:09.034Z"
+}

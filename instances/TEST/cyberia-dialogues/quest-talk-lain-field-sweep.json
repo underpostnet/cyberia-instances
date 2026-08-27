@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "6a8fcb822ccebd1c7e97d244",
+    "order": 0,
+    "code": "quest-talk-lain-field-sweep",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.307Z",
+    "mood": "neutral",
+    "speaker": "Lain",
+    "text": "Patrol logged. The perimeter reads quiet — for now.",
+    "updatedAt": "2026-08-27T05:38:00.138Z"
+  }
+]

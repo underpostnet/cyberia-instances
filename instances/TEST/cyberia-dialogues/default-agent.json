@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "6a8fcb822ccebd1c7e97d236",
+    "order": 0,
+    "code": "default-agent",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.276Z",
+    "mood": "neutral",
+    "speaker": "Agent",
+    "text": "Civilian, this area is restricted. State your business.",
+    "updatedAt": "2026-08-27T05:38:00.100Z"
+  },
+  {
+    "_id": "6a8fcb822ccebd1c7e97d237",
+    "order": 1,
+    "code": "default-agent",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.278Z",
+    "mood": "neutral",
+    "speaker": "Agent",
+    "text": "Hmm. Proceed, but know that you are being watched.",
+    "updatedAt": "2026-08-27T05:38:00.102Z"
+  }
+]

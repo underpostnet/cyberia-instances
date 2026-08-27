@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "6a8fcb822ccebd1c7e97d239",
+    "order": 0,
+    "code": "quest-talk-wason",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.283Z",
+    "mood": "happy",
+    "speaker": "Wason",
+    "text": "Wanderer! Glad you stopped by. I need a favor — nothing dangerous... mostly.",
+    "updatedAt": "2026-08-27T05:38:00.107Z"
+  },
+  {
+    "_id": "6a8fcb822ccebd1c7e97d23a",
+    "order": 1,
+    "code": "quest-talk-wason",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.285Z",
+    "mood": "neutral",
+    "speaker": "Wason",
+    "text": "First, find Alex — she's been surveying the nodes east of here. Then gather a hatchet for me.",
+    "updatedAt": "2026-08-27T05:38:00.109Z"
+  },
+  {
+    "_id": "6a8fcb822ccebd1c7e97d23b",
+    "order": 2,
+    "code": "quest-talk-wason",
+    "__v": 0,
+    "createdAt": "2026-08-27T05:30:42.287Z",
+    "mood": "sad",
+    "speaker": "Wason",
+    "text": "And one more thing: the SCP-2040 anomalies are overrunning my trade routes. Deal with two of them.",
+    "updatedAt": "2026-08-27T05:38:00.112Z"
+  }
+]

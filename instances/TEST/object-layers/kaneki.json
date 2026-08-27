@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcae8d1e1a48e3f29f83e",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 8,
+      "agility": 8,
+      "range": 6,
+      "intelligence": 7,
+      "utility": 1
+    },
+    "item": {
+      "id": "kaneki",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreihocjzmqzud4chnspjl7x7asqkr3frsx3ev7epqkktaw7ocoqots4",
+      "metadataCid": "bafkreiecjfhe6egoprs57zbdqtmwaybtw322ravvtwtg5nl3gldyplcnty"
+    }
+  },
+  "cid": "bafkreigutikvrh62cbzffazycrn7e67j5ba2eawj7cu7hwxq7gxcdyfe24",
+  "objectLayerRenderFramesId": "6a8fcd104f6f544a74082ef4",
+  "atlasSpriteSheetId": "6a8fcae8d1e1a48e3f29f83c",
+  "sha256": "d49a15589fda1072528338145bf27be9e841a202c9f8a9f3daf0f9ae21e0a4d7",
+  "createdAt": "2026-08-27T05:28:08.886Z",
+  "updatedAt": "2026-08-27T05:37:20.296Z",
+  "__v": 0
+}

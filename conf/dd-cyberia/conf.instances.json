@@ -31,7 +31,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-server-development-initializing-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-server-development-initializing-deployment || true"
             ]
           }
         },
@@ -40,7 +40,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-server-development-stopping-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-server-development-stopping-deployment || true"
             ]
           }
         }
@@ -52,7 +52,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-server-production-initializing-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-server-production-initializing-deployment || true"
             ]
           }
         },
@@ -61,7 +61,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-server-production-stopping-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-server-production-stopping-deployment || true"
             ]
           }
         }
@@ -160,7 +160,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-client-development-initializing-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-client-development-initializing-deployment || true"
             ]
           }
         },
@@ -169,7 +169,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-client-development-stopping-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-client-development-stopping-deployment || true"
             ]
           }
         }
@@ -181,7 +181,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-client-production-initializing-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-client-production-initializing-deployment || true"
             ]
           }
         },
@@ -190,7 +190,7 @@
             "command": [
               "sh",
               "-c",
-              "underpost config set container-status dd-cyberia-mmo-client-production-stopping-deployment || true"
+              "underpost state set container-status dd-cyberia-mmo-client-production-stopping-deployment || true"
             ]
           }
         }

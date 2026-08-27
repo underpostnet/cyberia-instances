@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcae2d1e1a48e3f29f836",
+  "data": {
+    "stats": {
+      "effect": 6,
+      "resistance": 8,
+      "agility": 10,
+      "range": 4,
+      "intelligence": 2,
+      "utility": 8
+    },
+    "item": {
+      "id": "punk",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreienqp5idwbceeof4u2bbdsdzcyrzxx557jdefiozv4ulbu3b37rdy",
+      "metadataCid": "bafkreigi7ruvdlbyyototuhdokew666fstnmzczlpmxcbgt56i4grn7bmq"
+    }
+  },
+  "cid": "bafkreiera7bpy2wjdtxwj7m4ljjfmltqa3djhlst4xej32w5zj2abiyo2i",
+  "objectLayerRenderFramesId": "6a8fcd074f6f544a74082ef0",
+  "atlasSpriteSheetId": "6a8fcae2d1e1a48e3f29f834",
+  "sha256": "9107c2fc6ac91cef64fd9c5a52562e7006c693ae53e5c89deaddca7400a30ed2",
+  "createdAt": "2026-08-27T05:28:02.277Z",
+  "updatedAt": "2026-08-27T05:37:12.000Z",
+  "__v": 0
+}

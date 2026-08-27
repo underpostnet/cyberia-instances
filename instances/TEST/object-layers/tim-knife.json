@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fca9dd1e1a48e3f29f81e",
+  "data": {
+    "stats": {
+      "effect": 0,
+      "resistance": 0,
+      "agility": 6,
+      "range": 6,
+      "intelligence": 1,
+      "utility": 0
+    },
+    "item": {
+      "id": "tim-knife",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreiauucjckvyexqieaubsslu6nmyyhedba64rkbzsifquplhfrbtj2y",
+      "metadataCid": "bafkreibwfvobdykvhyuqz33pl4xe472jwr7re5hjcqcfy23puggo3gcqya"
+    }
+  },
+  "cid": "bafkreidd5j3xztugbe3ksf7kv4wanbnsuk2z4zka6iuqkscn3k4nuuvczy",
+  "objectLayerRenderFramesId": "6a8fccef4f6f544a74082ee4",
+  "atlasSpriteSheetId": "6a8fca92d1e1a48e3f29f81c",
+  "sha256": "63ea777cce860936a917eaaf2c0685b2a2b59e6540f22905484ddab8da52a2ce",
+  "createdAt": "2026-08-27T05:26:53.043Z",
+  "updatedAt": "2026-08-27T05:36:48.194Z",
+  "__v": 0
+}

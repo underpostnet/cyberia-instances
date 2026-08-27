@@ -54,7 +54,7 @@
                 "PublicProfile",
                 "Scroll",
                 "Auth",
-                "FullScreen",
+                "ViewModeController",
                 "RichText",
                 "CalendarCore",
                 "D3Chart",
@@ -77,7 +77,8 @@
                 "AppStore",
                 "SocketIoHandler",
                 "EventBus",
-                "ClientEvents"
+                "ClientEvents",
+                "Repository"
             ],
             "underpost": [
                 "AppShellUnderpost",
@@ -286,7 +287,7 @@
                 "PublicProfile",
                 "Scroll",
                 "Auth",
-                "FullScreen",
+                "ViewModeController",
                 "CssCore",
                 "Worker",
                 "SocketIo",
@@ -305,7 +306,8 @@
                 "Docs",
                 "ColorPaletteElement",
                 "EventBus",
-                "ClientEvents"
+                "ClientEvents",
+                "Repository"
             ],
             "cyberia-portal": [
                 "AppShellCyberiaPortal",
@@ -468,6 +470,10 @@
                 "public_styles_folder": "/styles/vanilla-jsoneditor"
             },
             {
+                "folder": "./node_modules/vanilla-jsoneditor/standalone.js.map",
+                "public_folder": "/dist/vanilla-jsoneditor/standalone.js.map"
+            },
+            {
                 "folder": "./node_modules/dexie/dist",
                 "public_folder": "/dist/dexie",
                 "import_name": "dexie",
@@ -548,7 +554,7 @@
                 "PublicProfile",
                 "Scroll",
                 "Auth",
-                "FullScreen",
+                "ViewModeController",
                 "RichText",
                 "CalendarCore",
                 "D3Chart",
@@ -568,7 +574,8 @@
                 "AppStore",
                 "SocketIoHandler",
                 "EventBus",
-                "ClientEvents"
+                "ClientEvents",
+                "Repository"
             ],
             "cryptokoyn": [
                 "AppShellCryptokoyn",
@@ -727,7 +734,7 @@
                 "PublicProfile",
                 "Scroll",
                 "Auth",
-                "FullScreen",
+                "ViewModeController",
                 "RichText",
                 "CalendarCore",
                 "D3Chart",
@@ -747,7 +754,8 @@
                 "AppStore",
                 "SocketIoHandler",
                 "EventBus",
-                "ClientEvents"
+                "ClientEvents",
+                "Repository"
             ],
             "itemledger": [
                 "AppShellItemledger",

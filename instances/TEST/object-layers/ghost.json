@@ -1,0 +1,34 @@
+{
+  "_id": "6a8fcb500faca8157bde4204",
+  "data": {
+    "stats": {
+      "effect": 1,
+      "resistance": 0,
+      "agility": 3,
+      "range": 0,
+      "intelligence": 8,
+      "utility": 8
+    },
+    "item": {
+      "id": "ghost",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreicwc4snls2pj7jduuuixeeezkhtfjq3carbq7bcetgc2m6goz2h2u",
+      "metadataCid": "bafkreibahtt267uwd2epyqhflrlpeah7c3ldgyjw6n5uhlmvvpqhxl5a7e"
+    }
+  },
+  "cid": "bafkreicqrth7assz32rc73525aik2oll5j4gqyp5mtzkhwr25uposdreq4",
+  "objectLayerRenderFramesId": "69e65652e798c035b503a31e",
+  "atlasSpriteSheetId": "69b917f2ac68ab7566e43e16",
+  "sha256": "508ccff04a59dea22fefbae810ad396bea786861fd64f2a3da3aed1ee90e2487",
+  "createdAt": "2026-08-27T05:29:52.203Z",
+  "updatedAt": "2026-08-27T05:38:17.792Z",
+  "__v": 0
+}
