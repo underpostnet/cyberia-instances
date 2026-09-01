@@ -29,11 +29,7 @@ RUN set -eux; \
     dnf clean all; rm -rf /var/cache/dnf; \
     npm cache clean --force
 
-# Underpost CLI, baked from the engine checkout that built this image. The package is staged
-# into this build context by `node bin/cyberia run-workflow stage-cli`, so the runtime state
-# layer — `underpost state set container-status ...` in the instance lifecycle hooks — is the
-# same engine that produced the image, and a starting pod makes no registry call, no clone and
-# no npm link to obtain it. Its own layer so the Node base above stays cached across CLI changes.
+
 # The builder's own `underpost clone` calls below run on this same CLI, and the runtime stage
 # inherits it through `COPY --from=builder /usr/local/`.
 COPY underpost-cli.tgz /tmp/underpost-cli.tgz
@@ -154,9 +150,13 @@ RUN dnf install -y libstdc++ git sudo && dnf clean all && rm -rf /var/cache/dnf 
     # The runtime runs as `dd`, but `underpost start --build` shells out to `sudo cp`/`sudo rm`
     # (src/server/runtime/start.js). Grant passwordless sudo so those succeed without a TTY/password.
     printf 'dd ALL=(ALL) NOPASSWD:ALL\n' > /etc/sudoers.d/dd && chmod 0440 /etc/sudoers.d/dd && \
-    # underpost persists its global env at $(npm root -g)/underpost/.env; the
-    # non-root runtime user must be able to write it (fixes EACCES on start).
-    chown -R dd:dd /usr/local/lib/node_modules/underpost
+    # underpost persists its global env and container state under
+    # `$(npm root -g)/underpost` (getUnderpostRootPath). That path is a STORE directory, not
+    # the CLI package tree: the staged package installs under its own package name, and
+    # `underpost start --build` re-links the bin at the pulled checkout without moving the
+    # store (src/server/runtime/start.js#linkRuntimeCli). Create it here — the non-root
+    # runtime user cannot mkdir inside /usr/local itself (EACCES on the first state write).
+    mkdir -p "$(npm root -g)/underpost" && chown -R dd:dd "$(npm root -g)/underpost"
 
 # Copy ONLY the scrubbed runtime tree — no .git, no token, no caches.
 COPY --from=builder --chown=dd:dd /home/dd/engine /home/dd/engine
