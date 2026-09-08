@@ -1,53 +1,69 @@
 {
   "_id": "6a415b01175934e535d9d0d7",
-  "fileId": "6a415b01175934e535d9d0d6",
-  "cid": "bafkreihjybuf456u4ug2r2oqhe3a2oa2bpqbwbcn63ifhyhjfyykkuusfa",
+  "fileId": "6a9fe00a51ee8bb636a5e694",
+  "cid": "bafkreibf6y3ctgmqzbiflseukcvrlyzs64dd3jgo7mqe5kg5tgk3jsgmse",
   "metadata": {
     "itemKey": "sap-logic-array-wall-left",
-    "atlasWidth": 2048,
-    "atlasHeight": 2048,
-    "cellPixelDim": 20,
+    "atlasWidth": 120,
+    "atlasHeight": 48,
+    "cellPixelDim": 1,
     "frame_duration": 500,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 0
         },
         {
-          "x": 480,
+          "x": 24,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 1
         }
       ],
+      "default_idle": [
+        {
+          "x": 48,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 72,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 96,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 0,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 960,
-          "y": 0,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 1440,
-          "y": 0,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -55,26 +71,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 0,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 480,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-06-28T17:33:53.466Z",
-  "updatedAt": "2026-06-28T17:33:53.466Z",
+  "updatedAt": "2026-09-08T10:14:34.654Z",
   "__v": 0
 }

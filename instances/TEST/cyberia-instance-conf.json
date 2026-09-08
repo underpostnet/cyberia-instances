@@ -1,13 +1,26 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2bd",
   "instanceCode": "TEST",
-  "__v": 0,
+  "tickRate": 60,
+  "snapshotRate": 20,
   "aoiRadius": 10,
+  "portalHoldTimeMs": 3000,
+  "portalSpawnRadius": 3,
+  "entityBaseSpeed": 5,
+  "entityBaseMaxLife": 100,
+  "entityBaseActionCooldownMs": 500,
+  "entityBaseMinActionCooldownMs": 100,
   "botAggroRange": 10,
-  "collisionLifeLoss": 10,
-  "createdAt": "2026-08-27T05:52:34.212Z",
-  "defaultPlayerHeight": 2,
   "defaultPlayerWidth": 2,
+  "defaultPlayerHeight": 2,
+  "playerBaseSpeed": 8,
+  "playerBaseLifeRegenMin": 0.5,
+  "playerBaseLifeRegenMax": 1.5,
+  "sumStatsLimit": 500,
+  "maxActiveLayers": 4,
+  "initialLifeFraction": 1,
+  "respawnDurationMs": 3000,
+  "collisionLifeLoss": 10,
   "economyRules": {
     "botSpawnCoins": 50,
     "playerSpawnCoins": 50,
@@ -18,330 +31,26 @@
     "portalFee": 0,
     "craftingFeePercent": 0
   },
-  "entityBaseActionCooldownMs": 500,
-  "entityBaseMaxLife": 100,
-  "entityBaseMinActionCooldownMs": 100,
-  "entityBaseSpeed": 5,
-  "entityDefaults": [
-    {
-      "entityType": "player",
-      "liveItemIds": [
-        "anon",
-        "atlas_pistol_mk2"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "anon",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "atlas_pistol_mk2",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "other_player",
-      "liveItemIds": [
-        "anon",
-        "atlas_pistol_mk2"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "anon",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "atlas_pistol_mk2",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "purple"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "purple",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "wason"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "alex"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "agent"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "punk"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "eiri"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider-static",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "kaneki"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider-static",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "lain"
-      ],
-      "deadItemIds": [
-        "fragmentation"
-      ],
-      "dropItemIds": [],
-      "behavior": "provider-static",
-      "defaultObjectLayers": []
-    },
-    {
-      "entityType": "skill",
-      "liveItemIds": [
-        "atlas_pistol_mk2_bullet"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "atlas_pistol_mk2_bullet",
-          "active": true,
-          "quantity": 1
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "coin",
-      "liveItemIds": [
-        "coin"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "coin",
-          "active": true,
-          "quantity": 1
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "floor",
-      "liveItemIds": [
-        "grass"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "obstacle",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "portal",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "foreground",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "static",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "resource",
-      "liveItemIds": [
-        "wood-1"
-      ],
-      "deadItemIds": [
-        "wood-extracted-1"
-      ],
-      "dropItemIds": [
-        "wood-drop-1"
-      ],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "resource",
-      "liveItemIds": [
-        "wood-2"
-      ],
-      "deadItemIds": [
-        "wood-extracted-2"
-      ],
-      "dropItemIds": [
-        "wood-drop-2"
-      ],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    }
-  ],
-  "equipmentRules": {
-    "activeItemTypes": [
-      "skin",
-      "breastplate",
-      "weapon"
-    ],
-    "onePerType": true,
-    "requireSkin": true
-  },
-  "initialLifeFraction": 1,
   "lifeRegenChance": 300,
-  "maxActiveLayers": 4,
   "maxChance": 10000,
-  "playerBaseLifeRegenMax": 1.5,
-  "playerBaseLifeRegenMin": 0.5,
-  "playerBaseSpeed": 8,
-  "portalHoldTimeMs": 3000,
-  "portalSpawnRadius": 3,
-  "respawnDurationMs": 3000,
-  "skillConfig": [
-    {
-      "triggerItemId": "atlas_pistol_mk2",
-      "logicEventIds": [
-        "projectile"
-      ]
-    },
-    {
-      "triggerItemId": "coin",
-      "logicEventIds": [
-        "coin_drop_or_transaction"
-      ]
-    },
-    {
-      "triggerItemId": "hatchet",
-      "logicEventIds": [
-        "projectile"
-      ]
-    }
+  "entityDefaults": [
+    "6a428562fad4aceeacd9e67f",
+    "6a5979c02e1dbf5a3a3086f3",
+    "6a8fcb812ccebd1c7e97d20e",
+    "6a8fcb812ccebd1c7e97d20f",
+    "6a8fcb812ccebd1c7e97d210",
+    "6a8fcb812ccebd1c7e97d211",
+    "6a8fcb812ccebd1c7e97d212",
+    "6a8fcb812ccebd1c7e97d213",
+    "6a8fcb812ccebd1c7e97d214",
+    "6a9e0c0bc39c51c63a376346",
+    "6a9e0c0bc39c51c63a376347",
+    "6a428562fad4aceeacd9e683",
+    "6a428562fad4aceeacd9e689",
+    "6a4456d8b38301b2f28dd1b4",
+    "6a9e1084e98a8dfee2a72d73",
+    "6a428562fad4aceeacd9e688"
   ],
-  "skillRules": {
-    "projectileSpawnChance": 0.5,
-    "projectileLifetimeMs": 2000,
-    "projectileWidth": 1,
-    "projectileHeight": 1,
-    "projectileSpeedMultiplier": 3,
-    "doppelgangerSpawnChance": 0.5,
-    "doppelgangerLifetimeMs": 5000,
-    "doppelgangerSpawnRadius": 3,
-    "doppelgangerInitialLifeFraction": 1
-  },
-  "snapshotRate": 20,
   "statusIcons": [
     {
       "id": 0,
@@ -404,7 +113,27 @@
       "description": "Presence: random-target portal (inter-random / intra-random, targetCell -1,-1). The client renders the transport-random icon plus a \"<targetMapCode>\" nameplate (no cell, the destination is random)."
     }
   ],
-  "sumStatsLimit": 500,
-  "tickRate": 60,
-  "updatedAt": "2026-08-27T06:00:08.833Z"
+  "skillRules": {
+    "projectileSpawnChance": 0.5,
+    "projectileLifetimeMs": 2000,
+    "projectileWidth": 1,
+    "projectileHeight": 1,
+    "projectileSpeedMultiplier": 3,
+    "doppelgangerSpawnChance": 0.5,
+    "doppelgangerLifetimeMs": 5000,
+    "doppelgangerSpawnRadius": 3,
+    "doppelgangerInitialLifeFraction": 1
+  },
+  "equipmentRules": {
+    "activeItemTypes": [
+      "skin",
+      "breastplate",
+      "weapon"
+    ],
+    "onePerType": true,
+    "requireSkin": true
+  },
+  "createdAt": "2026-08-27T05:52:34.212Z",
+  "updatedAt": "2026-08-27T05:52:34.212Z",
+  "__v": 0
 }

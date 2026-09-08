@@ -4,13 +4,14 @@
   "liveItemIds": [
     "wason"
   ],
-  "__v": 0,
-  "behavior": "provider",
-  "createdAt": "2026-08-27T05:30:41.098Z",
   "deadItemIds": [
     "fragmentation"
   ],
-  "defaultObjectLayers": [],
   "dropItemIds": [],
-  "updatedAt": "2026-08-27T05:37:58.890Z"
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "provider",
+  "createdAt": "2026-08-27T05:30:41.098Z",
+  "updatedAt": "2026-08-27T05:30:41.098Z",
+  "__v": 0
 }

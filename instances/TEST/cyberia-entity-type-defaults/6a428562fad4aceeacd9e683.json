@@ -6,7 +6,8 @@
   ],
   "deadItemIds": [],
   "dropItemIds": [],
-  "defaultObjectLayers": [],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
   "createdAt": "2026-06-29T14:46:58.692Z",
   "updatedAt": "2026-06-29T14:46:58.692Z",
   "__v": 0

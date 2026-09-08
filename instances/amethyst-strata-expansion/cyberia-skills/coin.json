@@ -1,5 +1,5 @@
 {
-  "_id": "6a4015cf8df0fac6c13c2136",
+  "_id": "6a3ff10a7163ccdde8da8660",
   "triggerItemId": "coin",
   "logicEventIds": [
     "coin_drop_or_transaction"
@@ -12,7 +12,7 @@
       "summonedEntityItemId": "coin"
     }
   ],
-  "createdAt": "2026-06-27T18:26:23.426Z",
-  "updatedAt": "2026-06-27T18:26:23.426Z",
+  "createdAt": "2026-06-27T15:49:30.621Z",
+  "updatedAt": "2026-06-27T15:49:30.621Z",
   "__v": 0
 }

@@ -1,0 +1,15 @@
+{
+  "_id": "6a9e0c0bc39c51c63a376346",
+  "entityType": "skill",
+  "liveItemIds": [
+    "atlas_pistol_mk2_bullet"
+  ],
+  "deadItemIds": [],
+  "dropItemIds": [],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "",
+  "createdAt": "2026-09-07T00:57:47.658Z",
+  "updatedAt": "2026-09-07T00:57:47.658Z",
+  "__v": 0
+}

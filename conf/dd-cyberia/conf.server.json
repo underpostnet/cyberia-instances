@@ -25,7 +25,9 @@
                 "cyberia-skill",
                 "cyberia-entity-type-default",
                 "cyberia-client-hints",
-                "cyberia-saga"
+                "cyberia-saga",
+                "cyberia-audio",
+                "cyberia-map-audio-conf"
             ],
             "ws": "core",
             "peer": true,

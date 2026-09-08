@@ -1,24 +1,24 @@
 [
   {
     "_id": "6a8fcb822ccebd1c7e97d22b",
-    "order": 0,
     "code": "default-kaneki",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.249Z",
-    "mood": "sad",
+    "order": 0,
     "speaker": "Kaneki",
     "text": "I am not the protagonist of a novel. I am just... me.",
-    "updatedAt": "2026-08-27T05:38:00.070Z"
+    "mood": "sad",
+    "createdAt": "2026-08-27T05:30:42.249Z",
+    "updatedAt": "2026-08-27T05:30:42.249Z",
+    "__v": 0
   },
   {
     "_id": "6a8fcb822ccebd1c7e97d22c",
-    "order": 1,
     "code": "default-kaneki",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.251Z",
-    "mood": "angry",
+    "order": 1,
     "speaker": "Kaneki",
     "text": "What is 1000 minus 7?",
-    "updatedAt": "2026-08-27T05:38:00.073Z"
+    "mood": "angry",
+    "createdAt": "2026-08-27T05:30:42.251Z",
+    "updatedAt": "2026-08-27T05:30:42.251Z",
+    "__v": 0
   }
 ]

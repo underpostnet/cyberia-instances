@@ -1,7 +1,13 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2c7",
+  "sourceMapCode": "TEST-map-0",
+  "sourceCellX": 15,
+  "sourceCellY": 16,
   "code": "TEST-loc-fallback-map-0-15-16",
-  "__v": 0,
+  "label": "Eiri",
+  "dialogCode": "default-eiri",
+  "questDialogueCodes": [],
+  "shopItems": [],
   "craftRecipes": [
     {
       "outputItems": [
@@ -83,14 +89,8 @@
       "_id": "6a8fd26901edebf032f93c4a"
     }
   ],
-  "createdAt": "2026-08-27T05:52:34.345Z",
-  "dialogCode": "default-eiri",
-  "label": "Eiri",
-  "questDialogueCodes": [],
-  "shopItems": [],
-  "sourceCellX": 15,
-  "sourceCellY": 16,
-  "sourceMapCode": "TEST-map-0",
   "storageSlots": 0,
-  "updatedAt": "2026-08-27T06:00:09.005Z"
+  "createdAt": "2026-08-27T05:52:34.345Z",
+  "updatedAt": "2026-08-27T05:52:34.345Z",
+  "__v": 0
 }

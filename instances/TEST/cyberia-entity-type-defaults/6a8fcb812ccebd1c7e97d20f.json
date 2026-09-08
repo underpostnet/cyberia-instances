@@ -4,13 +4,14 @@
   "liveItemIds": [
     "alex"
   ],
-  "__v": 0,
-  "behavior": "provider",
-  "createdAt": "2026-08-27T05:30:41.101Z",
   "deadItemIds": [
     "fragmentation"
   ],
-  "defaultObjectLayers": [],
   "dropItemIds": [],
-  "updatedAt": "2026-08-27T05:37:58.894Z"
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "provider",
+  "createdAt": "2026-08-27T05:30:41.101Z",
+  "updatedAt": "2026-08-27T05:30:41.101Z",
+  "__v": 0
 }

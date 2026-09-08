@@ -1,22 +1,15 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2cc",
+  "sourceMapCode": "TEST-map-0",
+  "sourceCellX": 12,
+  "sourceCellY": 16,
   "code": "TEST-bounty-quest-alpha",
-  "__v": 0,
-  "createdAt": "2026-08-27T05:52:34.362Z",
+  "title": "Alpha Bounty",
   "description": "A field test: eliminate a threat, claim your reward, then report back.",
   "prerequisiteCodes": [
     "TEST-fallback-intro-quest"
   ],
-  "rewards": [
-    {
-      "itemId": "hatchet",
-      "quantity": 1,
-      "_id": "6a8fd26901edebf032f93c7b"
-    }
-  ],
-  "sourceCellX": 12,
-  "sourceCellY": 16,
-  "sourceMapCode": "TEST-map-0",
+  "unlocksQuestCodes": [],
   "steps": [
     {
       "id": "step-kill-first",
@@ -58,7 +51,14 @@
       "_id": "6a8fd26901edebf032f93c80"
     }
   ],
-  "title": "Alpha Bounty",
-  "unlocksQuestCodes": [],
-  "updatedAt": "2026-08-27T06:00:09.023Z"
+  "rewards": [
+    {
+      "itemId": "hatchet",
+      "quantity": 1,
+      "_id": "6a8fd26901edebf032f93c7b"
+    }
+  ],
+  "createdAt": "2026-08-27T05:52:34.362Z",
+  "updatedAt": "2026-08-27T05:52:34.362Z",
+  "__v": 0
 }

@@ -1,5 +1,5 @@
 {
-  "_id": "6a43320d07990bc335ece0b8",
+  "_id": "6a9fe00851ee8bb636a5e689",
   "frames": {
     "up_idle": [],
     "down_idle": [
@@ -3842,7 +3842,7 @@
     ]
   ],
   "frame_duration": 400,
-  "createdAt": "2026-06-30T03:03:41.294Z",
-  "updatedAt": "2026-06-30T03:03:41.294Z",
+  "createdAt": "2026-09-08T10:14:32.261Z",
+  "updatedAt": "2026-09-08T10:14:32.261Z",
   "__v": 0
 }

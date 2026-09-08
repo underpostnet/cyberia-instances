@@ -1,13 +1,13 @@
 [
   {
-    "_id": "6a4015d08df0fac6c13c2138",
+    "_id": "69ec9fc74748aefe31a1f11b",
     "code": "default-coin",
     "order": 0,
     "speaker": "Coin",
     "text": "A standard unit of exchange in the cyberia network.",
     "mood": "neutral",
-    "createdAt": "2026-06-27T18:26:24.397Z",
-    "updatedAt": "2026-06-27T18:26:24.397Z",
+    "createdAt": "2026-04-25T11:04:39.607Z",
+    "updatedAt": "2026-04-25T11:04:39.607Z",
     "__v": 0
   }
 ]

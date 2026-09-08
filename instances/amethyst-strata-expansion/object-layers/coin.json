@@ -12,7 +12,7 @@
     "item": {
       "id": "coin",
       "type": "coin",
-      "description": "",
+      "description": "Standard Atlas-sanctioned credit chit accepted across the outpost's vendors and contractors.",
       "activable": false
     },
     "ledger": {
@@ -20,15 +20,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreifrjzvikvvq33d2tqba43oaui3xgcm7faaa6qxxhc6lforx6kov7i",
-      "metadataCid": "bafkreiamkwgikjnj6stgfmipx2y4onpthhmqqkn3cwku3xtoryebjfjc7e"
+      "cid": "bafkreid4ztvkxi3bhbvlpmed4it4gdkkddcisdogguaj2cxi3aws62ftsy",
+      "metadataCid": "bafkreicxwdghsfrjin6q3wgqaatgeejccafpok6i7hk76o22ni6g7kai5y"
     }
   },
-  "cid": "bafkreifuxxw3333alhavfzwvgtwfv3q7hdlsormdk75yij7e2zg5hwxc3y",
-  "objectLayerRenderFramesId": "6a428518f42b617bff84bca7",
-  "atlasSpriteSheetId": "6a4015883ede25476444e32e",
-  "sha256": "65997d1cdeace6e77b97a29feeeaaba8c8d6cae7a4dcebdce760a9ab6290afda",
+  "cid": "bafkreibcxr5ys4hbjchsmktpy7yag2rjc6y2ehh7rklncagemukootgz5i",
+  "objectLayerRenderFramesId": "6a9fe00351ee8bb636a5e681",
+  "atlasSpriteSheetId": "69b91822ac68ab7566e43ff3",
+  "sha256": "62bca14309cf8a286c9d7d3c4bfe856f1d28db65e1a81a2530393c273fdc9979",
   "createdAt": "2026-06-27T18:25:12.611Z",
-  "updatedAt": "2026-06-27T18:25:12.611Z",
+  "updatedAt": "2026-09-08T10:14:27.141Z",
   "__v": 0
 }

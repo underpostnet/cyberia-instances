@@ -1,11 +1,11 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2c5",
+  "sourceMapCode": "TEST-map-0",
+  "sourceCellX": 12,
+  "sourceCellY": 16,
   "code": "TEST-loc-fallback-map-0-12-16",
-  "__v": 0,
-  "craftRecipes": [],
-  "createdAt": "2026-08-27T05:52:34.339Z",
-  "dialogCode": "default-agent",
   "label": "Agent",
+  "dialogCode": "default-agent",
   "questDialogueCodes": [
     {
       "questCode": "TEST-bounty-quest-alpha",
@@ -14,9 +14,9 @@
     }
   ],
   "shopItems": [],
-  "sourceCellX": 12,
-  "sourceCellY": 16,
-  "sourceMapCode": "TEST-map-0",
+  "craftRecipes": [],
   "storageSlots": 0,
-  "updatedAt": "2026-08-27T06:00:08.998Z"
+  "createdAt": "2026-08-27T05:52:34.339Z",
+  "updatedAt": "2026-08-27T05:52:34.339Z",
+  "__v": 0
 }

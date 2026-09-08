@@ -13,6 +13,7 @@
   "botAggroRange": 10,
   "defaultPlayerWidth": 2,
   "defaultPlayerHeight": 2,
+  "playerBaseSpeed": 8,
   "playerBaseLifeRegenMin": 0.5,
   "playerBaseLifeRegenMax": 1.5,
   "sumStatsLimit": 500,
@@ -33,199 +34,24 @@
   "lifeRegenChance": 300,
   "maxChance": 10000,
   "entityDefaults": [
-    {
-      "entityType": "player",
-      "liveItemIds": [
-        "anon",
-        "atlas_pistol_mk2"
-      ],
-      "deadItemIds": [
-        "ghost"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "anon",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "atlas_pistol_mk2",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "ghost",
-          "active": false,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "other_player",
-      "liveItemIds": [
-        "anon",
-        "atlas_pistol_mk2"
-      ],
-      "deadItemIds": [
-        "ghost"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "anon",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "atlas_pistol_mk2",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "ghost",
-          "active": false,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "bot",
-      "liveItemIds": [
-        "purple"
-      ],
-      "deadItemIds": [
-        "ghost"
-      ],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "purple",
-          "active": true,
-          "quantity": 1
-        },
-        {
-          "itemId": "coin",
-          "active": false,
-          "quantity": 0
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "skill",
-      "liveItemIds": [
-        "atlas_pistol_mk2_bullet"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "atlas_pistol_mk2_bullet",
-          "active": true,
-          "quantity": 1
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "coin",
-      "liveItemIds": [
-        "coin"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [
-        {
-          "itemId": "coin",
-          "active": true,
-          "quantity": 1
-        }
-      ],
-      "behavior": ""
-    },
-    {
-      "entityType": "floor",
-      "liveItemIds": [
-        "grass"
-      ],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "obstacle",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "portal",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "foreground",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "static",
-      "liveItemIds": [],
-      "deadItemIds": [],
-      "dropItemIds": [],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "resource",
-      "liveItemIds": [
-        "wood-1"
-      ],
-      "deadItemIds": [
-        "wood-extracted-1"
-      ],
-      "dropItemIds": [
-        "wood-drop-1"
-      ],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    },
-    {
-      "entityType": "resource",
-      "liveItemIds": [
-        "wood-2"
-      ],
-      "deadItemIds": [
-        "wood-extracted-2"
-      ],
-      "dropItemIds": [
-        "wood-drop-2"
-      ],
-      "defaultObjectLayers": [],
-      "behavior": ""
-    }
+    "6a5979c02e1dbf5a3a3086f3",
+    "6a428562fad4aceeacd9e681",
+    "6a428562fad4aceeacd9e682",
+    "6a9de230553f649a7ccd6386",
+    "6a9de230553f649a7ccd6382",
+    "6a428be8d9e5b253218d053f",
+    "6a4456d8b38301b2f28dd1b4",
+    "6a44572fb38301b2f28dd1b5",
+    "6a445751b38301b2f28dd1b6",
+    "6a44577eb38301b2f28dd1b7",
+    "6a9de5a4649c6b5aef38524d",
+    "6a9de5cd649c6b5aef385250",
+    "6a9de5e0649c6b5aef385251",
+    "6a9deaa9b174054a94134976",
+    "6a9deaecb174054a94134977",
+    "6a9deb09b174054a9413497a",
+    "6a9deb16b174054a9413497b",
+    "6a9defb4b174054a94134980"
   ],
   "statusIcons": [
     {
@@ -277,26 +103,6 @@
       "id": 9,
       "name": "quest-provider",
       "description": "Capability: bot offers or advances a cyberia-quest for the viewing player (acceptable offer or active talk-target). Sent as a capability bit, not a presence state."
-    }
-  ],
-  "skillConfig": [
-    {
-      "triggerItemId": "atlas_pistol_mk2",
-      "logicEventIds": [
-        "projectile"
-      ]
-    },
-    {
-      "triggerItemId": "coin",
-      "logicEventIds": [
-        "coin_drop_or_transaction"
-      ]
-    },
-    {
-      "triggerItemId": "hatchet",
-      "logicEventIds": [
-        "projectile"
-      ]
     }
   ],
   "skillRules": {

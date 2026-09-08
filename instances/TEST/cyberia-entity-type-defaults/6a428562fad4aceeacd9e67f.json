@@ -6,31 +6,12 @@
     "atlas_pistol_mk2"
   ],
   "deadItemIds": [
-    "ghost"
+    "fragmentation"
   ],
   "dropItemIds": [],
-  "defaultObjectLayers": [
-    {
-      "itemId": "anon",
-      "active": true,
-      "quantity": 1
-    },
-    {
-      "itemId": "atlas_pistol_mk2",
-      "active": true,
-      "quantity": 1
-    },
-    {
-      "itemId": "ghost",
-      "active": false,
-      "quantity": 1
-    },
-    {
-      "itemId": "coin",
-      "active": false,
-      "quantity": 0
-    }
-  ],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "",
   "createdAt": "2026-06-29T14:46:58.663Z",
   "updatedAt": "2026-06-29T14:46:58.663Z",
   "__v": 0

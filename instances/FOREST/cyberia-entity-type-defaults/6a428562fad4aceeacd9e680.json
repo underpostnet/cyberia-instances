@@ -8,18 +8,8 @@
     "ghost"
   ],
   "dropItemIds": [],
-  "defaultObjectLayers": [
-    {
-      "itemId": "purple",
-      "active": true,
-      "quantity": 1
-    },
-    {
-      "itemId": "coin",
-      "active": false,
-      "quantity": 0
-    }
-  ],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
   "createdAt": "2026-06-29T14:46:58.683Z",
   "updatedAt": "2026-06-29T14:46:58.683Z",
   "__v": 0

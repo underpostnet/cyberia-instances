@@ -20,15 +20,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreidhoo5kuxzquroioiuxde2g73ed6jh2h6g7ilpwwbl5eglqishh2q",
-      "metadataCid": "bafkreigz6py6bzius6gaksvkgtyt3ki2f2l3b3mr5qje4dydlaec6hlchi"
+      "cid": "bafkreiawfh7znr4sxmscmamt4vf3dabo75o3ihzmsufggwepen23zn6nou",
+      "metadataCid": "bafkreicchhll7fkgzqrabb2mb75pjcuuka4ymuvggiy3mwtldkpnnucupq"
     }
   },
-  "cid": "bafkreiaxuijr3ei75itd7s7p2yifz444rlj3yr6rnq7kvwyc5uudqqdlky",
-  "objectLayerRenderFramesId": "69e78e6c5e56cc1b4f5119c5",
+  "cid": "bafkreidpxvtwlrpzhv7o4nx6mkdhjx4d5zdwiz7wn67uoeelj6mxasm52i",
+  "objectLayerRenderFramesId": "6a9fe1db6d406550557c83fc",
   "atlasSpriteSheetId": "69e78e565e56cc1b4f5119c3",
-  "sha256": "a1be7b042ec3b3a03a6c2cb930e02049412126a103451e23edf111fa5165503c",
+  "sha256": "bd0c1f4b11c631ce41a2d93ad01e2bcc32f489f619b1d425e3bfd3eadb67bf57",
   "createdAt": "2026-04-21T14:48:54.345Z",
-  "updatedAt": "2026-07-20T19:29:43.168Z",
+  "updatedAt": "2026-09-08T10:22:19.682Z",
   "__v": 0
 }

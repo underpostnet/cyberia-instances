@@ -1,20 +1,15 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2ca",
-  "code": "TEST-fallback-intro-quest",
-  "__v": 0,
-  "createdAt": "2026-08-27T05:52:34.353Z",
-  "description": "Help Wason restore order to the fractured nodes.",
-  "prerequisiteCodes": [],
-  "rewards": [
-    {
-      "itemId": "coin",
-      "quantity": 50,
-      "_id": "6a8fd26901edebf032f93c63"
-    }
-  ],
+  "sourceMapCode": "TEST-map-0",
   "sourceCellX": 12,
   "sourceCellY": 10,
-  "sourceMapCode": "TEST-map-0",
+  "code": "TEST-fallback-intro-quest",
+  "title": "The Wanderer's Task",
+  "description": "Help Wason restore order to the fractured nodes.",
+  "prerequisiteCodes": [],
+  "unlocksQuestCodes": [
+    "TEST-bounty-quest-alpha"
+  ],
   "steps": [
     {
       "id": "step-talk-alex",
@@ -56,9 +51,14 @@
       "_id": "6a8fd26901edebf032f93c68"
     }
   ],
-  "title": "The Wanderer's Task",
-  "unlocksQuestCodes": [
-    "TEST-bounty-quest-alpha"
+  "rewards": [
+    {
+      "itemId": "coin",
+      "quantity": 50,
+      "_id": "6a8fd26901edebf032f93c63"
+    }
   ],
-  "updatedAt": "2026-08-27T06:00:09.015Z"
+  "createdAt": "2026-08-27T05:52:34.353Z",
+  "updatedAt": "2026-08-27T05:52:34.353Z",
+  "__v": 0
 }

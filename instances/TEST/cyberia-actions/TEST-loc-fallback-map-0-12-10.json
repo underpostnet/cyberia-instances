@@ -1,11 +1,11 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2c3",
+  "sourceMapCode": "TEST-map-0",
+  "sourceCellX": 12,
+  "sourceCellY": 10,
   "code": "TEST-loc-fallback-map-0-12-10",
-  "__v": 0,
-  "craftRecipes": [],
-  "createdAt": "2026-08-27T05:52:34.332Z",
-  "dialogCode": "default-wason",
   "label": "Wason",
+  "dialogCode": "default-wason",
   "questDialogueCodes": [
     {
       "questCode": "TEST-fallback-intro-quest",
@@ -24,9 +24,9 @@
     }
   ],
   "shopItems": [],
-  "sourceCellX": 12,
-  "sourceCellY": 10,
-  "sourceMapCode": "TEST-map-0",
+  "craftRecipes": [],
   "storageSlots": 0,
-  "updatedAt": "2026-08-27T06:00:08.991Z"
+  "createdAt": "2026-08-27T05:52:34.332Z",
+  "updatedAt": "2026-08-27T05:52:34.332Z",
+  "__v": 0
 }

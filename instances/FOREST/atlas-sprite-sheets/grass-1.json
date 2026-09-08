@@ -1,39 +1,48 @@
 {
   "_id": "69e7804a5e56cc1b4f5102ae",
-  "fileId": "69e7804a5e56cc1b4f5102ad",
-  "cid": "bafkreigfg4ifrqa6k356xhktx27zhrh5hkrlhubr7edei34myfk7xke6vi",
+  "fileId": "6a9fe1db6d406550557c83f9",
+  "cid": "bafkreige4tchuygdku26p3ygt4radlgtgrfsb2cl72kk45566xoibdcbde",
   "metadata": {
     "itemKey": "grass-1",
-    "atlasWidth": 1024,
-    "atlasHeight": 1024,
-    "cellPixelDim": 20,
+    "atlasWidth": 50,
+    "atlasHeight": 50,
+    "cellPixelDim": 1,
     "frame_duration": 100,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
+      "default_idle": [
+        {
+          "x": 25,
+          "y": 0,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 500,
-          "y": 0,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -41,19 +50,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 0,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-04-21T13:48:58.701Z",
-  "updatedAt": "2026-07-20T19:29:42.850Z",
+  "updatedAt": "2026-09-08T10:22:19.327Z",
   "__v": 0
 }

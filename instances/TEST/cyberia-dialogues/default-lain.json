@@ -1,35 +1,35 @@
 [
   {
     "_id": "6a8fcb822ccebd1c7e97d228",
-    "order": 0,
     "code": "default-lain",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.242Z",
-    "mood": "neutral",
+    "order": 0,
     "speaker": "Lain",
     "text": "No matter where you go, everyone is connected.",
-    "updatedAt": "2026-08-27T05:38:00.060Z"
+    "mood": "neutral",
+    "createdAt": "2026-08-27T05:30:42.242Z",
+    "updatedAt": "2026-08-27T05:30:42.242Z",
+    "__v": 0
   },
   {
     "_id": "6a8fcb822ccebd1c7e97d229",
-    "order": 1,
     "code": "default-lain",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.244Z",
-    "mood": "sad",
+    "order": 1,
     "speaker": "Lain",
     "text": "If you are not remembered, then you never existed.",
-    "updatedAt": "2026-08-27T05:38:00.063Z"
+    "mood": "sad",
+    "createdAt": "2026-08-27T05:30:42.244Z",
+    "updatedAt": "2026-08-27T05:30:42.244Z",
+    "__v": 0
   },
   {
     "_id": "6a8fcb822ccebd1c7e97d22a",
-    "order": 2,
     "code": "default-lain",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.247Z",
-    "mood": "neutral",
+    "order": 2,
     "speaker": "Lain",
     "text": "The wired is not a separate world. It is layered over this one.",
-    "updatedAt": "2026-08-27T05:38:00.067Z"
+    "mood": "neutral",
+    "createdAt": "2026-08-27T05:30:42.247Z",
+    "updatedAt": "2026-08-27T05:30:42.247Z",
+    "__v": 0
   }
 ]

@@ -1,39 +1,48 @@
 {
   "_id": "69e8aa8c2dbf391f54e05ed1",
-  "fileId": "69e8aa8c2dbf391f54e05ed0",
-  "cid": "bafkreie6ufkd7kfjc3cvxmx2h33bds3y6dqyzd2c5qeyegi3ptdciirspa",
+  "fileId": "6a9fd6174bd86e560db3a92c",
+  "cid": "bafkreie7ivmka4zg3r2pnb45vb4i4t7bjqfx6yux4edsyuas4vst45tcvi",
   "metadata": {
     "itemKey": "wood-drop-1",
-    "atlasWidth": 1024,
-    "atlasHeight": 1024,
-    "cellPixelDim": 20,
-    "frame_duration": 100,
+    "atlasWidth": 50,
+    "atlasHeight": 50,
+    "cellPixelDim": 1,
+    "frame_duration": 500,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
+      "default_idle": [
+        {
+          "x": 25,
+          "y": 0,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 500,
-          "y": 0,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -41,19 +50,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 0,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-04-22T11:01:32.644Z",
-  "updatedAt": "2026-04-22T11:01:32.644Z",
+  "updatedAt": "2026-09-08T09:32:08.059Z",
   "__v": 0
 }

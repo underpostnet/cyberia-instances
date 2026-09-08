@@ -9,23 +9,8 @@
     "fragmentation"
   ],
   "dropItemIds": [],
-  "defaultObjectLayers": [
-    {
-      "itemId": "anon",
-      "active": true,
-      "quantity": 1
-    },
-    {
-      "itemId": "atlas_pistol_mk2",
-      "active": true,
-      "quantity": 1
-    },
-    {
-      "itemId": "coin",
-      "active": false,
-      "quantity": 0
-    }
-  ],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
   "behavior": "",
   "createdAt": "2026-07-17T00:39:28.985Z",
   "updatedAt": "2026-07-17T00:39:28.985Z",

@@ -1,5 +1,5 @@
 {
-  "_id": "6a4015cf8df0fac6c13c2135",
+  "_id": "6a3ff10a7163ccdde8da865f",
   "triggerItemId": "atlas_pistol_mk2",
   "logicEventIds": [
     "projectile"
@@ -12,7 +12,7 @@
       "summonedEntityItemId": "atlas_pistol_mk2_bullet"
     }
   ],
-  "createdAt": "2026-06-27T18:26:23.415Z",
-  "updatedAt": "2026-06-27T18:26:23.415Z",
+  "createdAt": "2026-06-27T15:49:30.617Z",
+  "updatedAt": "2026-06-27T15:49:30.617Z",
   "__v": 0
 }

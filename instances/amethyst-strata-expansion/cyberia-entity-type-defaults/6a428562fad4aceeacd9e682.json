@@ -6,13 +6,9 @@
   ],
   "deadItemIds": [],
   "dropItemIds": [],
-  "defaultObjectLayers": [
-    {
-      "itemId": "coin",
-      "active": true,
-      "quantity": 1
-    }
-  ],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "",
   "createdAt": "2026-06-29T14:46:58.690Z",
   "updatedAt": "2026-06-29T14:46:58.690Z",
   "__v": 0

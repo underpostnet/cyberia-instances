@@ -1,106 +1,106 @@
 [
   {
-    "cid": "bafkreibutcrhqu65i6otymbb6jspopfclbqzmib5te662chtced3atcpze",
+    "cid": "bafkreidln6445xk3kssoilbqk6ikva2xeumyihj23q2trmbymx3soxbdpm",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/amethyst-grass-alpha/amethyst-grass-alpha_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreihcjfg33htl4ouyw2v3637b77ls4mfuuqa3b6zqpcfjrjstwn4kji",
+    "cid": "bafkreif7ifdzemfxigltq7ylteky2rownw3xqvwp3rp7sueo5zrvcw6vqe",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/amethyst-grass-alpha/amethyst-grass-alpha_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreid7sivouoqlfff3v2ih4luerfdjyo2kixbfn5uuguwz37izanwtlq",
+    "cid": "bafkreihwugr7guuchsbaroq4rtvqsc6xr62nglv2iygamrwagffcixwt5q",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/amethyst-grass-alpha/amethyst-grass-alpha_data.json"
   },
   {
-    "cid": "bafkreidkytqmzxbcn56xge7vtuqqys5dpzrw5cqvvpl3he7fpznno6gnzm",
+    "cid": "bafkreidervkj4yommlcbsmk6yny4e57fy5wr76jf5ggxdcvoktdjqg33si",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/amethyst-grass-beta/amethyst-grass-beta_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreigsya4wn5pu5bk3rff7twardwdb6uez7wwxzcvfmbtetzxgpy32va",
+    "cid": "bafkreifr2mghmu5lhfd647r5icybscrhevk7yjpd4hriepi7gd6v2utqoe",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/amethyst-grass-beta/amethyst-grass-beta_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreif3l4o67ca2jg2ujgnyd3grgg4xnqzfta6bxzc3vjldsccgdnvf5y",
+    "cid": "bafkreifx2hxyaovafq6ik3chihamcd52ylcf26szxdvbch2v6hp57ku6by",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/amethyst-grass-beta/amethyst-grass-beta_data.json"
   },
   {
-    "cid": "bafkreiarkyhhuiinyt6vigjvqtl3a4flj5jxs56dc3gyybovy3woptdwgq",
+    "cid": "bafkreiccav62pbkowal7u5uyz2a5poeiulfcpnnn2hxjwqewy7tcrkbgcu",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/amethyst-grass-portal/amethyst-grass-portal_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreichmtasiz7nb22ikjan3vx5snh56fwxyndop6mlmz2vknr3dqgb7i",
+    "cid": "bafkreiazqtjqfzyznzzqtewuj535j6whblaj2uts3w6pzqx5cryhgzs7su",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/amethyst-grass-portal/amethyst-grass-portal_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiavq4eqn6tpai4qooravrqdtpef6bi6cshlvrkklxdqakmqarerey",
+    "cid": "bafkreiavmdnpw43ftf34u4jsoagfro3ubqemt25zvi6nuuj7gk3vqcjlqm",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/amethyst-grass-portal/amethyst-grass-portal_data.json"
   },
   {
-    "cid": "bafkreiclfxypib2lr3dedpnulzxoj6t4xuqsxzskxjpxq4qhremzrbyrju",
+    "cid": "bafkreifhbi7uxgqetpv3b44o7jwcjfeilsgwhc5u7risfzle5pm5etvpt4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/amethyst-tree-alpha/amethyst-tree-alpha_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreifbkou65w2jwzftoavbxisojzx6grxlbbio2trgejhi5jhjmpe25a",
+    "cid": "bafkreie3cy6leoydiilph7qivgnkrf5pwwocf2xc2ovrr62u7nkabb6b3m",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/amethyst-tree-alpha/amethyst-tree-alpha_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiesffamifvsl6nlyosujfjpnmossblhpiewx7csjta56fzicook2e",
+    "cid": "bafkreiectypbaq3zvcymxdtcsj75kywwryr7f7rshpg44pfoohbdkkiufq",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/amethyst-tree-alpha/amethyst-tree-alpha_data.json"
   },
   {
-    "cid": "bafkreiccsh4l44k3b5wmypgeqalpdwvvqaxoomelmxheqzbuad4zllz4pi",
+    "cid": "bafkreigs6lhivd2hh7lzqkrefxw24km3gjbew2axbluwyberaxgdhps6xu",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiaqqg4r7dggju3mc4zfkkepc5mul5m2nrpu2sbyvyagfqpxbe2qwi",
+    "cid": "bafkreid5fwikpo6blncffyqisdeubdb6fmfmgo2luh56txozllk5m7vkqm",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiafpdnynvrf4mncdcgouzkmp6ioeit52m3mwwukira5fekrsdduve",
+    "cid": "bafkreig7cesuae7tqqicfq3mpanrc2jvlctmlrsr6qdrusnet3st34ngra",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/anon/anon_data.json"
   },
   {
-    "cid": "bafkreig3bw5g3hi6y2ubbuxvpbcvoed7geutuiwr76srxggswpm4v5fdha",
+    "cid": "bafkreie55rdkyygnyy53hf5b7bh6zhv7tqgyx4fokjio5okz6umv4fsrku",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreies5745rxyfp6yzbs5e5uuurjwt6qn7kohmenvsinq7czvoftb56e",
+    "cid": "bafkreiebmyyavwgipr2w5k66zpnd4mqajt4ig2pzhg6rehjby4yqchzyxu",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihklsq3u2voxxhxhtgo2n4xgak42ofkztzrm3z3u44yx34l45lzdm",
+    "cid": "bafkreihyt2ywevzmj3wkkxl57boudoxhcdhvp7enl754ehqghklq22djqu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_data.json"
   },
   {
-    "cid": "bafkreih7pciroahkqbcgr5fcr4dg2bnv256dc2e6662j5l7f7ut7q5s46m",
+    "cid": "bafkreieh2kl77ljrggq3mjyvoqcduma3m7pk3pbjusob6fzymjebahnnve",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreie4vj6fjgf4syk2vi3s3pds4ocmd4y2lfk5a6w5nc55en3vhdyl4i",
+    "cid": "bafkreiakvqgusvdqli4fpy2k3grxp6bv6i6tq7pcbcyuq2oc7icbuiaume",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreifkhpoaxm7lzjljya2wthf3wauoc6b7prcxn6fffumnm53ofkfeva",
+    "cid": "bafkreicb747jgzmdzrrfatr2n3j5tcav3iz4zxauzjl6oidyd5ibyqycpy",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_data.json"
   },
@@ -110,217 +110,197 @@
     "mfsPath": "/object-layer/biometric-masking-array/biometric-masking-array_data.json"
   },
   {
-    "cid": "bafkreifrjzvikvvq33d2tqba43oaui3xgcm7faaa6qxxhc6lforx6kov7i",
+    "cid": "bafkreid4ztvkxi3bhbvlpmed4it4gdkkddcisdogguaj2cxi3aws62ftsy",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/coin/coin_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreib3wkek3fsbsjfqp7dlsrxwyev476rd3z4lpw5nxgbzyvjsmr7kce",
+    "cid": "bafkreie4py2hu43jk73whsqsvcyyl3i2zfudhjldrioneougxzdc4n57nu",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/coin/coin_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidftf6rzxvm43txxf5ct7xovk5izdlmvz5e3tv5zz3avgvwfefp3i",
+    "cid": "bafkreidcxsqugcopriugzhl5hrf75blpduunwzpbvanckmbzhqtt7xezpe",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/coin/coin_data.json"
   },
   {
-    "cid": "bafkreic6ujrrugy33zytc36kev3nmt5unvxc6lxlpaecb7uz25a7zmsrxu",
-    "resourceType": "object-layer-data",
-    "mfsPath": "/object-layer/composite-bark-plating/composite-bark-plating_data.json"
-  },
-  {
-    "cid": "bafkreigtip2o3shsyurtd3wtmpa4fdmln7ewukhsrnnkkddcmzv7shmqim",
+    "cid": "bafkreihztbwfwnlqcqgw7twjcodo7m24dy4543dksd4zrhzcffkpbkgqhy",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/elara-voss-kalu/elara-voss-kalu_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreifansvrvqvgqcplpflkegbs4b6cz26cdpkt6dg7gmhoqppy33lmei",
+    "cid": "bafkreiauscoo5hklhpcmhmll4xz7nygxg4tx47evryb2vctivzahluqhrm",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/elara-voss-kalu/elara-voss-kalu_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicyleqa7qbugjjblg2pey6ikjkek5ywayr5km7uy3k4clm5ctxdoi",
+    "cid": "bafkreiabcwsa2xtisfux3pzvgq4oswifdqbpft6mp2oguc74rdqcb7fdju",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/elara-voss-kalu/elara-voss-kalu_data.json"
   },
   {
-    "cid": "bafkreihar2f6xtau7g5mi2uicd3v4c67elj5et3zpgafltkuvjh6o7u3mu",
+    "cid": "bafkreibnwu4ekbiuw7r54g4d52dhlece432nmfjz73dsuzwvdafhkrrmnm",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreigmlmoxnatyhhzkwj6k2d4jhvkdb4du6fhrnqjx3x4kzvzeqndbgq",
+    "cid": "bafkreianqdnp7vzatiwghttustqn7rvhf7jq6d2u3yqlhdfwhcdj7whj4y",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreid7ljlkhiwxaezeedyb3hk47bjfbv37vg7gne3ncdzwjz66y7zifa",
+    "cid": "bafkreib4zeuwmj6wnyhi24aee7pcwo5qh3t226xuinwps3jpddgbln23wy",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/fragmentation/fragmentation_data.json"
   },
   {
-    "cid": "bafkreicwc4snls2pj7jduuuixeeezkhtfjq3carbq7bcetgc2m6goz2h2u",
-    "resourceType": "atlas-sprite-sheet",
-    "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet.png"
-  },
-  {
-    "cid": "bafkreibm6rzmhx2bw7cryojqkcyvqhqir2ystf4uxjyenem7gvfrxh3ij4",
-    "resourceType": "atlas-metadata",
-    "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet_metadata.json"
-  },
-  {
-    "cid": "bafkreicaq6y6hxyvfvxfbzvte53e6coyb6xjrcro3ggab6n7lpd4om6eeu",
-    "resourceType": "object-layer-data",
-    "mfsPath": "/object-layer/ghost/ghost_data.json"
-  },
-  {
-    "cid": "bafkreid7dnb73y72konhfhz3xjxyhbt3yfhnkbzu6glnvgc4f2xqwcywmi",
+    "cid": "bafkreib23tj3badowyhm2kpnnc4nwvthgqk6bff75tgmnqgnkudvtgkksq",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/jiro-samsara-lin/jiro-samsara-lin_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreidyfc4t6pz47mdzneubo6qgbtyoq5c3xfmqm2v2qr7j5jgrjpibpa",
+    "cid": "bafkreidxhe62xmjx2t4mee3o2k65fwukv5yq3lyy66a3xz7zbqu736fyqy",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/jiro-samsara-lin/jiro-samsara-lin_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihn4p4qbxujsqem74kf3p22msgknam74bod3twek5mjwtsptcerte",
+    "cid": "bafkreicj3n6cghlyr5zkoruthaxiqznuzfgki2v7zhwe6ax3cwgxjnh3vq",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/jiro-samsara-lin/jiro-samsara-lin_data.json"
   },
   {
-    "cid": "bafkreigrrvyjgj5yxrlppdzgaslcqrsndpq6pinsprpuqsfhbmbnpnm2um",
+    "cid": "bafkreigrexyfve6zxoxenk2bej7lvnlhpcgkvikuho3yiezq2g6ter26p4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/knot-node-terminal/knot-node-terminal_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreia75t3u2l54ujq35scdy6l2m6f5rpkvnlglmrcm6p4tt6pquaynpi",
+    "cid": "bafkreid5ewuvblywsepl5gl53q6kldiqilhipusaof6xkj7tcl2ltifdqe",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/knot-node-terminal/knot-node-terminal_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreic425ieveyzpwekjgieat7gbynoekff6uvbhx2krfudjwj3kvlm5e",
+    "cid": "bafkreihq6ntr3yvicidfg2zsyrhovw5iqdii6u7ayyebzcqjsw5ip4clqm",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/knot-node-terminal/knot-node-terminal_data.json"
   },
   {
-    "cid": "bafkreia3nwp5bx55ag7j672bu5rjhgi4zah7mejbufoywdkri34n5u7ubm",
+    "cid": "bafkreicbwdlx5utajhajzmam32iukyrvbjffyjbcdgyacalesu5rufzowa",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/purplish-sap-vial/purplish-sap-vial_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreihfhhw3ko5ahdxrzpi2ehazylnaacb4o7jhler37mvbmunc6h2avm",
+    "cid": "bafkreidhalzxnmhwqxh26fclftb6l4vvkrd4z7crbmtdhht4zxvtrqzhne",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/purplish-sap-vial/purplish-sap-vial_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiasjssvtbjyqfpavcwmkdh5lmgyjxflxyjict7ocgvqwmrcbrj4za",
+    "cid": "bafkreih4qi7ob5cbgoypvgd6itdm7v7eiewx566h2p3gfqw43haimgmv6q",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/purplish-sap-vial/purplish-sap-vial_data.json"
   },
   {
-    "cid": "bafkreielwmv4vhi2zxit53ykac2rgn7bcw5rl4sznuldtvpwyll6p45yqq",
+    "cid": "bafkreiduhadut524qshfyjo562pvnus2aa5cmloe5zla2xjunj73oiqod4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/purplish-sap-vial-extracted/purplish-sap-vial-extracted_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreig4mhfo56vnxjopedhrtzdjmytgqechpkvh5cdc7i5gbsszy67224",
+    "cid": "bafkreidr5bqokopwizpgcsau7yv4pnjxrbr3243cjbn47gxognslavqjoa",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/purplish-sap-vial-extracted/purplish-sap-vial-extracted_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibw2pv5rybnzskotkcxldv75zg5kg3fi5l4jgrctn362ckfei6rna",
+    "cid": "bafkreib274vsequcefd26wniryo6pi6iwoguvkbbz4i4q3a25cvauywpge",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/purplish-sap-vial-extracted/purplish-sap-vial-extracted_data.json"
   },
   {
-    "cid": "bafkreietbgmu5jeylxzw5hnoflcienhewmth3a2amxb4jh3mecmmi7c56a",
+    "cid": "bafkreiasa5m4vpvcswm5dxo63fsrt3b7wb3oar5thsur4p5g22qe4bunpe",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-floor/sap-logic-array-floor_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreid5zmrjjpqgwvyqn4c7odehvpows5ozfi72xutas3wpstydp5kjny",
+    "cid": "bafkreiei5tfwhvvkycpuitp3gptf7r6zfv3pnr6qgcdlv3vce3vqvrguly",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-floor/sap-logic-array-floor_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiay6tu3rzxmjgrmqqf5rrig5wb4q2ghide55wptm7xznd7c4ydqfy",
+    "cid": "bafkreibgsw63ik2s5hd4i4rfomdkre37yzmy6hgvsmhalhhy2jx5mhumxa",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-floor/sap-logic-array-floor_data.json"
   },
   {
-    "cid": "bafkreihzmvs6qxe6qjuwhadz36v3gslvkuyjp5vzpdri3ntqsyxep2kboa",
+    "cid": "bafkreicdcgzr4f6xe3wyvup3m3dmfmkxfknpntxtlroryicjdo47x63b4q",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded/sap-logic-array-floor-degraded_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreighisa2pqbiotg63lpmsmyhxaidr6r6q3xhul73viwexwhdwrcrvi",
+    "cid": "bafkreiglatfygkip4fzucppurcuwyl3l4zb6yyuvgzw25lezmhjl5c2cpy",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded/sap-logic-array-floor-degraded_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicouguyw6mfv4uzqfyl5to6chuebcsoa75zi4w347nx2av6hvqnte",
+    "cid": "bafkreie7zmk4zyojx3fzliz4vlusxpjvpx6coljlnopf3krsxuvv6tkvki",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded/sap-logic-array-floor-degraded_data.json"
   },
   {
-    "cid": "bafkreictjq4lbd4dthgc66jmze3hlxbffofhw636esdmcwksftdobwggae",
+    "cid": "bafkreigb27ubmtamq2ovjsf63kkf2vc4yaonlc5i7rxbnv6unhbq2dejna",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded-alpha/sap-logic-array-floor-degraded-alpha_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreidreytjmhtqsruylpwyn5olzfddkgjqwuvmatvhu45z6x5iqolvl4",
+    "cid": "bafkreibo2fkwy4qg5cemouftrwyh3yk7bsaepldgdym24j7gmbedlaogh4",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded-alpha/sap-logic-array-floor-degraded-alpha_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibuz72gzvhbgkoccn2hz7xkcwnpbw37c6paa2okw7i42t7nar32sa",
+    "cid": "bafkreifjrhgxxzasg55yjwlumz5xtpug75mosaby6ulsscfj3bvdw46x2m",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-floor-degraded-alpha/sap-logic-array-floor-degraded-alpha_data.json"
   },
   {
-    "cid": "bafkreihjybuf456u4ug2r2oqhe3a2oa2bpqbwbcn63ifhyhjfyykkuusfa",
+    "cid": "bafkreibf6y3ctgmqzbiflseukcvrlyzs64dd3jgo7mqe5kg5tgk3jsgmse",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-wall-left/sap-logic-array-wall-left_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreie3l2352i6rdyxpfhlpkkwgh4ipekpc5lgcrvcfecpuxev6mzhwxy",
+    "cid": "bafkreiampaspyhij4ahggzx6sjbyfq5skimmzubldgro3jeobmcqhvpj54",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-wall-left/sap-logic-array-wall-left_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihp5wzay5ouhhnyos6xypa6qperocrpm52geci5d4jdajsc3smdau",
+    "cid": "bafkreigqk6qcpfkv7zcmcigstifpjlr7ifb3syi5tog6uoxw2447ghadvq",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-wall-left/sap-logic-array-wall-left_data.json"
   },
   {
-    "cid": "bafkreidurwiukm2ucf3dbv7gpuidz5w2lqweculz6u7gk4bxkcrqkvx4qm",
+    "cid": "bafkreigxmk3p5ttjjelp4hisvqeja5v3hvsqet7iwy4nrkqwhi6umm5p7i",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-wall-left-beta/sap-logic-array-wall-left-beta_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreia5zeqje7zqixebpepzn6g56w5ob5uvdoku74jmcxkwt2r6vy6mwa",
+    "cid": "bafkreifk2rkjzfl7wecnuclz33t7p4pfy34hivl2rmau2udyuje47lgwty",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-wall-left-beta/sap-logic-array-wall-left-beta_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihjauu6eo23f4snpsoh3hur2jje3ofdtirhmlts47hxyznss4tjsa",
+    "cid": "bafkreibrmx3j26ufprky6bzs6a4nq4zumnryostqyi34io67dorfrrq2hi",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-wall-left-beta/sap-logic-array-wall-left-beta_data.json"
   },
   {
-    "cid": "bafkreibhdomnwuungswm5inhsnnknkymsoskzttgb5javiszk6aep5wr4e",
+    "cid": "bafkreidyjsp3usgwji6haocxint6akjluqgtxs4y7ny7ssu4zqvypz7rs4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/sap-logic-array-wall-top-alpha/sap-logic-array-wall-top-alpha_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreidyj7uk7rjmtn2cr7wgjdur7zkmat5e2adtd5rqycx3l6qwniejjm",
+    "cid": "bafkreicegzhpb5prpes27prjmu5lcfdrpxkekhd755e3vdrmme4mfkraku",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/sap-logic-array-wall-top-alpha/sap-logic-array-wall-top-alpha_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibr6ewynb7enbkcd6krqsauvbp6n2y6k6x7fke5w2hdwwebqpznfi",
+    "cid": "bafkreidxcctzvj62johsvkdy6ck33gvacab5b632nrr3sdbyharkybiwje",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/sap-logic-array-wall-top-alpha/sap-logic-array-wall-top-alpha_data.json"
   },
@@ -330,18 +310,8 @@
     "mfsPath": "/object-layer/spore-suppressor-slugger/spore-suppressor-slugger_data.json"
   },
   {
-    "cid": "bafkreih5u7dhwazddhed7p2lljbiyfhfdj4jzan3ypwztd7l6gv3ueie7q",
-    "resourceType": "object-layer-data",
-    "mfsPath": "/object-layer/thon-zheng/thon-zheng_data.json"
-  },
-  {
     "cid": "bafkreib72aasna4kpg6s7jmp4dyeeii7mgfyjhpxllyslnu2m3p6np2iye",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/violet-growth-knot/violet-growth-knot_data.json"
-  },
-  {
-    "cid": "bafkreiemuo6jhbiri5vb74rm3no6jq6hdytdi7uc7intivqhymihnhkvby",
-    "resourceType": "object-layer-data",
-    "mfsPath": "/object-layer/vossen-khyber/vossen-khyber_data.json"
   }
 ]

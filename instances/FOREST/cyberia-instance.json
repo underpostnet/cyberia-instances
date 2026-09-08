@@ -13,18 +13,6 @@
     "FOREST-A",
     "FOREST-B"
   ],
-  "itemIds": [
-    {
-      "id": "gp1",
-      "defaultPlayerInventory": false,
-      "_id": "6a3ff10a7163ccdde8da8655"
-    },
-    {
-      "id": "gp2",
-      "defaultPlayerInventory": false,
-      "_id": "6a3ff10a7163ccdde8da8656"
-    }
-  ],
   "portals": [
     {
       "sourceMapCode": "FOREST-A",
@@ -82,6 +70,9 @@
     }
   ],
   "playerSpawn": {
+    "sourceMapCode": "",
+    "sourceCellX": 0,
+    "sourceCellY": 0,
     "random": false
   },
   "seed": "",

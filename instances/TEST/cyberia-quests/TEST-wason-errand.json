@@ -1,20 +1,13 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2cb",
-  "code": "TEST-wason-errand",
-  "__v": 0,
-  "createdAt": "2026-08-27T05:52:34.359Z",
-  "description": "Gather coins from the field and bring them back to Wason.",
-  "prerequisiteCodes": [],
-  "rewards": [
-    {
-      "itemId": "hatchet",
-      "quantity": 1,
-      "_id": "6a8fd26901edebf032f93c71"
-    }
-  ],
+  "sourceMapCode": "TEST-map-0",
   "sourceCellX": 12,
   "sourceCellY": 10,
-  "sourceMapCode": "TEST-map-0",
+  "code": "TEST-wason-errand",
+  "title": "Wason's Errand",
+  "description": "Gather coins from the field and bring them back to Wason.",
+  "prerequisiteCodes": [],
+  "unlocksQuestCodes": [],
   "steps": [
     {
       "id": "step-collect-coins",
@@ -43,7 +36,14 @@
       "_id": "6a8fd26901edebf032f93c74"
     }
   ],
-  "title": "Wason's Errand",
-  "unlocksQuestCodes": [],
-  "updatedAt": "2026-08-27T06:00:09.019Z"
+  "rewards": [
+    {
+      "itemId": "hatchet",
+      "quantity": 1,
+      "_id": "6a8fd26901edebf032f93c71"
+    }
+  ],
+  "createdAt": "2026-08-27T05:52:34.359Z",
+  "updatedAt": "2026-08-27T05:52:34.359Z",
+  "__v": 0
 }

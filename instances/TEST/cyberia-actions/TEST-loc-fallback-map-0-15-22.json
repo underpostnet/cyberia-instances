@@ -1,11 +1,11 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2c9",
+  "sourceMapCode": "TEST-map-0",
+  "sourceCellX": 15,
+  "sourceCellY": 22,
   "code": "TEST-loc-fallback-map-0-15-22",
-  "__v": 0,
-  "craftRecipes": [],
-  "createdAt": "2026-08-27T05:52:34.351Z",
-  "dialogCode": "default-lain",
   "label": "Lain",
+  "dialogCode": "default-lain",
   "questDialogueCodes": [
     {
       "questCode": "TEST-lain-demo-timber-run",
@@ -24,9 +24,9 @@
     }
   ],
   "shopItems": [],
-  "sourceCellX": 15,
-  "sourceCellY": 22,
-  "sourceMapCode": "TEST-map-0",
+  "craftRecipes": [],
   "storageSlots": 0,
-  "updatedAt": "2026-08-27T06:00:09.012Z"
+  "createdAt": "2026-08-27T05:52:34.351Z",
+  "updatedAt": "2026-08-27T05:52:34.351Z",
+  "__v": 0
 }

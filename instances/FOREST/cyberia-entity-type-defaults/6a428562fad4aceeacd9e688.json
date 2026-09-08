@@ -10,7 +10,8 @@
   "dropItemIds": [
     "wood-drop-1"
   ],
-  "defaultObjectLayers": [],
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
   "createdAt": "2026-06-29T14:46:58.708Z",
   "updatedAt": "2026-06-29T14:46:58.708Z",
   "__v": 0

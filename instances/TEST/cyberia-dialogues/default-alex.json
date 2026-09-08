@@ -1,24 +1,24 @@
 [
   {
     "_id": "6a8fcb822ccebd1c7e97d234",
-    "order": 0,
     "code": "default-alex",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.271Z",
-    "mood": "neutral",
+    "order": 0,
     "speaker": "Alex",
     "text": "I have been mapping the portal network. Something does not add up.",
-    "updatedAt": "2026-08-27T05:38:00.093Z"
+    "mood": "neutral",
+    "createdAt": "2026-08-27T05:30:42.271Z",
+    "updatedAt": "2026-08-27T05:30:42.271Z",
+    "__v": 0
   },
   {
     "_id": "6a8fcb822ccebd1c7e97d235",
-    "order": 1,
     "code": "default-alex",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.273Z",
-    "mood": "neutral",
+    "order": 1,
     "speaker": "Alex",
     "text": "There are nodes that exist in the registry but have no physical anchor.",
-    "updatedAt": "2026-08-27T05:38:00.096Z"
+    "mood": "neutral",
+    "createdAt": "2026-08-27T05:30:42.273Z",
+    "updatedAt": "2026-08-27T05:30:42.273Z",
+    "__v": 0
   }
 ]

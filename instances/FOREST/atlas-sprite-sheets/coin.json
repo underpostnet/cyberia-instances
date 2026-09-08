@@ -1,109 +1,153 @@
 {
   "_id": "69b91822ac68ab7566e43ff3",
-  "fileId": "69e65622e798c035b503a300",
-  "cid": "bafkreifrjzvikvvq33d2tqba43oaui3xgcm7faaa6qxxhc6lforx6kov7i",
+  "fileId": "6a9fe1d46d406550557c83ef",
+  "cid": "bafkreid4ztvkxi3bhbvlpmed4it4gdkkddcisdogguaj2cxi3aws62ftsy",
   "metadata": {
     "itemKey": "coin",
-    "atlasWidth": 4096,
-    "atlasHeight": 4096,
-    "cellPixelDim": 20,
-    "frame_duration": 100,
+    "atlasWidth": 125,
+    "atlasHeight": 100,
+    "cellPixelDim": 1,
+    "frame_duration": 250,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 500,
+          "x": 25,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         },
         {
-          "x": 1000,
+          "x": 50,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 2
         },
         {
-          "x": 1500,
+          "x": 75,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 3
         },
         {
-          "x": 2000,
+          "x": 100,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 4
         },
         {
-          "x": 2500,
-          "y": 0,
-          "width": 500,
-          "height": 500,
+          "x": 0,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 5
         }
       ],
+      "default_idle": [
+        {
+          "x": 25,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        },
+        {
+          "x": 50,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 1
+        },
+        {
+          "x": 75,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 2
+        },
+        {
+          "x": 100,
+          "y": 25,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 3
+        },
+        {
+          "x": 0,
+          "y": 50,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 4
+        },
+        {
+          "x": 25,
+          "y": 50,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 5
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 50,
+          "y": 50,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 0
+        },
+        {
+          "x": 75,
+          "y": 50,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 1
+        },
+        {
+          "x": 100,
+          "y": 50,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 2
+        },
+        {
+          "x": 0,
+          "y": 75,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 3
+        },
+        {
+          "x": 25,
+          "y": 75,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 4
+        },
+        {
+          "x": 50,
+          "y": 75,
+          "width": 25,
+          "height": 25,
+          "frameIndex": 5
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 3000,
-          "y": 0,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        },
-        {
-          "x": 3500,
-          "y": 0,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 1
-        },
-        {
-          "x": 0,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 2
-        },
-        {
-          "x": 500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 3
-        },
-        {
-          "x": 1000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 4
-        },
-        {
-          "x": 1500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 5
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -111,54 +155,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 2000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 0
-        },
-        {
-          "x": 2500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 1
-        },
-        {
-          "x": 3000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 2
-        },
-        {
-          "x": 3500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 3
-        },
-        {
-          "x": 0,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 4
-        },
-        {
-          "x": 500,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
-          "frameIndex": 5
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-03-17T09:00:18.163Z",
-  "updatedAt": "2026-07-20T19:29:42.352Z",
+  "updatedAt": "2026-09-08T10:22:12.407Z",
   "__v": 0
 }

@@ -1,20 +1,20 @@
 {
   "_id": "6a8fcae5d1e1a48e3f29f838",
-  "fileId": "6a8fcd0b4f6f544a74082ef1",
-  "cid": "bafkreiftsdzg37gd4pzwzxuveq76plunqmu6so67sjgtjiqe22l5y3sdne",
+  "fileId": "6a9fd60e4bd86e560db3a920",
+  "cid": "bafkreiamh6qc3enm37pokysgspx73g672lwzqgd6i7ozpq4ulweplmt4cm",
   "metadata": {
     "itemKey": "lain",
-    "atlasWidth": 4096,
-    "atlasHeight": 4096,
-    "cellPixelDim": 20,
+    "atlasWidth": 250,
+    "atlasHeight": 75,
+    "cellPixelDim": 1,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
         {
-          "x": 500,
+          "x": 25,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
@@ -22,214 +22,214 @@
         {
           "x": 0,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "right_idle": [
         {
-          "x": 1500,
+          "x": 75,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "left_idle": [
         {
-          "x": 1000,
+          "x": 50,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "up_right_idle": [
         {
-          "x": 3500,
+          "x": 175,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "down_right_idle": [
         {
-          "x": 2500,
+          "x": 125,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "up_left_idle": [
         {
-          "x": 3000,
+          "x": 150,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "down_left_idle": [
         {
-          "x": 2000,
+          "x": 100,
           "y": 0,
-          "width": 500,
-          "height": 500,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "default_idle": [
         {
-          "x": 0,
-          "y": 1500,
-          "width": 500,
-          "height": 500,
+          "x": 100,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ],
       "up_walking": [
         {
-          "x": 1000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 0,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 1500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 25,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "down_walking": [
         {
-          "x": 0,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 200,
+          "y": 0,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 225,
+          "y": 0,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "right_walking": [
         {
-          "x": 3000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 100,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 3500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 125,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "left_walking": [
         {
-          "x": 2000,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 50,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 2500,
-          "y": 500,
-          "width": 500,
-          "height": 500,
+          "x": 75,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "up_right_walking": [
         {
-          "x": 3000,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 50,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 3500,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 75,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "down_right_walking": [
         {
-          "x": 1000,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 200,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 1500,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 225,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "up_left_walking": [
         {
-          "x": 2000,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 0,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 2500,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 25,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "down_left_walking": [
         {
-          "x": 0,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 150,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         },
         {
-          "x": 500,
-          "y": 1000,
-          "width": 500,
-          "height": 500,
+          "x": 175,
+          "y": 25,
+          "width": 25,
+          "height": 25,
           "frameIndex": 1
         }
       ],
       "none_idle": [
         {
-          "x": 500,
-          "y": 1500,
-          "width": 500,
-          "height": 500,
+          "x": 125,
+          "y": 50,
+          "width": 25,
+          "height": 25,
           "frameIndex": 0
         }
       ]
     }
   },
   "createdAt": "2026-08-27T05:28:05.361Z",
-  "updatedAt": "2026-08-27T05:37:16.027Z",
+  "updatedAt": "2026-09-08T09:31:58.762Z",
   "__v": 0
 }

@@ -1,10 +1,7 @@
 {
   "_id": "6a8fd0a22ccebd1c7e97d2be",
   "code": "TEST-map-0",
-  "__v": 0,
-  "cellHeight": 32,
-  "cellWidth": 32,
-  "createdAt": "2026-08-27T05:52:34.245Z",
+  "name": "Fallback fallback-map-0",
   "description": "",
   "entities": [
     {
@@ -22,7 +19,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931dd"
+      "_id": "6a9e0defe98a8dfee2a70683"
     },
     {
       "entityType": "floor",
@@ -39,7 +36,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931de"
+      "_id": "6a9e0defe98a8dfee2a70684"
     },
     {
       "entityType": "floor",
@@ -56,7 +53,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931df"
+      "_id": "6a9e0defe98a8dfee2a70685"
     },
     {
       "entityType": "floor",
@@ -73,7 +70,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e0"
+      "_id": "6a9e0defe98a8dfee2a70686"
     },
     {
       "entityType": "floor",
@@ -90,7 +87,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e1"
+      "_id": "6a9e0defe98a8dfee2a70687"
     },
     {
       "entityType": "floor",
@@ -107,7 +104,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e2"
+      "_id": "6a9e0defe98a8dfee2a70688"
     },
     {
       "entityType": "floor",
@@ -124,7 +121,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e3"
+      "_id": "6a9e0defe98a8dfee2a70689"
     },
     {
       "entityType": "floor",
@@ -141,7 +138,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e4"
+      "_id": "6a9e0defe98a8dfee2a7068a"
     },
     {
       "entityType": "floor",
@@ -158,7 +155,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e5"
+      "_id": "6a9e0defe98a8dfee2a7068b"
     },
     {
       "entityType": "floor",
@@ -175,7 +172,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e6"
+      "_id": "6a9e0defe98a8dfee2a7068c"
     },
     {
       "entityType": "floor",
@@ -192,7 +189,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e7"
+      "_id": "6a9e0defe98a8dfee2a7068d"
     },
     {
       "entityType": "floor",
@@ -209,7 +206,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e8"
+      "_id": "6a9e0defe98a8dfee2a7068e"
     },
     {
       "entityType": "floor",
@@ -226,7 +223,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931e9"
+      "_id": "6a9e0defe98a8dfee2a7068f"
     },
     {
       "entityType": "floor",
@@ -243,7 +240,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ea"
+      "_id": "6a9e0defe98a8dfee2a70690"
     },
     {
       "entityType": "floor",
@@ -260,7 +257,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931eb"
+      "_id": "6a9e0defe98a8dfee2a70691"
     },
     {
       "entityType": "floor",
@@ -277,7 +274,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ec"
+      "_id": "6a9e0defe98a8dfee2a70692"
     },
     {
       "entityType": "floor",
@@ -294,7 +291,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ed"
+      "_id": "6a9e0defe98a8dfee2a70693"
     },
     {
       "entityType": "floor",
@@ -311,7 +308,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ee"
+      "_id": "6a9e0defe98a8dfee2a70694"
     },
     {
       "entityType": "floor",
@@ -328,7 +325,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ef"
+      "_id": "6a9e0defe98a8dfee2a70695"
     },
     {
       "entityType": "floor",
@@ -345,7 +342,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f0"
+      "_id": "6a9e0defe98a8dfee2a70696"
     },
     {
       "entityType": "floor",
@@ -362,7 +359,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f1"
+      "_id": "6a9e0defe98a8dfee2a70697"
     },
     {
       "entityType": "floor",
@@ -379,7 +376,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f2"
+      "_id": "6a9e0defe98a8dfee2a70698"
     },
     {
       "entityType": "floor",
@@ -396,7 +393,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f3"
+      "_id": "6a9e0defe98a8dfee2a70699"
     },
     {
       "entityType": "floor",
@@ -413,7 +410,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f4"
+      "_id": "6a9e0defe98a8dfee2a7069a"
     },
     {
       "entityType": "floor",
@@ -430,7 +427,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f5"
+      "_id": "6a9e0defe98a8dfee2a7069b"
     },
     {
       "entityType": "floor",
@@ -447,7 +444,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f6"
+      "_id": "6a9e0defe98a8dfee2a7069c"
     },
     {
       "entityType": "floor",
@@ -464,7 +461,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f7"
+      "_id": "6a9e0defe98a8dfee2a7069d"
     },
     {
       "entityType": "floor",
@@ -481,7 +478,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f8"
+      "_id": "6a9e0defe98a8dfee2a7069e"
     },
     {
       "entityType": "floor",
@@ -498,7 +495,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931f9"
+      "_id": "6a9e0defe98a8dfee2a7069f"
     },
     {
       "entityType": "floor",
@@ -515,7 +512,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931fa"
+      "_id": "6a9e0defe98a8dfee2a706a0"
     },
     {
       "entityType": "floor",
@@ -532,7 +529,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931fb"
+      "_id": "6a9e0defe98a8dfee2a706a1"
     },
     {
       "entityType": "floor",
@@ -549,7 +546,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931fc"
+      "_id": "6a9e0defe98a8dfee2a706a2"
     },
     {
       "entityType": "floor",
@@ -566,7 +563,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931fd"
+      "_id": "6a9e0defe98a8dfee2a706a3"
     },
     {
       "entityType": "floor",
@@ -583,7 +580,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931fe"
+      "_id": "6a9e0defe98a8dfee2a706a4"
     },
     {
       "entityType": "floor",
@@ -600,7 +597,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f931ff"
+      "_id": "6a9e0defe98a8dfee2a706a5"
     },
     {
       "entityType": "floor",
@@ -617,7 +614,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93200"
+      "_id": "6a9e0defe98a8dfee2a706a6"
     },
     {
       "entityType": "floor",
@@ -634,7 +631,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93201"
+      "_id": "6a9e0defe98a8dfee2a706a7"
     },
     {
       "entityType": "floor",
@@ -651,7 +648,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93202"
+      "_id": "6a9e0defe98a8dfee2a706a8"
     },
     {
       "entityType": "floor",
@@ -668,7 +665,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93203"
+      "_id": "6a9e0defe98a8dfee2a706a9"
     },
     {
       "entityType": "floor",
@@ -685,7 +682,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93204"
+      "_id": "6a9e0defe98a8dfee2a706aa"
     },
     {
       "entityType": "floor",
@@ -702,7 +699,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93205"
+      "_id": "6a9e0defe98a8dfee2a706ab"
     },
     {
       "entityType": "floor",
@@ -719,7 +716,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93206"
+      "_id": "6a9e0defe98a8dfee2a706ac"
     },
     {
       "entityType": "floor",
@@ -736,7 +733,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93207"
+      "_id": "6a9e0defe98a8dfee2a706ad"
     },
     {
       "entityType": "floor",
@@ -753,7 +750,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93208"
+      "_id": "6a9e0defe98a8dfee2a706ae"
     },
     {
       "entityType": "floor",
@@ -770,7 +767,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93209"
+      "_id": "6a9e0defe98a8dfee2a706af"
     },
     {
       "entityType": "floor",
@@ -787,7 +784,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320a"
+      "_id": "6a9e0defe98a8dfee2a706b0"
     },
     {
       "entityType": "floor",
@@ -804,7 +801,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320b"
+      "_id": "6a9e0defe98a8dfee2a706b1"
     },
     {
       "entityType": "floor",
@@ -821,7 +818,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320c"
+      "_id": "6a9e0defe98a8dfee2a706b2"
     },
     {
       "entityType": "floor",
@@ -838,7 +835,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320d"
+      "_id": "6a9e0defe98a8dfee2a706b3"
     },
     {
       "entityType": "floor",
@@ -855,7 +852,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320e"
+      "_id": "6a9e0defe98a8dfee2a706b4"
     },
     {
       "entityType": "floor",
@@ -872,7 +869,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9320f"
+      "_id": "6a9e0defe98a8dfee2a706b5"
     },
     {
       "entityType": "floor",
@@ -889,7 +886,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93210"
+      "_id": "6a9e0defe98a8dfee2a706b6"
     },
     {
       "entityType": "floor",
@@ -906,7 +903,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93211"
+      "_id": "6a9e0defe98a8dfee2a706b7"
     },
     {
       "entityType": "floor",
@@ -923,7 +920,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93212"
+      "_id": "6a9e0defe98a8dfee2a706b8"
     },
     {
       "entityType": "floor",
@@ -940,7 +937,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93213"
+      "_id": "6a9e0defe98a8dfee2a706b9"
     },
     {
       "entityType": "floor",
@@ -957,7 +954,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93214"
+      "_id": "6a9e0defe98a8dfee2a706ba"
     },
     {
       "entityType": "floor",
@@ -974,7 +971,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93215"
+      "_id": "6a9e0defe98a8dfee2a706bb"
     },
     {
       "entityType": "floor",
@@ -991,7 +988,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93216"
+      "_id": "6a9e0defe98a8dfee2a706bc"
     },
     {
       "entityType": "floor",
@@ -1008,7 +1005,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93217"
+      "_id": "6a9e0defe98a8dfee2a706bd"
     },
     {
       "entityType": "floor",
@@ -1025,7 +1022,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93218"
+      "_id": "6a9e0defe98a8dfee2a706be"
     },
     {
       "entityType": "floor",
@@ -1042,7 +1039,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93219"
+      "_id": "6a9e0defe98a8dfee2a706bf"
     },
     {
       "entityType": "floor",
@@ -1059,7 +1056,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321a"
+      "_id": "6a9e0defe98a8dfee2a706c0"
     },
     {
       "entityType": "floor",
@@ -1076,7 +1073,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321b"
+      "_id": "6a9e0defe98a8dfee2a706c1"
     },
     {
       "entityType": "floor",
@@ -1093,7 +1090,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321c"
+      "_id": "6a9e0defe98a8dfee2a706c2"
     },
     {
       "entityType": "floor",
@@ -1110,7 +1107,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321d"
+      "_id": "6a9e0defe98a8dfee2a706c3"
     },
     {
       "entityType": "floor",
@@ -1127,7 +1124,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321e"
+      "_id": "6a9e0defe98a8dfee2a706c4"
     },
     {
       "entityType": "floor",
@@ -1144,7 +1141,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9321f"
+      "_id": "6a9e0defe98a8dfee2a706c5"
     },
     {
       "entityType": "floor",
@@ -1161,7 +1158,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93220"
+      "_id": "6a9e0defe98a8dfee2a706c6"
     },
     {
       "entityType": "floor",
@@ -1178,7 +1175,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93221"
+      "_id": "6a9e0defe98a8dfee2a706c7"
     },
     {
       "entityType": "floor",
@@ -1195,7 +1192,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93222"
+      "_id": "6a9e0defe98a8dfee2a706c8"
     },
     {
       "entityType": "floor",
@@ -1212,7 +1209,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93223"
+      "_id": "6a9e0defe98a8dfee2a706c9"
     },
     {
       "entityType": "floor",
@@ -1229,7 +1226,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93224"
+      "_id": "6a9e0defe98a8dfee2a706ca"
     },
     {
       "entityType": "floor",
@@ -1246,7 +1243,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93225"
+      "_id": "6a9e0defe98a8dfee2a706cb"
     },
     {
       "entityType": "floor",
@@ -1263,7 +1260,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93226"
+      "_id": "6a9e0defe98a8dfee2a706cc"
     },
     {
       "entityType": "floor",
@@ -1280,7 +1277,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93227"
+      "_id": "6a9e0defe98a8dfee2a706cd"
     },
     {
       "entityType": "floor",
@@ -1297,7 +1294,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93228"
+      "_id": "6a9e0defe98a8dfee2a706ce"
     },
     {
       "entityType": "floor",
@@ -1314,7 +1311,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93229"
+      "_id": "6a9e0defe98a8dfee2a706cf"
     },
     {
       "entityType": "floor",
@@ -1331,7 +1328,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322a"
+      "_id": "6a9e0defe98a8dfee2a706d0"
     },
     {
       "entityType": "floor",
@@ -1348,7 +1345,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322b"
+      "_id": "6a9e0defe98a8dfee2a706d1"
     },
     {
       "entityType": "floor",
@@ -1365,7 +1362,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322c"
+      "_id": "6a9e0defe98a8dfee2a706d2"
     },
     {
       "entityType": "floor",
@@ -1382,7 +1379,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322d"
+      "_id": "6a9e0defe98a8dfee2a706d3"
     },
     {
       "entityType": "floor",
@@ -1399,7 +1396,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322e"
+      "_id": "6a9e0defe98a8dfee2a706d4"
     },
     {
       "entityType": "floor",
@@ -1416,7 +1413,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9322f"
+      "_id": "6a9e0defe98a8dfee2a706d5"
     },
     {
       "entityType": "floor",
@@ -1433,7 +1430,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93230"
+      "_id": "6a9e0defe98a8dfee2a706d6"
     },
     {
       "entityType": "floor",
@@ -1450,7 +1447,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93231"
+      "_id": "6a9e0defe98a8dfee2a706d7"
     },
     {
       "entityType": "floor",
@@ -1467,7 +1464,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93232"
+      "_id": "6a9e0defe98a8dfee2a706d8"
     },
     {
       "entityType": "floor",
@@ -1484,7 +1481,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93233"
+      "_id": "6a9e0defe98a8dfee2a706d9"
     },
     {
       "entityType": "floor",
@@ -1501,7 +1498,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93234"
+      "_id": "6a9e0defe98a8dfee2a706da"
     },
     {
       "entityType": "floor",
@@ -1518,7 +1515,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93235"
+      "_id": "6a9e0defe98a8dfee2a706db"
     },
     {
       "entityType": "floor",
@@ -1535,7 +1532,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93236"
+      "_id": "6a9e0defe98a8dfee2a706dc"
     },
     {
       "entityType": "floor",
@@ -1552,7 +1549,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93237"
+      "_id": "6a9e0defe98a8dfee2a706dd"
     },
     {
       "entityType": "floor",
@@ -1569,7 +1566,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93238"
+      "_id": "6a9e0defe98a8dfee2a706de"
     },
     {
       "entityType": "floor",
@@ -1586,7 +1583,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93239"
+      "_id": "6a9e0defe98a8dfee2a706df"
     },
     {
       "entityType": "floor",
@@ -1603,7 +1600,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323a"
+      "_id": "6a9e0defe98a8dfee2a706e0"
     },
     {
       "entityType": "floor",
@@ -1620,7 +1617,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323b"
+      "_id": "6a9e0defe98a8dfee2a706e1"
     },
     {
       "entityType": "floor",
@@ -1637,7 +1634,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323c"
+      "_id": "6a9e0defe98a8dfee2a706e2"
     },
     {
       "entityType": "floor",
@@ -1654,7 +1651,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323d"
+      "_id": "6a9e0defe98a8dfee2a706e3"
     },
     {
       "entityType": "floor",
@@ -1671,7 +1668,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323e"
+      "_id": "6a9e0defe98a8dfee2a706e4"
     },
     {
       "entityType": "floor",
@@ -1688,7 +1685,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9323f"
+      "_id": "6a9e0defe98a8dfee2a706e5"
     },
     {
       "entityType": "floor",
@@ -1705,7 +1702,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93240"
+      "_id": "6a9e0defe98a8dfee2a706e6"
     },
     {
       "entityType": "floor",
@@ -1722,7 +1719,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93241"
+      "_id": "6a9e0defe98a8dfee2a706e7"
     },
     {
       "entityType": "floor",
@@ -1739,7 +1736,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93242"
+      "_id": "6a9e0defe98a8dfee2a706e8"
     },
     {
       "entityType": "floor",
@@ -1756,7 +1753,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93243"
+      "_id": "6a9e0defe98a8dfee2a706e9"
     },
     {
       "entityType": "floor",
@@ -1773,7 +1770,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93244"
+      "_id": "6a9e0defe98a8dfee2a706ea"
     },
     {
       "entityType": "floor",
@@ -1790,7 +1787,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93245"
+      "_id": "6a9e0defe98a8dfee2a706eb"
     },
     {
       "entityType": "floor",
@@ -1807,7 +1804,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93246"
+      "_id": "6a9e0defe98a8dfee2a706ec"
     },
     {
       "entityType": "floor",
@@ -1824,7 +1821,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93247"
+      "_id": "6a9e0defe98a8dfee2a706ed"
     },
     {
       "entityType": "floor",
@@ -1841,7 +1838,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93248"
+      "_id": "6a9e0defe98a8dfee2a706ee"
     },
     {
       "entityType": "floor",
@@ -1858,7 +1855,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93249"
+      "_id": "6a9e0defe98a8dfee2a706ef"
     },
     {
       "entityType": "floor",
@@ -1875,7 +1872,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324a"
+      "_id": "6a9e0defe98a8dfee2a706f0"
     },
     {
       "entityType": "floor",
@@ -1892,7 +1889,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324b"
+      "_id": "6a9e0defe98a8dfee2a706f1"
     },
     {
       "entityType": "floor",
@@ -1909,7 +1906,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324c"
+      "_id": "6a9e0defe98a8dfee2a706f2"
     },
     {
       "entityType": "floor",
@@ -1926,7 +1923,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324d"
+      "_id": "6a9e0defe98a8dfee2a706f3"
     },
     {
       "entityType": "floor",
@@ -1943,7 +1940,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324e"
+      "_id": "6a9e0defe98a8dfee2a706f4"
     },
     {
       "entityType": "floor",
@@ -1960,7 +1957,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9324f"
+      "_id": "6a9e0defe98a8dfee2a706f5"
     },
     {
       "entityType": "floor",
@@ -1977,7 +1974,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93250"
+      "_id": "6a9e0defe98a8dfee2a706f6"
     },
     {
       "entityType": "floor",
@@ -1994,7 +1991,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93251"
+      "_id": "6a9e0defe98a8dfee2a706f7"
     },
     {
       "entityType": "floor",
@@ -2011,7 +2008,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93252"
+      "_id": "6a9e0defe98a8dfee2a706f8"
     },
     {
       "entityType": "floor",
@@ -2028,7 +2025,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93253"
+      "_id": "6a9e0defe98a8dfee2a706f9"
     },
     {
       "entityType": "floor",
@@ -2045,7 +2042,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93254"
+      "_id": "6a9e0defe98a8dfee2a706fa"
     },
     {
       "entityType": "floor",
@@ -2062,7 +2059,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93255"
+      "_id": "6a9e0defe98a8dfee2a706fb"
     },
     {
       "entityType": "floor",
@@ -2079,7 +2076,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93256"
+      "_id": "6a9e0defe98a8dfee2a706fc"
     },
     {
       "entityType": "floor",
@@ -2096,7 +2093,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93257"
+      "_id": "6a9e0defe98a8dfee2a706fd"
     },
     {
       "entityType": "floor",
@@ -2113,7 +2110,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93258"
+      "_id": "6a9e0defe98a8dfee2a706fe"
     },
     {
       "entityType": "floor",
@@ -2130,7 +2127,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93259"
+      "_id": "6a9e0defe98a8dfee2a706ff"
     },
     {
       "entityType": "floor",
@@ -2147,7 +2144,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325a"
+      "_id": "6a9e0defe98a8dfee2a70700"
     },
     {
       "entityType": "floor",
@@ -2164,7 +2161,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325b"
+      "_id": "6a9e0defe98a8dfee2a70701"
     },
     {
       "entityType": "floor",
@@ -2181,7 +2178,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325c"
+      "_id": "6a9e0defe98a8dfee2a70702"
     },
     {
       "entityType": "floor",
@@ -2198,7 +2195,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325d"
+      "_id": "6a9e0defe98a8dfee2a70703"
     },
     {
       "entityType": "floor",
@@ -2215,7 +2212,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325e"
+      "_id": "6a9e0defe98a8dfee2a70704"
     },
     {
       "entityType": "floor",
@@ -2232,7 +2229,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9325f"
+      "_id": "6a9e0defe98a8dfee2a70705"
     },
     {
       "entityType": "floor",
@@ -2249,7 +2246,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93260"
+      "_id": "6a9e0defe98a8dfee2a70706"
     },
     {
       "entityType": "floor",
@@ -2266,7 +2263,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93261"
+      "_id": "6a9e0defe98a8dfee2a70707"
     },
     {
       "entityType": "floor",
@@ -2283,7 +2280,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93262"
+      "_id": "6a9e0defe98a8dfee2a70708"
     },
     {
       "entityType": "floor",
@@ -2300,7 +2297,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93263"
+      "_id": "6a9e0defe98a8dfee2a70709"
     },
     {
       "entityType": "floor",
@@ -2317,7 +2314,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93264"
+      "_id": "6a9e0defe98a8dfee2a7070a"
     },
     {
       "entityType": "floor",
@@ -2334,7 +2331,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93265"
+      "_id": "6a9e0defe98a8dfee2a7070b"
     },
     {
       "entityType": "floor",
@@ -2351,7 +2348,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93266"
+      "_id": "6a9e0defe98a8dfee2a7070c"
     },
     {
       "entityType": "floor",
@@ -2368,7 +2365,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93267"
+      "_id": "6a9e0defe98a8dfee2a7070d"
     },
     {
       "entityType": "floor",
@@ -2385,7 +2382,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93268"
+      "_id": "6a9e0defe98a8dfee2a7070e"
     },
     {
       "entityType": "floor",
@@ -2402,7 +2399,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93269"
+      "_id": "6a9e0defe98a8dfee2a7070f"
     },
     {
       "entityType": "floor",
@@ -2419,7 +2416,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326a"
+      "_id": "6a9e0defe98a8dfee2a70710"
     },
     {
       "entityType": "floor",
@@ -2436,7 +2433,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326b"
+      "_id": "6a9e0defe98a8dfee2a70711"
     },
     {
       "entityType": "floor",
@@ -2453,7 +2450,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326c"
+      "_id": "6a9e0defe98a8dfee2a70712"
     },
     {
       "entityType": "floor",
@@ -2470,7 +2467,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326d"
+      "_id": "6a9e0defe98a8dfee2a70713"
     },
     {
       "entityType": "floor",
@@ -2487,7 +2484,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326e"
+      "_id": "6a9e0defe98a8dfee2a70714"
     },
     {
       "entityType": "floor",
@@ -2504,7 +2501,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9326f"
+      "_id": "6a9e0defe98a8dfee2a70715"
     },
     {
       "entityType": "floor",
@@ -2521,7 +2518,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93270"
+      "_id": "6a9e0defe98a8dfee2a70716"
     },
     {
       "entityType": "floor",
@@ -2538,7 +2535,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93271"
+      "_id": "6a9e0defe98a8dfee2a70717"
     },
     {
       "entityType": "floor",
@@ -2555,7 +2552,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93272"
+      "_id": "6a9e0defe98a8dfee2a70718"
     },
     {
       "entityType": "floor",
@@ -2572,7 +2569,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93273"
+      "_id": "6a9e0defe98a8dfee2a70719"
     },
     {
       "entityType": "floor",
@@ -2589,7 +2586,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93274"
+      "_id": "6a9e0defe98a8dfee2a7071a"
     },
     {
       "entityType": "floor",
@@ -2606,7 +2603,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93275"
+      "_id": "6a9e0defe98a8dfee2a7071b"
     },
     {
       "entityType": "floor",
@@ -2623,7 +2620,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93276"
+      "_id": "6a9e0defe98a8dfee2a7071c"
     },
     {
       "entityType": "floor",
@@ -2640,7 +2637,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93277"
+      "_id": "6a9e0defe98a8dfee2a7071d"
     },
     {
       "entityType": "floor",
@@ -2657,7 +2654,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93278"
+      "_id": "6a9e0defe98a8dfee2a7071e"
     },
     {
       "entityType": "floor",
@@ -2674,7 +2671,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93279"
+      "_id": "6a9e0defe98a8dfee2a7071f"
     },
     {
       "entityType": "floor",
@@ -2691,7 +2688,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327a"
+      "_id": "6a9e0defe98a8dfee2a70720"
     },
     {
       "entityType": "floor",
@@ -2708,7 +2705,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327b"
+      "_id": "6a9e0defe98a8dfee2a70721"
     },
     {
       "entityType": "floor",
@@ -2725,7 +2722,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327c"
+      "_id": "6a9e0defe98a8dfee2a70722"
     },
     {
       "entityType": "floor",
@@ -2742,7 +2739,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327d"
+      "_id": "6a9e0defe98a8dfee2a70723"
     },
     {
       "entityType": "floor",
@@ -2759,7 +2756,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327e"
+      "_id": "6a9e0defe98a8dfee2a70724"
     },
     {
       "entityType": "floor",
@@ -2776,7 +2773,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9327f"
+      "_id": "6a9e0defe98a8dfee2a70725"
     },
     {
       "entityType": "floor",
@@ -2793,7 +2790,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93280"
+      "_id": "6a9e0defe98a8dfee2a70726"
     },
     {
       "entityType": "floor",
@@ -2810,7 +2807,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93281"
+      "_id": "6a9e0defe98a8dfee2a70727"
     },
     {
       "entityType": "floor",
@@ -2827,7 +2824,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93282"
+      "_id": "6a9e0defe98a8dfee2a70728"
     },
     {
       "entityType": "floor",
@@ -2844,7 +2841,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93283"
+      "_id": "6a9e0defe98a8dfee2a70729"
     },
     {
       "entityType": "floor",
@@ -2861,7 +2858,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93284"
+      "_id": "6a9e0defe98a8dfee2a7072a"
     },
     {
       "entityType": "floor",
@@ -2878,7 +2875,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93285"
+      "_id": "6a9e0defe98a8dfee2a7072b"
     },
     {
       "entityType": "floor",
@@ -2895,7 +2892,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93286"
+      "_id": "6a9e0defe98a8dfee2a7072c"
     },
     {
       "entityType": "floor",
@@ -2912,7 +2909,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93287"
+      "_id": "6a9e0defe98a8dfee2a7072d"
     },
     {
       "entityType": "floor",
@@ -2929,7 +2926,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93288"
+      "_id": "6a9e0defe98a8dfee2a7072e"
     },
     {
       "entityType": "floor",
@@ -2946,7 +2943,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93289"
+      "_id": "6a9e0defe98a8dfee2a7072f"
     },
     {
       "entityType": "floor",
@@ -2963,7 +2960,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328a"
+      "_id": "6a9e0defe98a8dfee2a70730"
     },
     {
       "entityType": "floor",
@@ -2980,7 +2977,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328b"
+      "_id": "6a9e0defe98a8dfee2a70731"
     },
     {
       "entityType": "floor",
@@ -2997,7 +2994,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328c"
+      "_id": "6a9e0defe98a8dfee2a70732"
     },
     {
       "entityType": "floor",
@@ -3014,7 +3011,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328d"
+      "_id": "6a9e0defe98a8dfee2a70733"
     },
     {
       "entityType": "floor",
@@ -3031,7 +3028,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328e"
+      "_id": "6a9e0defe98a8dfee2a70734"
     },
     {
       "entityType": "floor",
@@ -3048,7 +3045,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9328f"
+      "_id": "6a9e0defe98a8dfee2a70735"
     },
     {
       "entityType": "floor",
@@ -3065,7 +3062,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93290"
+      "_id": "6a9e0defe98a8dfee2a70736"
     },
     {
       "entityType": "floor",
@@ -3082,7 +3079,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93291"
+      "_id": "6a9e0defe98a8dfee2a70737"
     },
     {
       "entityType": "floor",
@@ -3099,7 +3096,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93292"
+      "_id": "6a9e0defe98a8dfee2a70738"
     },
     {
       "entityType": "floor",
@@ -3116,7 +3113,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93293"
+      "_id": "6a9e0defe98a8dfee2a70739"
     },
     {
       "entityType": "floor",
@@ -3133,7 +3130,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93294"
+      "_id": "6a9e0defe98a8dfee2a7073a"
     },
     {
       "entityType": "floor",
@@ -3150,7 +3147,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93295"
+      "_id": "6a9e0defe98a8dfee2a7073b"
     },
     {
       "entityType": "floor",
@@ -3167,7 +3164,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93296"
+      "_id": "6a9e0defe98a8dfee2a7073c"
     },
     {
       "entityType": "floor",
@@ -3184,7 +3181,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93297"
+      "_id": "6a9e0defe98a8dfee2a7073d"
     },
     {
       "entityType": "floor",
@@ -3201,7 +3198,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93298"
+      "_id": "6a9e0defe98a8dfee2a7073e"
     },
     {
       "entityType": "floor",
@@ -3218,7 +3215,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93299"
+      "_id": "6a9e0defe98a8dfee2a7073f"
     },
     {
       "entityType": "floor",
@@ -3235,7 +3232,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329a"
+      "_id": "6a9e0defe98a8dfee2a70740"
     },
     {
       "entityType": "floor",
@@ -3252,7 +3249,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329b"
+      "_id": "6a9e0defe98a8dfee2a70741"
     },
     {
       "entityType": "floor",
@@ -3269,7 +3266,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329c"
+      "_id": "6a9e0defe98a8dfee2a70742"
     },
     {
       "entityType": "floor",
@@ -3286,7 +3283,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329d"
+      "_id": "6a9e0defe98a8dfee2a70743"
     },
     {
       "entityType": "floor",
@@ -3303,7 +3300,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329e"
+      "_id": "6a9e0defe98a8dfee2a70744"
     },
     {
       "entityType": "floor",
@@ -3320,7 +3317,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9329f"
+      "_id": "6a9e0defe98a8dfee2a70745"
     },
     {
       "entityType": "floor",
@@ -3337,7 +3334,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a0"
+      "_id": "6a9e0defe98a8dfee2a70746"
     },
     {
       "entityType": "floor",
@@ -3354,7 +3351,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a1"
+      "_id": "6a9e0defe98a8dfee2a70747"
     },
     {
       "entityType": "floor",
@@ -3371,7 +3368,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a2"
+      "_id": "6a9e0defe98a8dfee2a70748"
     },
     {
       "entityType": "floor",
@@ -3388,7 +3385,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a3"
+      "_id": "6a9e0defe98a8dfee2a70749"
     },
     {
       "entityType": "floor",
@@ -3405,7 +3402,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a4"
+      "_id": "6a9e0defe98a8dfee2a7074a"
     },
     {
       "entityType": "floor",
@@ -3422,7 +3419,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a5"
+      "_id": "6a9e0defe98a8dfee2a7074b"
     },
     {
       "entityType": "floor",
@@ -3439,7 +3436,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a6"
+      "_id": "6a9e0defe98a8dfee2a7074c"
     },
     {
       "entityType": "floor",
@@ -3456,7 +3453,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a7"
+      "_id": "6a9e0defe98a8dfee2a7074d"
     },
     {
       "entityType": "floor",
@@ -3473,7 +3470,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a8"
+      "_id": "6a9e0defe98a8dfee2a7074e"
     },
     {
       "entityType": "floor",
@@ -3490,7 +3487,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932a9"
+      "_id": "6a9e0defe98a8dfee2a7074f"
     },
     {
       "entityType": "floor",
@@ -3507,7 +3504,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932aa"
+      "_id": "6a9e0defe98a8dfee2a70750"
     },
     {
       "entityType": "floor",
@@ -3524,7 +3521,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ab"
+      "_id": "6a9e0defe98a8dfee2a70751"
     },
     {
       "entityType": "floor",
@@ -3541,7 +3538,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ac"
+      "_id": "6a9e0defe98a8dfee2a70752"
     },
     {
       "entityType": "floor",
@@ -3558,7 +3555,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ad"
+      "_id": "6a9e0defe98a8dfee2a70753"
     },
     {
       "entityType": "floor",
@@ -3575,7 +3572,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ae"
+      "_id": "6a9e0defe98a8dfee2a70754"
     },
     {
       "entityType": "floor",
@@ -3592,7 +3589,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932af"
+      "_id": "6a9e0defe98a8dfee2a70755"
     },
     {
       "entityType": "floor",
@@ -3609,7 +3606,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b0"
+      "_id": "6a9e0defe98a8dfee2a70756"
     },
     {
       "entityType": "floor",
@@ -3626,7 +3623,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b1"
+      "_id": "6a9e0defe98a8dfee2a70757"
     },
     {
       "entityType": "floor",
@@ -3643,7 +3640,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b2"
+      "_id": "6a9e0defe98a8dfee2a70758"
     },
     {
       "entityType": "floor",
@@ -3660,7 +3657,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b3"
+      "_id": "6a9e0defe98a8dfee2a70759"
     },
     {
       "entityType": "floor",
@@ -3677,7 +3674,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b4"
+      "_id": "6a9e0defe98a8dfee2a7075a"
     },
     {
       "entityType": "floor",
@@ -3694,7 +3691,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b5"
+      "_id": "6a9e0defe98a8dfee2a7075b"
     },
     {
       "entityType": "floor",
@@ -3711,7 +3708,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b6"
+      "_id": "6a9e0defe98a8dfee2a7075c"
     },
     {
       "entityType": "floor",
@@ -3728,7 +3725,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b7"
+      "_id": "6a9e0defe98a8dfee2a7075d"
     },
     {
       "entityType": "floor",
@@ -3745,7 +3742,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b8"
+      "_id": "6a9e0defe98a8dfee2a7075e"
     },
     {
       "entityType": "floor",
@@ -3762,7 +3759,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932b9"
+      "_id": "6a9e0defe98a8dfee2a7075f"
     },
     {
       "entityType": "floor",
@@ -3779,7 +3776,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ba"
+      "_id": "6a9e0defe98a8dfee2a70760"
     },
     {
       "entityType": "floor",
@@ -3796,7 +3793,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932bb"
+      "_id": "6a9e0defe98a8dfee2a70761"
     },
     {
       "entityType": "floor",
@@ -3813,7 +3810,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932bc"
+      "_id": "6a9e0defe98a8dfee2a70762"
     },
     {
       "entityType": "floor",
@@ -3830,7 +3827,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932bd"
+      "_id": "6a9e0defe98a8dfee2a70763"
     },
     {
       "entityType": "floor",
@@ -3847,7 +3844,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932be"
+      "_id": "6a9e0defe98a8dfee2a70764"
     },
     {
       "entityType": "floor",
@@ -3864,7 +3861,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932bf"
+      "_id": "6a9e0defe98a8dfee2a70765"
     },
     {
       "entityType": "floor",
@@ -3881,7 +3878,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c0"
+      "_id": "6a9e0defe98a8dfee2a70766"
     },
     {
       "entityType": "floor",
@@ -3898,7 +3895,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c1"
+      "_id": "6a9e0defe98a8dfee2a70767"
     },
     {
       "entityType": "floor",
@@ -3915,7 +3912,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c2"
+      "_id": "6a9e0defe98a8dfee2a70768"
     },
     {
       "entityType": "floor",
@@ -3932,7 +3929,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c3"
+      "_id": "6a9e0defe98a8dfee2a70769"
     },
     {
       "entityType": "floor",
@@ -3949,7 +3946,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c4"
+      "_id": "6a9e0defe98a8dfee2a7076a"
     },
     {
       "entityType": "floor",
@@ -3966,7 +3963,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c5"
+      "_id": "6a9e0defe98a8dfee2a7076b"
     },
     {
       "entityType": "floor",
@@ -3983,7 +3980,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c6"
+      "_id": "6a9e0defe98a8dfee2a7076c"
     },
     {
       "entityType": "floor",
@@ -4000,7 +3997,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c7"
+      "_id": "6a9e0defe98a8dfee2a7076d"
     },
     {
       "entityType": "floor",
@@ -4017,7 +4014,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c8"
+      "_id": "6a9e0defe98a8dfee2a7076e"
     },
     {
       "entityType": "floor",
@@ -4034,7 +4031,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932c9"
+      "_id": "6a9e0defe98a8dfee2a7076f"
     },
     {
       "entityType": "floor",
@@ -4051,7 +4048,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ca"
+      "_id": "6a9e0defe98a8dfee2a70770"
     },
     {
       "entityType": "floor",
@@ -4068,7 +4065,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932cb"
+      "_id": "6a9e0defe98a8dfee2a70771"
     },
     {
       "entityType": "floor",
@@ -4085,7 +4082,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932cc"
+      "_id": "6a9e0defe98a8dfee2a70772"
     },
     {
       "entityType": "floor",
@@ -4102,7 +4099,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932cd"
+      "_id": "6a9e0defe98a8dfee2a70773"
     },
     {
       "entityType": "floor",
@@ -4119,7 +4116,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ce"
+      "_id": "6a9e0defe98a8dfee2a70774"
     },
     {
       "entityType": "floor",
@@ -4136,7 +4133,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932cf"
+      "_id": "6a9e0defe98a8dfee2a70775"
     },
     {
       "entityType": "floor",
@@ -4153,7 +4150,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d0"
+      "_id": "6a9e0defe98a8dfee2a70776"
     },
     {
       "entityType": "floor",
@@ -4170,7 +4167,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d1"
+      "_id": "6a9e0defe98a8dfee2a70777"
     },
     {
       "entityType": "floor",
@@ -4187,7 +4184,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d2"
+      "_id": "6a9e0defe98a8dfee2a70778"
     },
     {
       "entityType": "floor",
@@ -4204,7 +4201,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d3"
+      "_id": "6a9e0defe98a8dfee2a70779"
     },
     {
       "entityType": "floor",
@@ -4221,7 +4218,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d4"
+      "_id": "6a9e0defe98a8dfee2a7077a"
     },
     {
       "entityType": "floor",
@@ -4238,7 +4235,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d5"
+      "_id": "6a9e0defe98a8dfee2a7077b"
     },
     {
       "entityType": "floor",
@@ -4255,7 +4252,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d6"
+      "_id": "6a9e0defe98a8dfee2a7077c"
     },
     {
       "entityType": "floor",
@@ -4272,7 +4269,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d7"
+      "_id": "6a9e0defe98a8dfee2a7077d"
     },
     {
       "entityType": "floor",
@@ -4289,7 +4286,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d8"
+      "_id": "6a9e0defe98a8dfee2a7077e"
     },
     {
       "entityType": "floor",
@@ -4306,7 +4303,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932d9"
+      "_id": "6a9e0defe98a8dfee2a7077f"
     },
     {
       "entityType": "floor",
@@ -4323,7 +4320,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932da"
+      "_id": "6a9e0defe98a8dfee2a70780"
     },
     {
       "entityType": "floor",
@@ -4340,7 +4337,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932db"
+      "_id": "6a9e0defe98a8dfee2a70781"
     },
     {
       "entityType": "floor",
@@ -4357,7 +4354,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932dc"
+      "_id": "6a9e0defe98a8dfee2a70782"
     },
     {
       "entityType": "obstacle",
@@ -4372,7 +4369,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932dd"
+      "_id": "6a9e0defe98a8dfee2a70783"
     },
     {
       "entityType": "obstacle",
@@ -4387,7 +4384,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932de"
+      "_id": "6a9e0defe98a8dfee2a70784"
     },
     {
       "entityType": "obstacle",
@@ -4402,7 +4399,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932df"
+      "_id": "6a9e0defe98a8dfee2a70785"
     },
     {
       "entityType": "obstacle",
@@ -4417,7 +4414,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e0"
+      "_id": "6a9e0defe98a8dfee2a70786"
     },
     {
       "entityType": "obstacle",
@@ -4432,7 +4429,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e1"
+      "_id": "6a9e0defe98a8dfee2a70787"
     },
     {
       "entityType": "obstacle",
@@ -4447,7 +4444,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e2"
+      "_id": "6a9e0defe98a8dfee2a70788"
     },
     {
       "entityType": "obstacle",
@@ -4462,7 +4459,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e3"
+      "_id": "6a9e0defe98a8dfee2a70789"
     },
     {
       "entityType": "obstacle",
@@ -4477,7 +4474,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e4"
+      "_id": "6a9e0defe98a8dfee2a7078a"
     },
     {
       "entityType": "obstacle",
@@ -4492,7 +4489,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e5"
+      "_id": "6a9e0defe98a8dfee2a7078b"
     },
     {
       "entityType": "obstacle",
@@ -4507,7 +4504,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e6"
+      "_id": "6a9e0defe98a8dfee2a7078c"
     },
     {
       "entityType": "obstacle",
@@ -4522,7 +4519,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e7"
+      "_id": "6a9e0defe98a8dfee2a7078d"
     },
     {
       "entityType": "obstacle",
@@ -4537,7 +4534,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e8"
+      "_id": "6a9e0defe98a8dfee2a7078e"
     },
     {
       "entityType": "obstacle",
@@ -4552,7 +4549,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932e9"
+      "_id": "6a9e0defe98a8dfee2a7078f"
     },
     {
       "entityType": "obstacle",
@@ -4567,7 +4564,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ea"
+      "_id": "6a9e0defe98a8dfee2a70790"
     },
     {
       "entityType": "obstacle",
@@ -4582,7 +4579,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932eb"
+      "_id": "6a9e0defe98a8dfee2a70791"
     },
     {
       "entityType": "obstacle",
@@ -4597,7 +4594,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ec"
+      "_id": "6a9e0defe98a8dfee2a70792"
     },
     {
       "entityType": "obstacle",
@@ -4612,7 +4609,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ed"
+      "_id": "6a9e0defe98a8dfee2a70793"
     },
     {
       "entityType": "obstacle",
@@ -4627,7 +4624,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ee"
+      "_id": "6a9e0defe98a8dfee2a70794"
     },
     {
       "entityType": "obstacle",
@@ -4642,7 +4639,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ef"
+      "_id": "6a9e0defe98a8dfee2a70795"
     },
     {
       "entityType": "obstacle",
@@ -4657,7 +4654,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f0"
+      "_id": "6a9e0defe98a8dfee2a70796"
     },
     {
       "entityType": "obstacle",
@@ -4672,7 +4669,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f1"
+      "_id": "6a9e0defe98a8dfee2a70797"
     },
     {
       "entityType": "obstacle",
@@ -4687,7 +4684,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f2"
+      "_id": "6a9e0defe98a8dfee2a70798"
     },
     {
       "entityType": "obstacle",
@@ -4702,7 +4699,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f3"
+      "_id": "6a9e0defe98a8dfee2a70799"
     },
     {
       "entityType": "obstacle",
@@ -4717,7 +4714,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f4"
+      "_id": "6a9e0defe98a8dfee2a7079a"
     },
     {
       "entityType": "obstacle",
@@ -4732,7 +4729,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f5"
+      "_id": "6a9e0defe98a8dfee2a7079b"
     },
     {
       "entityType": "obstacle",
@@ -4747,7 +4744,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f6"
+      "_id": "6a9e0defe98a8dfee2a7079c"
     },
     {
       "entityType": "obstacle",
@@ -4762,7 +4759,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f7"
+      "_id": "6a9e0defe98a8dfee2a7079d"
     },
     {
       "entityType": "obstacle",
@@ -4777,7 +4774,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f8"
+      "_id": "6a9e0defe98a8dfee2a7079e"
     },
     {
       "entityType": "obstacle",
@@ -4792,7 +4789,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932f9"
+      "_id": "6a9e0defe98a8dfee2a7079f"
     },
     {
       "entityType": "obstacle",
@@ -4807,7 +4804,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932fa"
+      "_id": "6a9e0defe98a8dfee2a707a0"
     },
     {
       "entityType": "obstacle",
@@ -4822,7 +4819,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932fb"
+      "_id": "6a9e0defe98a8dfee2a707a1"
     },
     {
       "entityType": "obstacle",
@@ -4837,7 +4834,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932fc"
+      "_id": "6a9e0defe98a8dfee2a707a2"
     },
     {
       "entityType": "portal",
@@ -4847,12 +4844,12 @@
       "dimY": 3,
       "color": "rgba(0, 200, 200, 1)",
       "objectLayerItemIds": [],
-      "portalSubtype": "inter-portal",
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932fd"
+      "_id": "6a9e0defe98a8dfee2a707a3"
     },
     {
       "entityType": "portal",
@@ -4862,12 +4859,12 @@
       "dimY": 3,
       "color": "rgba(200, 80, 200, 1)",
       "objectLayerItemIds": [],
-      "portalSubtype": "intra-portal",
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932fe"
+      "_id": "6a9e0defe98a8dfee2a707a4"
     },
     {
       "entityType": "portal",
@@ -4877,12 +4874,12 @@
       "dimY": 3,
       "color": "rgba(200, 80, 200, 1)",
       "objectLayerItemIds": [],
-      "portalSubtype": "intra-portal",
+      "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f932ff"
+      "_id": "6a9e0defe98a8dfee2a707a5"
     },
     {
       "entityType": "foreground",
@@ -4897,7 +4894,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93300"
+      "_id": "6a9e0defe98a8dfee2a707a6"
     },
     {
       "entityType": "foreground",
@@ -4912,7 +4909,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93301"
+      "_id": "6a9e0defe98a8dfee2a707a7"
     },
     {
       "entityType": "foreground",
@@ -4927,7 +4924,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93302"
+      "_id": "6a9e0defe98a8dfee2a707a8"
     },
     {
       "entityType": "foreground",
@@ -4942,7 +4939,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93303"
+      "_id": "6a9e0defe98a8dfee2a707a9"
     },
     {
       "entityType": "foreground",
@@ -4957,7 +4954,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93304"
+      "_id": "6a9e0defe98a8dfee2a707aa"
     },
     {
       "entityType": "foreground",
@@ -4972,7 +4969,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93305"
+      "_id": "6a9e0defe98a8dfee2a707ab"
     },
     {
       "entityType": "foreground",
@@ -4987,7 +4984,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93306"
+      "_id": "6a9e0defe98a8dfee2a707ac"
     },
     {
       "entityType": "foreground",
@@ -5002,7 +4999,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93307"
+      "_id": "6a9e0defe98a8dfee2a707ad"
     },
     {
       "entityType": "foreground",
@@ -5017,7 +5014,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93308"
+      "_id": "6a9e0defe98a8dfee2a707ae"
     },
     {
       "entityType": "foreground",
@@ -5032,7 +5029,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93309"
+      "_id": "6a9e0defe98a8dfee2a707af"
     },
     {
       "entityType": "foreground",
@@ -5047,7 +5044,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330a"
+      "_id": "6a9e0defe98a8dfee2a707b0"
     },
     {
       "entityType": "foreground",
@@ -5062,7 +5059,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330b"
+      "_id": "6a9e0defe98a8dfee2a707b1"
     },
     {
       "entityType": "bot",
@@ -5075,11 +5072,11 @@
         "wason"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330c"
+      "_id": "6a9e0defe98a8dfee2a707b2"
     },
     {
       "entityType": "bot",
@@ -5092,11 +5089,11 @@
         "alex"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330d"
+      "_id": "6a9e0defe98a8dfee2a707b3"
     },
     {
       "entityType": "bot",
@@ -5109,11 +5106,11 @@
         "agent"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330e"
+      "_id": "6a9e0defe98a8dfee2a707b4"
     },
     {
       "entityType": "bot",
@@ -5126,11 +5123,11 @@
         "punk"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9330f"
+      "_id": "6a9e0defe98a8dfee2a707b5"
     },
     {
       "entityType": "bot",
@@ -5143,11 +5140,11 @@
         "eiri"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93310"
+      "_id": "6a9e0defe98a8dfee2a707b6"
     },
     {
       "entityType": "bot",
@@ -5160,11 +5157,11 @@
         "kaneki"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93311"
+      "_id": "6a9e0defe98a8dfee2a707b7"
     },
     {
       "entityType": "bot",
@@ -5177,11 +5174,11 @@
         "lain"
       ],
       "portalSubtype": "",
-      "spawnRadius": 2,
+      "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 100,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93312"
+      "_id": "6a9e0defe98a8dfee2a707b8"
     },
     {
       "entityType": "resource",
@@ -5196,9 +5193,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93313"
+      "_id": "6a9e0defe98a8dfee2a707b9"
     },
     {
       "entityType": "resource",
@@ -5213,9 +5210,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93314"
+      "_id": "6a9e0defe98a8dfee2a707ba"
     },
     {
       "entityType": "resource",
@@ -5230,9 +5227,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93315"
+      "_id": "6a9e0defe98a8dfee2a707bb"
     },
     {
       "entityType": "resource",
@@ -5247,9 +5244,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93316"
+      "_id": "6a9e0defe98a8dfee2a707bc"
     },
     {
       "entityType": "resource",
@@ -5264,9 +5261,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93317"
+      "_id": "6a9e0defe98a8dfee2a707bd"
     },
     {
       "entityType": "resource",
@@ -5281,9 +5278,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93318"
+      "_id": "6a9e0defe98a8dfee2a707be"
     },
     {
       "entityType": "resource",
@@ -5298,9 +5295,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93319"
+      "_id": "6a9e0defe98a8dfee2a707bf"
     },
     {
       "entityType": "resource",
@@ -5315,9 +5312,9 @@
       "portalSubtype": "",
       "spawnRadius": 0,
       "aggroRange": 0,
-      "maxLife": 80,
+      "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331a"
+      "_id": "6a9e0defe98a8dfee2a707c0"
     },
     {
       "entityType": "static",
@@ -5332,7 +5329,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331b"
+      "_id": "6a9e0defe98a8dfee2a707c1"
     },
     {
       "entityType": "static",
@@ -5347,7 +5344,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331c"
+      "_id": "6a9e0defe98a8dfee2a707c2"
     },
     {
       "entityType": "static",
@@ -5362,7 +5359,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331d"
+      "_id": "6a9e0defe98a8dfee2a707c3"
     },
     {
       "entityType": "static",
@@ -5377,7 +5374,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331e"
+      "_id": "6a9e0defe98a8dfee2a707c4"
     },
     {
       "entityType": "static",
@@ -5392,7 +5389,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f9331f"
+      "_id": "6a9e0defe98a8dfee2a707c5"
     },
     {
       "entityType": "static",
@@ -5407,7 +5404,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93320"
+      "_id": "6a9e0defe98a8dfee2a707c6"
     },
     {
       "entityType": "static",
@@ -5422,7 +5419,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93321"
+      "_id": "6a9e0defe98a8dfee2a707c7"
     },
     {
       "entityType": "static",
@@ -5437,7 +5434,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93322"
+      "_id": "6a9e0defe98a8dfee2a707c8"
     },
     {
       "entityType": "static",
@@ -5452,7 +5449,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93323"
+      "_id": "6a9e0defe98a8dfee2a707c9"
     },
     {
       "entityType": "static",
@@ -5467,7 +5464,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93324"
+      "_id": "6a9e0defe98a8dfee2a707ca"
     },
     {
       "entityType": "static",
@@ -5482,7 +5479,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93325"
+      "_id": "6a9e0defe98a8dfee2a707cb"
     },
     {
       "entityType": "static",
@@ -5497,7 +5494,7 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93326"
+      "_id": "6a9e0defe98a8dfee2a707cc"
     },
     {
       "entityType": "static",
@@ -5512,17 +5509,22 @@
       "aggroRange": 0,
       "maxLife": 0,
       "lifeRegen": 0,
-      "_id": "6a8fd26801edebf032f93327"
+      "_id": "6a9e0defe98a8dfee2a707cd"
     }
   ],
-  "gridX": 64,
-  "gridY": 64,
-  "name": "Fallback fallback-map-0",
-  "status": "unlisted",
   "tags": [
     "fallback",
     "procedural",
     "captured"
   ],
-  "updatedAt": "2026-08-27T06:00:08.866Z"
+  "status": "unlisted",
+  "thumbnail": "6a9e0defe98a8dfee2a70536",
+  "preview": "6a9e0defe98a8dfee2a70537",
+  "gridX": 64,
+  "gridY": 64,
+  "cellWidth": 32,
+  "cellHeight": 32,
+  "createdAt": "2026-08-27T05:52:34.245Z",
+  "updatedAt": "2026-08-27T05:52:34.245Z",
+  "__v": 0
 }

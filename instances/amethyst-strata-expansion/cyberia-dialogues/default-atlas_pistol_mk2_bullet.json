@@ -1,13 +1,13 @@
 [
   {
-    "_id": "6a4015d08df0fac6c13c213a",
+    "_id": "69ec9fc74748aefe31a1f11d",
     "code": "default-atlas_pistol_mk2_bullet",
     "order": 0,
     "speaker": "MK2 Bullet",
     "text": "High-velocity energy round. Dissipates on impact.",
     "mood": "neutral",
-    "createdAt": "2026-06-27T18:26:24.411Z",
-    "updatedAt": "2026-06-27T18:26:24.411Z",
+    "createdAt": "2026-04-25T11:04:39.630Z",
+    "updatedAt": "2026-04-25T11:04:39.630Z",
     "__v": 0
   }
 ]

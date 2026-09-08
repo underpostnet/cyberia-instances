@@ -1,0 +1,52 @@
+{
+  "_id": "6a9fe26d9bf3126ac87ba563",
+  "code": "item-pickup",
+  "__v": 0,
+  "createdAt": "2026-09-08T10:24:45.830Z",
+  "fileId": "97d75a6b9c59771afce47b74",
+  "manifest": {
+    "id": "item-pickup",
+    "bus": "sfx",
+    "tags": [
+      "inventory",
+      "collect",
+      "arrival"
+    ],
+    "author": "cyberia-audio",
+    "version": "0.1.0",
+    "duration": 0.24,
+    "sampleRate": 22050,
+    "channels": 1,
+    "loop": false,
+    "audio": "item-pickup.wav",
+    "defaults": {
+      "sampleRate": 44100,
+      "volume": 0.46,
+      "duration": 0.24,
+      "pitch": 1
+    },
+    "parameters": {
+      "sampleRate": {
+        "min": 22050,
+        "max": 96000,
+        "integer": true
+      },
+      "volume": {
+        "min": 0,
+        "max": 1,
+        "integer": false
+      },
+      "duration": {
+        "min": 0.1,
+        "max": 0.6,
+        "integer": false
+      },
+      "pitch": {
+        "min": 0.5,
+        "max": 2,
+        "integer": false
+      }
+    }
+  },
+  "updatedAt": "2026-09-08T10:24:45.830Z"
+}

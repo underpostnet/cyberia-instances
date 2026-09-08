@@ -1,39 +1,48 @@
 {
   "_id": "6a426837edd599827e7080df",
-  "fileId": "6a426837edd599827e7080de",
-  "cid": "bafkreihzmvs6qxe6qjuwhadz36v3gslvkuyjp5vzpdri3ntqsyxep2kboa",
+  "fileId": "6a9fe00951ee8bb636a5e690",
+  "cid": "bafkreicdcgzr4f6xe3wyvup3m3dmfmkxfknpntxtlroryicjdo47x63b4q",
   "metadata": {
     "itemKey": "sap-logic-array-floor-degraded",
-    "atlasWidth": 1024,
-    "atlasHeight": 1024,
-    "cellPixelDim": 20,
+    "atlasWidth": 48,
+    "atlasHeight": 48,
+    "cellPixelDim": 1,
     "frame_duration": 500,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 0
         }
       ],
+      "default_idle": [
+        {
+          "x": 24,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 480,
-          "y": 0,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -41,19 +50,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 0,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-06-29T12:42:31.388Z",
-  "updatedAt": "2026-06-29T12:42:31.388Z",
+  "updatedAt": "2026-09-08T10:14:33.755Z",
   "__v": 0
 }

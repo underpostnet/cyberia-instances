@@ -1,53 +1,69 @@
 {
   "_id": "69e89cc2c4f3358ab2359a45",
-  "fileId": "69e89d1cc4f3358ab2359aee",
-  "cid": "bafkreigbedcssddfem43ns6x56matddyq4cj3hyqp53aq7pbiol3yzocxi",
+  "fileId": "6a9fd6194bd86e560db3a932",
+  "cid": "bafkreihra7yqz5oqycci7hnylskjqb7h5bzvkcvkfewocirbwhyu2selzu",
   "metadata": {
     "itemKey": "wood-extracted-2",
-    "atlasWidth": 2048,
-    "atlasHeight": 2048,
-    "cellPixelDim": 20,
-    "frame_duration": 100,
+    "atlasWidth": 120,
+    "atlasHeight": 48,
+    "cellPixelDim": 1,
+    "frame_duration": 500,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 0
         },
         {
-          "x": 480,
+          "x": 24,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 1
         }
       ],
+      "default_idle": [
+        {
+          "x": 48,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 72,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 96,
+          "y": 0,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 0,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 960,
-          "y": 0,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 1440,
-          "y": 0,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -55,26 +71,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 0,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 480,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-04-22T10:02:42.107Z",
-  "updatedAt": "2026-04-22T10:02:42.107Z",
+  "updatedAt": "2026-09-08T09:32:09.670Z",
   "__v": 0
 }

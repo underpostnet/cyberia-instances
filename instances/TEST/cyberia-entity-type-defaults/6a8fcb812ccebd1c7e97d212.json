@@ -4,13 +4,14 @@
   "liveItemIds": [
     "eiri"
   ],
-  "__v": 0,
-  "behavior": "provider-static",
-  "createdAt": "2026-08-27T05:30:41.109Z",
   "deadItemIds": [
     "fragmentation"
   ],
-  "defaultObjectLayers": [],
   "dropItemIds": [],
-  "updatedAt": "2026-08-27T05:37:58.903Z"
+  "inventoryItemsIds": [],
+  "overrideItemsIdsState": [],
+  "behavior": "provider-static",
+  "createdAt": "2026-08-27T05:30:41.109Z",
+  "updatedAt": "2026-08-27T05:30:41.109Z",
+  "__v": 0
 }

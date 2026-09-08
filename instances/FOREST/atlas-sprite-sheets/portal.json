@@ -1,95 +1,132 @@
 {
   "_id": "69ea64a8ce40cc9c82944aaa",
-  "fileId": "69eb634cb567ee8137243e96",
-  "cid": "bafkreig7owyspeqjiyabscqhdhb2gyqickui5zwiiifz5zkkcoz4z7i7qi",
+  "fileId": "6a9fe1dd6d406550557c83ff",
+  "cid": "bafkreia3f74d7eeyg7jgwyqtdk3gc5wuo46iub24xhhzrjhdnsyvth6ray",
   "metadata": {
     "itemKey": "portal",
-    "atlasWidth": 2048,
-    "atlasHeight": 2048,
-    "cellPixelDim": 20,
+    "atlasWidth": 120,
+    "atlasHeight": 72,
+    "cellPixelDim": 1,
     "frame_duration": 200,
     "frames": {
-      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 0
         },
         {
-          "x": 480,
+          "x": 24,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 1
         },
         {
-          "x": 960,
+          "x": 48,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 2
         },
         {
-          "x": 1440,
+          "x": 72,
           "y": 0,
-          "width": 480,
-          "height": 480,
+          "width": 24,
+          "height": 24,
           "frameIndex": 3
         },
         {
-          "x": 0,
-          "y": 480,
-          "width": 480,
-          "height": 480,
+          "x": 96,
+          "y": 0,
+          "width": 24,
+          "height": 24,
           "frameIndex": 4
         }
       ],
+      "default_idle": [
+        {
+          "x": 0,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 24,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        },
+        {
+          "x": 48,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 2
+        },
+        {
+          "x": 72,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 3
+        },
+        {
+          "x": 96,
+          "y": 24,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 4
+        }
+      ],
+      "none_idle": [
+        {
+          "x": 0,
+          "y": 48,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 0
+        },
+        {
+          "x": 24,
+          "y": 48,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 1
+        },
+        {
+          "x": 48,
+          "y": 48,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 2
+        },
+        {
+          "x": 72,
+          "y": 48,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 3
+        },
+        {
+          "x": 96,
+          "y": 48,
+          "width": 24,
+          "height": 24,
+          "frameIndex": 4
+        }
+      ],
+      "up_idle": [],
       "right_idle": [],
       "left_idle": [],
       "up_right_idle": [],
       "down_right_idle": [],
       "up_left_idle": [],
       "down_left_idle": [],
-      "default_idle": [
-        {
-          "x": 480,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 960,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        },
-        {
-          "x": 1440,
-          "y": 480,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 2
-        },
-        {
-          "x": 0,
-          "y": 960,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 3
-        },
-        {
-          "x": 480,
-          "y": 960,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 4
-        }
-      ],
       "up_walking": [],
       "down_walking": [],
       "right_walking": [],
@@ -97,47 +134,10 @@
       "up_right_walking": [],
       "down_right_walking": [],
       "up_left_walking": [],
-      "down_left_walking": [],
-      "none_idle": [
-        {
-          "x": 960,
-          "y": 960,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 0
-        },
-        {
-          "x": 1440,
-          "y": 960,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 1
-        },
-        {
-          "x": 0,
-          "y": 1440,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 2
-        },
-        {
-          "x": 480,
-          "y": 1440,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 3
-        },
-        {
-          "x": 960,
-          "y": 1440,
-          "width": 480,
-          "height": 480,
-          "frameIndex": 4
-        }
-      ]
+      "down_left_walking": []
     }
   },
   "createdAt": "2026-04-23T18:27:52.850Z",
-  "updatedAt": "2026-07-20T19:29:43.380Z",
+  "updatedAt": "2026-09-08T10:22:21.090Z",
   "__v": 0
 }

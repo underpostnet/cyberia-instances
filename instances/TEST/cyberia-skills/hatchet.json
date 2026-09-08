@@ -1,8 +1,6 @@
 {
   "_id": "6a8fcb7f2ccebd1c7e97d20a",
   "triggerItemId": "hatchet",
-  "__v": 0,
-  "createdAt": "2026-08-27T05:30:39.970Z",
   "logicEventIds": [
     "projectile"
   ],
@@ -14,5 +12,7 @@
       "summonedEntityItemId": "hatchet-skill"
     }
   ],
-  "updatedAt": "2026-08-27T05:37:57.720Z"
+  "createdAt": "2026-08-27T05:30:39.970Z",
+  "updatedAt": "2026-08-27T05:30:39.970Z",
+  "__v": 0
 }

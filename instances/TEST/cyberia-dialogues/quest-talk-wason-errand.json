@@ -1,24 +1,24 @@
 [
   {
     "_id": "6a8fcb822ccebd1c7e97d240",
-    "order": 0,
     "code": "quest-talk-wason-errand",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.299Z",
-    "mood": "happy",
+    "order": 0,
     "speaker": "Wason",
     "text": "A small thing, friend — the field is littered with loose coin. Gather a few and bring them here.",
-    "updatedAt": "2026-08-27T05:38:00.126Z"
+    "mood": "happy",
+    "createdAt": "2026-08-27T05:30:42.299Z",
+    "updatedAt": "2026-08-27T05:30:42.299Z",
+    "__v": 0
   },
   {
     "_id": "6a8fcb822ccebd1c7e97d241",
-    "order": 1,
     "code": "quest-talk-wason-errand",
-    "__v": 0,
-    "createdAt": "2026-08-27T05:30:42.301Z",
-    "mood": "neutral",
+    "order": 1,
     "speaker": "Wason",
     "text": "You have my thanks. A good hatchet for an honest errand.",
-    "updatedAt": "2026-08-27T05:38:00.129Z"
+    "mood": "neutral",
+    "createdAt": "2026-08-27T05:30:42.301Z",
+    "updatedAt": "2026-08-27T05:30:42.301Z",
+    "__v": 0
   }
 ]
