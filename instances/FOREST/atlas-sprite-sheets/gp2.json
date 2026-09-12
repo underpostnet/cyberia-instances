@@ -1,12 +1,14 @@
 {
   "_id": "69ebf00360b244b96d5224fc",
-  "fileId": "6a9fe1da6d406550557c83f5",
-  "cid": "bafkreibb53entfuv33phglhfwnr45tr343hy5cliqmzm2wdluxdjfpd7xe",
+  "fileId": "1732a5d22404f9623ca5eace",
+  "minifyFileId": "1103b7887bb870bd4124f1cc",
+  "cid": "bafkreihahqta3tiet7lnm35csuh4ec5r4pzvqzlwn24c4myp6momjnxodu",
   "metadata": {
     "itemKey": "gp2",
     "atlasWidth": 240,
     "atlasHeight": 96,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -300,6 +302,6 @@
     }
   },
   "createdAt": "2026-04-24T22:34:43.507Z",
-  "updatedAt": "2026-09-08T10:22:18.753Z",
+  "updatedAt": "2026-04-24T22:34:43.507Z",
   "__v": 0
 }

@@ -1,13 +1,14 @@
 {
   "_id": "6a403b6b80ab6141ed688511",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 0,
-      "resistance": 6,
-      "agility": 0,
+      "effect": 1,
+      "resistance": 7,
+      "agility": 2,
       "range": 0,
-      "intelligence": 8,
-      "utility": 7
+      "intelligence": 2,
+      "utility": 0
     },
     "item": {
       "id": "knot-node-terminal",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreigrexyfve6zxoxenk2bej7lvnlhpcgkvikuho3yiezq2g6ter26p4",
-      "metadataCid": "bafkreictu6h2hzx47xo32vkyk4stxkpiemgecfvieiwryjowsfhh2itn44"
+      "cid": "bafkreicgtvobt7bb5vlkx33suq6dh6qv4hkspdinh4zku7yteyjtmgdcay",
+      "metadataCid": "bafkreidi6cfp4paz76tdxznqwmbeugjbziulkf5xu3awhdf6fdsvtygjte"
     }
   },
-  "cid": "bafkreiancut34eq255gmtxgwlzczlbuyrqvtwwwiutyun7lh7gclqyrt5i",
+  "cid": "bafkreiblus274z457ieoj2lgoygnmbkcbgggpdfuthosed4vr2mtz5xj7i",
   "objectLayerRenderFramesId": "6a9fe00851ee8bb636a5e689",
   "atlasSpriteSheetId": "6a43320f07990bc335ece0ba",
-  "sha256": "f0f3671de2a81206536b32c44eeadba880d08f53e0c6081c8a0995ba87f04b83",
+  "sha256": "2ba4b5fe679dfa08e4e966760cd60542098c678cb499dd220f958e993cf6e9fa",
   "createdAt": "2026-06-27T21:06:51.982Z",
-  "updatedAt": "2026-09-08T10:14:32.268Z",
+  "updatedAt": "2026-09-11T21:21:55.813Z",
   "__v": 0
 }

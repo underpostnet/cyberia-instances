@@ -1,12 +1,14 @@
 {
   "_id": "6a8fcb730faca8157bde420a",
-  "fileId": "6a9fd6024bd86e560db3a912",
-  "cid": "bafkreihcsfpefs2tzmcjijjbsu252myge4okvukbbnitsocilferlhozgi",
+  "fileId": "e76481215a55ef0b1a2d75f5",
+  "minifyFileId": "191038fb94557c502107274c",
+  "cid": "bafkreihptryke4bjphj7wylyesy6gmu7vbqc5uokw4q5pexvvxxmicw52i",
   "metadata": {
     "itemKey": "eiri",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-08-27T05:30:27.283Z",
-  "updatedAt": "2026-09-08T09:31:46.388Z",
+  "updatedAt": "2026-08-27T05:30:27.283Z",
   "__v": 0
 }

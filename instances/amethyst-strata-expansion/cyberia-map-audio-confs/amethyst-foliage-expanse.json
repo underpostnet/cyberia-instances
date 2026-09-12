@@ -134,6 +134,26 @@
       }
     },
     {
+      "logicEventId": "level-up",
+      "audioCode": "level-up",
+      "settings": {
+        "bus": "sfx",
+        "volume": 0.8,
+        "loop": false,
+        "crossfadeMs": 0
+      }
+    },
+    {
+      "logicEventId": "death",
+      "audioCode": "death",
+      "settings": {
+        "bus": "sfx",
+        "volume": 0.8,
+        "loop": false,
+        "crossfadeMs": 0
+      }
+    },
+    {
       "logicEventId": "portal-cooldown",
       "audioCode": "portal-cooldown",
       "settings": {
@@ -149,6 +169,6 @@
     "crossfadeMs": 800
   },
   "createdAt": "2026-09-06T19:54:53.858Z",
-  "updatedAt": "2026-09-08T10:17:50.191Z",
-  "__v": 1
+  "updatedAt": "2026-09-11T21:44:27.452Z",
+  "__v": 2
 }

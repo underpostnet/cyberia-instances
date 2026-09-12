@@ -1,14 +1,17 @@
 {
   "_id": "6a42a08daf8795d1b2205c6d",
-  "fileId": "6a9fdffc51ee8bb636a5e676",
-  "cid": "bafkreiccav62pbkowal7u5uyz2a5poeiulfcpnnn2hxjwqewy7tcrkbgcu",
+  "fileId": "075e634009760e268bf4c34b",
+  "minifyFileId": "ef7bd461dcf4b9eb8b78e09b",
+  "cid": "bafkreiecyfimrrqr6bfyz3ouo6hkkqo3dlcormqxftpdzgrubx43cegsdq",
   "metadata": {
     "itemKey": "amethyst-grass-portal",
     "atlasWidth": 120,
     "atlasHeight": 48,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 400,
     "frames": {
+      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
@@ -32,6 +35,12 @@
           "frameIndex": 2
         }
       ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
       "default_idle": [
         {
           "x": 72,
@@ -55,6 +64,14 @@
           "frameIndex": 2
         }
       ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
       "none_idle": [
         {
           "x": 24,
@@ -77,25 +94,10 @@
           "height": 24,
           "frameIndex": 2
         }
-      ],
-      "up_idle": [],
-      "right_idle": [],
-      "left_idle": [],
-      "up_right_idle": [],
-      "down_right_idle": [],
-      "up_left_idle": [],
-      "down_left_idle": [],
-      "up_walking": [],
-      "down_walking": [],
-      "right_walking": [],
-      "left_walking": [],
-      "up_right_walking": [],
-      "down_right_walking": [],
-      "up_left_walking": [],
-      "down_left_walking": []
+      ]
     }
   },
   "createdAt": "2026-06-29T16:42:53.836Z",
-  "updatedAt": "2026-09-08T10:14:20.555Z",
+  "updatedAt": "2026-06-29T16:42:53.836Z",
   "__v": 0
 }

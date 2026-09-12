@@ -1,0 +1,35 @@
+{
+  "_id": "6aa2d773d8cf1ab551ee57c3",
+  "statContractVersion": 2,
+  "data": {
+    "stats": {
+      "effect": 10,
+      "resistance": 6,
+      "agility": 2,
+      "range": 8,
+      "intelligence": 6,
+      "utility": 7
+    },
+    "item": {
+      "id": "anon-blood",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreig7r7lk3xwb47wgmyonfrotjypiq2ujq6ropsppt3e37luyhlb2xa",
+      "metadataCid": "bafkreigmoy5ros4jgsiwlwnb4ftgtq66ci2tncxuvecnpswinfkg3r3rdu"
+    }
+  },
+  "cid": "bafkreihbydkuszegum6dbw26w4vl53dpppgrka6cy53gy42vzvffhr7m54",
+  "objectLayerRenderFramesId": "6aa2d76ad8cf1ab551ee57c1",
+  "atlasSpriteSheetId": "6aa2d773d8cf1ab551ee57c2",
+  "sha256": "e1c0d5496486a33c30db5eb72abeec6f7bcd1503c2c7766c7355cd4a53c7ecef",
+  "createdAt": "2026-09-10T16:14:43.468Z",
+  "updatedAt": "2026-09-12T02:02:01.652Z",
+  "__v": 0
+}

@@ -1,12 +1,14 @@
 {
   "_id": "6a413e2d68158a3e6f841640",
-  "fileId": "6a9fe00451ee8bb636a5e682",
-  "cid": "bafkreihztbwfwnlqcqgw7twjcodo7m24dy4543dksd4zrhzcffkpbkgqhy",
+  "fileId": "3c06e71c03749c42f0918f6e",
+  "minifyFileId": "1fc033ef0df8827090f0afac",
+  "cid": "bafkreierhpsuykl4bwmiu3c5h66k3mrdywbu7tqm5i6lbig7rxmkse5iz4",
   "metadata": {
     "itemKey": "elara-voss-kalu",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-06-28T15:30:53.992Z",
-  "updatedAt": "2026-09-08T10:14:28.618Z",
+  "updatedAt": "2026-06-28T15:30:53.992Z",
   "__v": 0
 }

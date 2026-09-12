@@ -1,12 +1,14 @@
 {
   "_id": "6a8fcad8d1e1a48e3f29f828",
-  "fileId": "6a9fd60c4bd86e560db3a91e",
-  "cid": "bafkreigceggl4lu3rby2l3ctzuo2kaeczzxofjfxw5bigrwc6lv35neh24",
+  "fileId": "be21658b3a12d24c9c6d8b1b",
+  "minifyFileId": "70e4e8c3fd51f2c171c89013",
+  "cid": "bafkreicowemsfjm6qzmqe2tzk3himoruof76uluadmmnr2jfayfyjlpibu",
   "metadata": {
     "itemKey": "kishins",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-08-27T05:27:52.316Z",
-  "updatedAt": "2026-09-08T09:31:56.625Z",
+  "updatedAt": "2026-08-27T05:27:52.316Z",
   "__v": 0
 }

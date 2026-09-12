@@ -1,13 +1,14 @@
 {
   "_id": "6a401802192c16dbcde165ad",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 7,
-      "resistance": 2,
-      "agility": 3,
-      "range": 7,
-      "intelligence": 6,
-      "utility": 10
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
     },
     "item": {
       "id": "amethyst-tree-alpha",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreifhbi7uxgqetpv3b44o7jwcjfeilsgwhc5u7risfzle5pm5etvpt4",
-      "metadataCid": "bafkreiecr5gic3knrbbikkf2wfuobqztymty2rfddgswghn2jiwodv6swe"
+      "cid": "bafkreiegjomwrdesn77z5yn6tqor53wzltwcfjgwkvsqmmrre6s7elcupa",
+      "metadataCid": "bafkreienu7hkcmsfa764bgnixdp2lrdue4jjc2sslf67snm4plsjg2ebxm"
     }
   },
-  "cid": "bafkreidgim5tjjxl4mf4wx22sb2b2fpd7udiaxfhisfrhyuqnyupiuoulm",
+  "cid": "bafkreie4ijlz2fz42qxgnq53yroqfmg4pssroqxlormeimsy5syndvu2ki",
   "objectLayerRenderFramesId": "6a9fdffd51ee8bb636a5e679",
   "atlasSpriteSheetId": "6a401802192c16dbcde165ac",
-  "sha256": "829e1e104379a8b0cb8e62927fd562d68e23f2fe323bcdce3cae71c23529142c",
+  "sha256": "9c42579d173cd42e66c3bbc45d02b0dc7ca51742eb7458443258ecb0d1d69a52",
   "createdAt": "2026-06-27T18:35:46.903Z",
-  "updatedAt": "2026-09-08T10:14:21.280Z",
+  "updatedAt": "2026-09-11T21:21:54.966Z",
   "__v": 0
 }

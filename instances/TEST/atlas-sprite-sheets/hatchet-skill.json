@@ -1,12 +1,14 @@
 {
   "_id": "6a8fca72d1e1a48e3f29f810",
-  "fileId": "6a9fd6084bd86e560db3a91a",
-  "cid": "bafkreia4at7m7mrsgvwua33iwvpzn6qa2pq4oitqrvm736ztz5leojnwxm",
+  "fileId": "8821f0d517bddc6930f1d673",
+  "minifyFileId": "dff8498a38fd74c56e5448d1",
+  "cid": "bafkreibk67c2blpqwyo62kgoarjgpypozywljiwa7uayjvahn5zfexoate",
   "metadata": {
     "itemKey": "hatchet-skill",
     "atlasWidth": 250,
     "atlasHeight": 100,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -300,6 +302,6 @@
     }
   },
   "createdAt": "2026-08-27T05:26:10.981Z",
-  "updatedAt": "2026-09-08T09:31:52.739Z",
+  "updatedAt": "2026-08-27T05:26:10.981Z",
   "__v": 0
 }

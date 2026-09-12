@@ -1,8 +1,6 @@
 {
-  "_id": "6a9fe26d9bf3126ac87ba563",
+  "_id": "6a9f3b890a55742d256c27d2",
   "code": "item-pickup",
-  "__v": 0,
-  "createdAt": "2026-09-08T10:24:45.830Z",
   "fileId": "97d75a6b9c59771afce47b74",
   "manifest": {
     "id": "item-pickup",
@@ -48,5 +46,7 @@
       }
     }
   },
-  "updatedAt": "2026-09-08T10:24:45.830Z"
+  "createdAt": "2026-09-07T22:32:41.599Z",
+  "updatedAt": "2026-09-12T02:48:21.643Z",
+  "__v": 0
 }

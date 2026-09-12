@@ -9,7 +9,11 @@
     "fragmentation"
   ],
   "dropItemIds": [],
-  "inventoryItemsIds": [],
+  "inventoryItemsIds": [
+    "punk",
+    "junko",
+    "kaneki"
+  ],
   "overrideItemsIdsState": [],
   "behavior": "",
   "createdAt": "2026-09-06T22:56:52.290Z",

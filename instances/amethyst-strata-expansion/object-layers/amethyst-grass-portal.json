@@ -1,13 +1,14 @@
 {
   "_id": "6a42a08daf8795d1b2205c6e",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 9,
-      "resistance": 2,
-      "agility": 4,
-      "range": 1,
-      "intelligence": 2,
-      "utility": 4
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
     },
     "item": {
       "id": "amethyst-grass-portal",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreiccav62pbkowal7u5uyz2a5poeiulfcpnnn2hxjwqewy7tcrkbgcu",
-      "metadataCid": "bafkreia4emceai375fjnb2ohrksrnsxwxhnelgnaj5jw7erv2cht6lrusm"
+      "cid": "bafkreiecyfimrrqr6bfyz3ouo6hkkqo3dlcormqxftpdzgrubx43cegsdq",
+      "metadataCid": "bafkreifnize6sc263qnxy4espkyrkh4iot4kwlmlmmp4awcwz4zlyuzzuu"
     }
   },
-  "cid": "bafkreicwydxpogysformdxwyqhkwybfw657v35llf3ehihy3n7m76hn3ka",
+  "cid": "bafkreiboutr4tq3k4j2ryw32ubg7iwl2oltzj5ui3wpkjuccrn5hjxcyyu",
   "objectLayerRenderFramesId": "6a9fdffc51ee8bb636a5e677",
   "atlasSpriteSheetId": "6a42a08daf8795d1b2205c6d",
-  "sha256": "1560dafb73659977ca7132700c58bb740c08c9ebb9aa3cda513f32b758092b83",
+  "sha256": "2ea4e3c9c36ae2751c5b7aa04df4597a72e794f688dd9ea4d0428b7a74dc58c5",
   "createdAt": "2026-06-29T16:42:53.870Z",
-  "updatedAt": "2026-09-08T10:14:20.615Z",
+  "updatedAt": "2026-09-11T21:21:54.919Z",
   "__v": 0
 }

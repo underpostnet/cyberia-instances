@@ -1,13 +1,14 @@
 {
   "_id": "6a4012df6112c35896109084",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 5,
-      "resistance": 10,
-      "agility": 5,
-      "range": 9,
-      "intelligence": 10,
-      "utility": 10
+      "effect": 1,
+      "resistance": 0,
+      "agility": 10,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 1
     },
     "item": {
       "id": "jiro-samsara-lin",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreib23tj3badowyhm2kpnnc4nwvthgqk6bff75tgmnqgnkudvtgkksq",
-      "metadataCid": "bafkreidxhe62xmjx2t4mee3o2k65fwukv5yq3lyy66a3xz7zbqu736fyqy"
+      "cid": "bafkreiakxnx6aca5mlukjwxoexrawfoihq564ahaho2ef2cgam62ryld24",
+      "metadataCid": "bafkreif23vdaofxnvummb7ar3qjgwjpxsnx6t5zl7dey5jisxonk37itbu"
     }
   },
-  "cid": "bafkreicj3n6cghlyr5zkoruthaxiqznuzfgki2v7zhwe6ax3cwgxjnh3vq",
+  "cid": "bafkreihjg4pe7skgzyq3rtgewyrzyb5oxefgqchcfg3dahj2hhchhvqy3i",
   "objectLayerRenderFramesId": "6a9fe00751ee8bb636a5e687",
   "atlasSpriteSheetId": "6a405ed0c5b68b16f4305910",
-  "sha256": "49db7c231d788f72a74693382e8865b4c94ca46abfc9ec4f02fb158d74b4fbac",
+  "sha256": "e9371e4fc946ce21b8ccc4b6239c07aeb90a6808e229b6301d3a39c473d618da",
   "createdAt": "2026-06-27T18:13:51.382Z",
-  "updatedAt": "2026-09-08T10:14:31.929Z",
+  "updatedAt": "2026-09-11T21:21:55.520Z",
   "__v": 0
 }

@@ -1,13 +1,14 @@
 {
   "_id": "6a4013e2192c16dbcde161d5",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 9,
-      "resistance": 2,
-      "agility": 4,
-      "range": 1,
-      "intelligence": 2,
-      "utility": 4
+      "effect": 0,
+      "resistance": 0,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
     },
     "item": {
       "id": "amethyst-grass-alpha",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreidln6445xk3kssoilbqk6ikva2xeumyihj23q2trmbymx3soxbdpm",
-      "metadataCid": "bafkreihvu4jurb4d4hcrskntuuylvehuhhetq4xnafxvssysgqiphnjv64"
+      "cid": "bafkreibxdvlscyfh5aj6pi5vb4dpzmzpoha4joojmykpnrmrwts35kkku4",
+      "metadataCid": "bafkreighdv7abhp5vqlcmiq42jxjsbouu34amck3zkuq76sa5uvdtiwleq"
     }
   },
-  "cid": "bafkreictful24zpwwsjqeygpwopc7cvyvzcx6gqx762nbpbu6jg3izxngq",
+  "cid": "bafkreigwyjocgnki35vw52b37crc2nvc6cyw3pvvgckthvr5tvrfnk4wda",
   "objectLayerRenderFramesId": "6a9fdffb51ee8bb636a5e673",
   "atlasSpriteSheetId": "6a4013e2192c16dbcde161d4",
-  "sha256": "f6a1a3f352823c8208ba1c8ceb090bd78fb4d32eba460c0646c0314a245ed3ec",
+  "sha256": "d6c25c233548df6b6ee83bf8a22d36a2f0b16dbeb5309533d63d9d6256ab9618",
   "createdAt": "2026-06-27T18:18:10.270Z",
-  "updatedAt": "2026-09-08T10:14:19.777Z",
+  "updatedAt": "2026-09-11T21:21:54.829Z",
   "__v": 0
 }

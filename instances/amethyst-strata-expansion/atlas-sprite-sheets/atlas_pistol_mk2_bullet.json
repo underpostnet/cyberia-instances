@@ -1,12 +1,14 @@
 {
   "_id": "69b9183eac68ab7566e440ad",
-  "fileId": "6a9fe00251ee8bb636a5e67e",
-  "cid": "bafkreieh2kl77ljrggq3mjyvoqcduma3m7pk3pbjusob6fzymjebahnnve",
+  "fileId": "d2d2116ed21b0c8c4976e0f3",
+  "minifyFileId": "0b37518bd37d67955db2dd39",
+  "cid": "bafkreie5szh3xx5v32neiw25nvmipa25o7vqp6ka7w4idiyjxgbfkuktgy",
   "metadata": {
     "itemKey": "atlas_pistol_mk2_bullet",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-03-17T09:00:46.053Z",
-  "updatedAt": "2026-09-08T10:14:26.144Z",
+  "updatedAt": "2026-03-17T09:00:46.053Z",
   "__v": 0
 }

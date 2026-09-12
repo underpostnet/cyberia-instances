@@ -9,7 +9,9 @@
     "fragmentation"
   ],
   "dropItemIds": [],
-  "inventoryItemsIds": [],
+  "inventoryItemsIds": [
+    "anon-blood"
+  ],
   "overrideItemsIdsState": [],
   "behavior": "",
   "createdAt": "2026-06-29T14:46:58.663Z",

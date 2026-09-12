@@ -1,13 +1,14 @@
 {
   "_id": "6a4012df6112c35896109086",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 4,
-      "resistance": 2,
-      "agility": 7,
-      "range": 1,
-      "intelligence": 5,
-      "utility": 8
+      "effect": 6,
+      "resistance": 5,
+      "agility": 5,
+      "range": 5,
+      "intelligence": 10,
+      "utility": 0
     },
     "item": {
       "id": "biometric-masking-array",
@@ -21,9 +22,9 @@
     },
     "render": {}
   },
-  "cid": "bafkreicxdtirc2dqzqitiyxnzyrixef7t4yuriuu6ag447lzfobukogmmu",
-  "sha256": "571cd1116870cc113462edce228b90bf9f3148a294f00dce7d792b834538cc65",
+  "cid": "bafkreig6zpyeyykwnnxe5tqftonnh3l7acafo42v2zuskd3iql6uqh2y5i",
+  "sha256": "e9b71d0bf4ba897823c9c1b3d0898a8577444773d07cfd673527f11cae555468",
   "createdAt": "2026-06-27T18:13:51.391Z",
-  "updatedAt": "2026-06-27T18:13:51.391Z",
+  "updatedAt": "2026-09-11T21:21:55.243Z",
   "__v": 0
 }

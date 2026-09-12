@@ -1,14 +1,17 @@
 {
   "_id": "6a56b91a9fab49c408b339e0",
-  "fileId": "6a9fe00651ee8bb636a5e684",
-  "cid": "bafkreibnwu4ekbiuw7r54g4d52dhlece432nmfjz73dsuzwvdafhkrrmnm",
+  "fileId": "48c79e713e1f5743f7d62f81",
+  "minifyFileId": "0ab5841c263f156b4560e65e",
+  "cid": "bafkreifnnaqvsowyylq3u4iybrznufh5eodgb6ti44lebgys7lw7txfbkq",
   "metadata": {
     "itemKey": "fragmentation",
     "atlasWidth": 250,
     "atlasHeight": 100,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
+      "up_idle": [],
       "down_idle": [
         {
           "x": 0,
@@ -88,6 +91,12 @@
           "frameIndex": 10
         }
       ],
+      "right_idle": [],
+      "left_idle": [],
+      "up_right_idle": [],
+      "down_right_idle": [],
+      "up_left_idle": [],
+      "down_left_idle": [],
       "default_idle": [
         {
           "x": 25,
@@ -167,6 +176,14 @@
           "frameIndex": 10
         }
       ],
+      "up_walking": [],
+      "down_walking": [],
+      "right_walking": [],
+      "left_walking": [],
+      "up_right_walking": [],
+      "down_right_walking": [],
+      "up_left_walking": [],
+      "down_left_walking": [],
       "none_idle": [
         {
           "x": 50,
@@ -245,25 +262,10 @@
           "height": 25,
           "frameIndex": 10
         }
-      ],
-      "up_idle": [],
-      "right_idle": [],
-      "left_idle": [],
-      "up_right_idle": [],
-      "down_right_idle": [],
-      "up_left_idle": [],
-      "down_left_idle": [],
-      "up_walking": [],
-      "down_walking": [],
-      "right_walking": [],
-      "left_walking": [],
-      "up_right_walking": [],
-      "down_right_walking": [],
-      "up_left_walking": [],
-      "down_left_walking": []
+      ]
     }
   },
   "createdAt": "2026-07-14T22:32:58.699Z",
-  "updatedAt": "2026-09-08T10:14:30.139Z",
+  "updatedAt": "2026-07-14T22:32:58.699Z",
   "__v": 0
 }

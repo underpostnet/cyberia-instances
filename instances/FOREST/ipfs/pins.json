@@ -1,331 +1,331 @@
 [
   {
-    "cid": "bafkreigs6lhivd2hh7lzqkrefxw24km3gjbew2axbluwyberaxgdhps6xu",
+    "cid": "bafkreigocj4imumgbd4gc7p3mjz6uycuenmjccqj7jvfq66woftqa2vmjm",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreid5fwikpo6blncffyqisdeubdb6fmfmgo2luh56txozllk5m7vkqm",
+    "cid": "bafkreidoppaujpssldbsjc52qoxrdugaibwizwv2gadprxqsuapkijuisi",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreig7cesuae7tqqicfq3mpanrc2jvlctmlrsr6qdrusnet3st34ngra",
+    "cid": "bafkreih4axvgggns2ib2vg36xvogiclfyj6jufmsfo7nyftvzpeieq2f6e",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/anon/anon_data.json"
   },
   {
-    "cid": "bafkreie55rdkyygnyy53hf5b7bh6zhv7tqgyx4fokjio5okz6umv4fsrku",
+    "cid": "bafkreihy5ri66zslaijmtjfz7tm7h4rcmypldhxa2eiwmmgkphg6w5552m",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiebmyyavwgipr2w5k66zpnd4mqajt4ig2pzhg6rehjby4yqchzyxu",
+    "cid": "bafkreibaq54sw64aeclmj2z4o753fxy7j72o32vm7gcubqfsacobkojlnq",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihyt2ywevzmj3wkkxl57boudoxhcdhvp7enl754ehqghklq22djqu",
+    "cid": "bafkreidh5zszp67qmqztwi6j5fyp7vgyowedeyk7pg2pxnrknvl2d7lwiu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_data.json"
   },
   {
-    "cid": "bafkreieh2kl77ljrggq3mjyvoqcduma3m7pk3pbjusob6fzymjebahnnve",
+    "cid": "bafkreie5szh3xx5v32neiw25nvmipa25o7vqp6ka7w4idiyjxgbfkuktgy",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiakvqgusvdqli4fpy2k3grxp6bv6i6tq7pcbcyuq2oc7icbuiaume",
+    "cid": "bafkreiazyqxtwidd6gmo3e6hmbhb4ezfk4djziczmetlq6eclkqyme3nny",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicb747jgzmdzrrfatr2n3j5tcav3iz4zxauzjl6oidyd5ibyqycpy",
+    "cid": "bafkreidvlkx7vayv4cj6u2p2qahd4srmeclm5fpw6chiuq3hajuknjhyym",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_data.json"
   },
   {
-    "cid": "bafkreid4ztvkxi3bhbvlpmed4it4gdkkddcisdogguaj2cxi3aws62ftsy",
+    "cid": "bafkreidmbaxfnp5gwq6uknhfyq4amb2lo7wn2cvn7gemxko4vn7lrindcu",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/coin/coin_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreie4py2hu43jk73whsqsvcyyl3i2zfudhjldrioneougxzdc4n57nu",
+    "cid": "bafkreicst3cbu5e5paeukfmyxqdzr4hscnrkfdpr25vublbhop2lygs2ei",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/coin/coin_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiaanldndwgsajouxrj3eb6v2zjusk2izmzqqyrqo7hk7koqg47kdq",
+    "cid": "bafkreiaazzag2okfpwroo7u24663peph6yficmaeplii4ewnn5r2cl56qm",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/coin/coin_data.json"
   },
   {
-    "cid": "bafkreiambjqwgoxvt6cmtkwwrx5azk7lcrsgasul7krwqglqt5nabzqxna",
+    "cid": "bafkreictqypijgh4e2z6qs7slmd2y4tzzpbtawktqb2w2ljx7afou57724",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiaa52orc2j4jyl7iiizgrc6sgykh6yq5sqe22rcvjtsurhprnfbg4",
+    "cid": "bafkreidwakinm5zdaslbebdbi2nz3qefsevngkfkmkanu7z7ks3spyj5xm",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidsb2yjlb5k2hzkueouja6e4isg3hbvabigg7iozjpuji3elb3gi4",
+    "cid": "bafkreibu2kohdhegqhmvyp26njf3yyypedyhgpaw2t453dckastpwau6bq",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/ghost/ghost_data.json"
   },
   {
-    "cid": "bafkreiholt6e25hl4bqxavcfdjmr3diiuewbppcieawto2fttgep4pwxqu",
+    "cid": "bafkreifemsm5rfrtnaoli22bvxipfzt3h74izkwb7tn3s7i2sexqxx6nwy",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/gp1/gp1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreic6zfmam5kup2w52mazpho2vnrtokhumcijnrk67zs5wficpofkoy",
+    "cid": "bafkreiewfsluytabab75wtqakxjy7f3rz6bd2ygm3uvkkeaixovpa52a7m",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/gp1/gp1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiganmsqkz4el5xkn4oladgrfebyun6jfvsj7ylisd5n42hgyltksy",
+    "cid": "bafkreiepp52d3czndhfpe2vxnnrjwe4l2toqbur62slpqozae6l43i4eky",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/gp1/gp1_data.json"
   },
   {
-    "cid": "bafkreibb53entfuv33phglhfwnr45tr343hy5cliqmzm2wdluxdjfpd7xe",
+    "cid": "bafkreihahqta3tiet7lnm35csuh4ec5r4pzvqzlwn24c4myp6momjnxodu",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/gp2/gp2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreia7s4povwiacvkkdydd22pq3ced2fafhjfant2svu6zo6ve4pl74m",
+    "cid": "bafkreicrjjzw26oa4mu56ya54fgfs2a6cjfvcyahiiu6jea37kqgn3jiy4",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/gp2/gp2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreid5vbxrhz5453ugrer6luitcmjrnwflgjggtnfi5llzhsdqeklvv4",
+    "cid": "bafkreigymyes2cvsvnwdpc2sslyrpjac5v5tjyx5tg75kdgiu7gi6p5iba",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/gp2/gp2_data.json"
   },
   {
-    "cid": "bafkreicdttsoaoulj2jtxqqibv56wu2utwbaulz7yb2tmypxo6ol7adjmm",
+    "cid": "bafkreiftzhmlzegqtmxhoo257mhs7g34z52o5xwzztf32sp2o5oc2yriya",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/grass-0/grass-0_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreihouasxaxf34534boag5sqagwatigmvdcmjbgqupjurungiairey4",
+    "cid": "bafkreibso3qc4jfzzgexuhgbiw2etrwr4egtpwcbba5w4mpxy6ut3e7haa",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/grass-0/grass-0_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicvg2trhquoytielhvmwg2zvq2jmc3givfwdxtbwi5b4447bzqs5u",
+    "cid": "bafkreib7yosbhoep637pzavrrdw3xpqgwn5ns4qdfmgsbvpiyrj36ot73q",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/grass-0/grass-0_data.json"
   },
   {
-    "cid": "bafkreige4tchuygdku26p3ygt4radlgtgrfsb2cl72kk45566xoibdcbde",
+    "cid": "bafkreidr6opnzqwe3w5f5htofvygazmiktdbznhwchwgv4fqs6zobwmu34",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/grass-1/grass-1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreihb76njfyn7gxlzwq7zlrzabjrc3zhihyfqb2gldersuyt5a4onoy",
+    "cid": "bafkreibx6y64aibznwwoqbpwdhkgajtvdepiatregvw5tve37ac5gofyne",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/grass-1/grass-1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidioz7r5zuqwrwbvgc3vystl6t3vfyvkatcfhmwu673qwg5b7nwbm",
+    "cid": "bafkreic3rqyqeqkgqmshiu2rwpu5mbqzbsm2ztdn64i2yp36t372lyqr5i",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/grass-1/grass-1_data.json"
   },
   {
-    "cid": "bafkreiawfh7znr4sxmscmamt4vf3dabo75o3ihzmsufggwepen23zn6nou",
+    "cid": "bafkreihlc5xeni2uhbtlvpznli33frhlsyjmutb22c74pbbudbqsqapzae",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/grass-3/grass-3_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreie5txa7rua7pa2x6uiu45d56m5njkq7iqgvurdho22uwmkeuurwhe",
+    "cid": "bafkreia5f4oxptnisiedvsj53gqdt4tpphewv4ngmkxgarut66uja7xs6e",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/grass-3/grass-3_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreif5bqpuweogghhediwzhlib4k6mgl2it5qzwhkcly572pvnwz57k4",
+    "cid": "bafkreid7s2rlr5lf2o45y5wsp3fkswfrsmfr5cujx3oby2iixbujrai5vy",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/grass-3/grass-3_data.json"
   },
   {
-    "cid": "bafkreifl5iya4i6j7bgd7g663ydkdj733ejozrestqt4l4mjhco6hhgk5q",
+    "cid": "bafkreidu5xsjhrvz65do465zd3xqpcrnfmbnqxp6v3yfy6bq7kon76gts4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/grass-4/grass-4_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreicw57jxedof4wzrxwhyvegglejdysxnkvhtjasyr3fareikejumja",
+    "cid": "bafkreiciq6fvrku3zr4ulp4qtmtiddv25qcsyasng274pa6yyzyrij7f3e",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/grass-4/grass-4_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiehyhl4r72nu5skxvpjm6v6zea3vlrybene7nqcoynmyuavcdsuxy",
+    "cid": "bafkreihv6uiceefbb2culmq4afh5sm62d3dr7acy6uldgviglj6j62o7ju",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/grass-4/grass-4_data.json"
   },
   {
-    "cid": "bafkreia3f74d7eeyg7jgwyqtdk3gc5wuo46iub24xhhzrjhdnsyvth6ray",
+    "cid": "bafkreie5obqh2mds7mmm7w75t5fuseiore7rdqiujxiv52uufi2tjfsmbi",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/portal/portal_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiegnwqx7476pwlt22ljr4r6weq6c2h3kyrtpjyi5i3xo3wvqgu77u",
+    "cid": "bafkreiep5lzvyvginswtuhttgslzq4czryph2edatfdeiyftl7eiydb3ua",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/portal/portal_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreib4puydybborma4ahkqlegwzwdgnlimtfx5nh4i4r2xb4d2thmooq",
+    "cid": "bafkreiebob4e3ffpczya46pfquju5brwpwtm7cwrgoqaseeotnt7wtqbve",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/portal/portal_data.json"
   },
   {
-    "cid": "bafkreihztbwfwnlqcqgw7twjcodo7m24dy4543dksd4zrhzcffkpbkgqhy",
+    "cid": "bafkreierhpsuykl4bwmiu3c5h66k3mrdywbu7tqm5i6lbig7rxmkse5iz4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/purple/purple_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreicnzu35mzwyypulv7w7gl7kbqnhzthnzahhkuso3ttx6wgc7ndks4",
+    "cid": "bafkreieghwlom7h52uqzcvnsccavv5u6uq6vbj7vchf36c4snjnyothwoy",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/purple/purple_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreifcp4edza2cn5saz6r5z2oxsvqvbo6nd7gmcnfolec6i5lc7j4pzm",
+    "cid": "bafkreidsixbgtmflpgkloclav4i5qd7gpq3p3ikgpldejeyleo4rvxojgy",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/purple/purple_data.json"
   },
   {
-    "cid": "bafkreiczzawtlnjos54uznbhpglg2in36acg3w2ffv66okt6hkc5ud2pxq",
+    "cid": "bafkreihewdy2vegbrrrh65gtgrtfwamujbemdy65b4tp2nojf7662n7uwe",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/ssatellite/ssatellite_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreihl4bcff3nrj747gmuopzhvgawx2kodicue4uotlw335vo6tfm64a",
+    "cid": "bafkreif6mt6vxdeb56e2sxvz4toz4etvakmscv7qpzu2a37326sq3ebugm",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/ssatellite/ssatellite_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreihnqo6virmj4pb2wn45p2jwqpcbxollxu5657p73kvkvqsie4ggdm",
+    "cid": "bafkreibfstymmq2kc6gdaletzfozya7xvpizid4mlkbrgofekijo2yvedu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/ssatellite/ssatellite_data.json"
   },
   {
-    "cid": "bafkreibf2xjdnbs4cy6malbnk5ddkdxptlwfcbcbjipjpdklfkzwoe22y4",
+    "cid": "bafkreiejzcgj62l76oup3htk7l7ll7l23wsfc4ljtrl5nd4blqzl6q4yc4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/stone-1/stone-1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreib7lresxda4vlvawgze3xicfig3zrlui4obiwdbeaadynmxszbeoy",
+    "cid": "bafkreig342gmpthzk6qrmliyzmkmvh522eq6qsfsz5j5bzm6c3hnx6cfd4",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/stone-1/stone-1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreif7hmvigxvdxa3l3wdvcpuhdntxqlm5qz4jo4yzund7kbjzushqve",
+    "cid": "bafkreifn66xmptzeiqriakg5igujjcwiavonzdqahxaa33mfbjsw2njgja",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/stone-1/stone-1_data.json"
   },
   {
-    "cid": "bafkreibqohld4tdbiasuptntwpj5r6ohp77v2x55j44nwgvckz5oxltqpa",
+    "cid": "bafkreidnkgwdlkehemz5uid7pbrwljtnrhvemfmsnnhz2r4bsr7df6jmgi",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/stone-2/stone-2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiftqrxocmtdrp2iwbyccq3uuwivzqsjja76t676hb4i26qavwlzkq",
+    "cid": "bafkreig2llycafuxaf2amnfybi42papdus2nd2udvhcra5lmaqh47q2w2y",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/stone-2/stone-2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreigmrcgprxjnnoqic77esnl6bo33em5js7jdvmd6stbtubu2ficotu",
+    "cid": "bafkreihy5dt5d753xm363wglhqsg2n25atwai7plb2uhs3qsu3md2ojfj4",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/stone-2/stone-2_data.json"
   },
   {
-    "cid": "bafkreigt67cdkukwjkoob7l2v3bn7uwjd5rk2jpkpj6brkomj6uymf5p6u",
+    "cid": "bafkreignapfqp53ubfrrwtcztcbxhqum7f7rjxtaadq5f2utnhclaxyue4",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-1/wood-1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreias56qzs5fw7nr2v5za6owd44ye7y5ajldw3dvodvnsadbkbq4aki",
+    "cid": "bafkreiebwcnclefb6v6upv5xsx3t5n2qxw244qfq5uus7fiypvjin2okt4",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-1/wood-1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiepyogvx4bk5gekuyy5vsjcxd5egflo37hs7xvqqwbcrf4chq2vpa",
+    "cid": "bafkreihm6j6rnhzmecxbhbpnoi5xez5mrwpigud7g4vl3lgd5n6ufutjke",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-1/wood-1_data.json"
   },
   {
-    "cid": "bafkreiceb47qodo46wtsicagmbpxtufwotwfjyexrw2nav26djlbqetxia",
+    "cid": "bafkreiav2vb7lbytbscfuu4ewk4ulunudl3qfkcva6wznvkr3paexcxgwq",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-2/wood-2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreicovqm2xy7iq2jl2hyad3hwknzm2mb234wyr7gnlg45jgt6ok2noa",
+    "cid": "bafkreihphlwuo2ow3hrwe4nrnids3m57s3qrj6c4tjtkxtujcyrzuvtyje",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-2/wood-2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicrcubln6tf2wvafrl6v7rdtsiaahocqulnn6plyu667foetnk4gu",
+    "cid": "bafkreifiegjw2n64tp6x26hpd6rwuigprm3phvm4y7ouqimaqaiswrusdi",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-2/wood-2_data.json"
   },
   {
-    "cid": "bafkreie7ivmka4zg3r2pnb45vb4i4t7bjqfx6yux4edsyuas4vst45tcvi",
+    "cid": "bafkreibow5bp3ll5x6rfhfwlxel732piv6izawami5zvwfs7wltt37syze",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-drop-1/wood-drop-1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreicfzdiv3rxuwkdga5eqbsos6nail5nt2qmzjawlwozioy6lg73bri",
+    "cid": "bafkreibajm43cyhibledaxklbxmjp5pzbkzwylvk5heklevcze5bnvjz6y",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-drop-1/wood-drop-1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreicqbfghr4avks5mkhs3dayydabt5yjavlyl5762wqwqomtydkom4u",
+    "cid": "bafkreifnfqirtvnv6g5nmqywx7rfuwi4zvs6cnaurjaouiibjdxiyhxeae",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-drop-1/wood-drop-1_data.json"
   },
   {
-    "cid": "bafkreicuojnz5xdsbgnycuyilhoycicgkt74maxvh6zhtuzoumowpy6w4q",
+    "cid": "bafkreiehaksqwnhedkopakz3pxgevs6nsrce5jc3ryox7s6riju334hqqe",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-drop-2/wood-drop-2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreibipqnygaowj3rg7zzxhul6xinpvl3zrc7rdkyqghfprpz3ybqg6u",
+    "cid": "bafkreiakmfu4tyzqoxhsmgxicxwhiyjqdpy6h7dodzn6iiuoivl7kyzo5e",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-drop-2/wood-drop-2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibh4d4veyhagxdcd7qm44phnpixhidotrj2gyzsux6rjx7veditny",
+    "cid": "bafkreiew62dfbpheqfm7uxzjpyllcnxgf5ruoqasnery3liujnfzeimimu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-drop-2/wood-drop-2_data.json"
   },
   {
-    "cid": "bafkreihe2y26c7jvkzpaqv47olc6frt7bccbd722unmnzbumsidngwsbae",
+    "cid": "bafkreia56bwfcd35z26bp3aueb4mqwhuziefe5tb65e4lfe7e5j7hhehce",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-extracted-1/wood-extracted-1_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreigc6bghpgkczaqsnphp4rggcw25q23cquhfnluwgdftnslj6ad5ae",
+    "cid": "bafkreidu7rflzmt7mhhdnnfkjrinysobvndvflrqcvrx6qaeju3zrdxnaa",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-extracted-1/wood-extracted-1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibna3lb37vvqjbxwsdymur73omsru66ae7kum5jxa5lrlqpkb7y7u",
+    "cid": "bafkreierjr2wi4kaxf6ohvvkyczya6uc43ctfwy6dzu36j7yovcgxb4ody",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-extracted-1/wood-extracted-1_data.json"
   },
   {
-    "cid": "bafkreihra7yqz5oqycci7hnylskjqb7h5bzvkcvkfewocirbwhyu2selzu",
+    "cid": "bafkreic4jpebpp4tgddihoyli6glway6taelwurxjbpopxptwd42eyhd7m",
     "resourceType": "atlas-sprite-sheet",
     "mfsPath": "/object-layer/wood-extracted-2/wood-extracted-2_atlas_sprite_sheet.png"
   },
   {
-    "cid": "bafkreiciogbabhfwioontktdqssa26f362m3bs5w4rudof4c6zlrg5542e",
+    "cid": "bafkreicdexpcogutih6q3ow4wyozvmbvg4wz62ejlpitiguyhwmorzvf3q",
     "resourceType": "atlas-metadata",
     "mfsPath": "/object-layer/wood-extracted-2/wood-extracted-2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibpju2dyajrdg3omgsfgvgibmrvm2pvgm56ijz5uclgrzgxi2icv4",
+    "cid": "bafkreidln77lmt5grxjzvfpmqashbsksgsv4mch4kla7ayfyubyh35kteu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/wood-extracted-2/wood-extracted-2_data.json"
   }

@@ -1,13 +1,14 @@
 {
   "_id": "6a414836175934e535d9cf7a",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 7,
-      "resistance": 0,
-      "agility": 1,
+      "effect": 0,
+      "resistance": 10,
+      "agility": 0,
       "range": 0,
-      "intelligence": 2,
-      "utility": 6
+      "intelligence": 0,
+      "utility": 0
     },
     "item": {
       "id": "purplish-sap-vial-extracted",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreiduhadut524qshfyjo562pvnus2aa5cmloe5zla2xjunj73oiqod4",
-      "metadataCid": "bafkreifkf6otilblpnz6v6usvws7srvzoy7mbs2m6omejb5ktwgun2yzie"
+      "cid": "bafkreid7fdm5q2cjwgozehkdyez72urqcnod6lvftxs4apvlewmcbnclp4",
+      "metadataCid": "bafkreicr4vg455urf5iofyrnwzm6ptzqw6nmrdyftt63ocgrv6epqmdutm"
     }
   },
-  "cid": "bafkreicmom5gef73rrsk7rgvufgifrdva76vcokcuxsuaqsmkch5f6odaa",
+  "cid": "bafkreie5uscpioojy4mvvsqey6vlumwl3gi44u2owmbzv44k7psntxpdky",
   "objectLayerRenderFramesId": "6a9fe00951ee8bb636a5e68d",
   "atlasSpriteSheetId": "6a414836175934e535d9cf79",
-  "sha256": "3aff2b2242822147af59a88e1de7a3c8b38d4aa821cf11c86c1ae8aa0a62cf31",
+  "sha256": "9da484f439c9c7195aca04c7aaba32cbd991ce534eb3039af38afbe4d9dde356",
   "createdAt": "2026-06-28T16:13:42.052Z",
-  "updatedAt": "2026-09-08T10:14:33.327Z",
+  "updatedAt": "2026-09-11T21:21:56.122Z",
   "__v": 0
 }

@@ -1,9 +1,10 @@
 {
   "_id": "6a4012df6112c35896109087",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 5,
-      "resistance": 8,
+      "effect": 0,
+      "resistance": 0,
       "agility": 0,
       "range": 0,
       "intelligence": 0,
@@ -21,9 +22,9 @@
     },
     "render": {}
   },
-  "cid": "bafkreib72aasna4kpg6s7jmp4dyeeii7mgfyjhpxllyslnu2m3p6np2iye",
-  "sha256": "3fd00126838a79bd2fa58fe0f042211f618b849df75af125b69a66dfe6bf48c1",
+  "cid": "bafkreicdlgutirmdl4qr67ame62bvqtrh32tbrtmuu2dnvryeohzprtsha",
+  "sha256": "471a6d2e8ec470ce33533abbf8fd5b09cac6298f1f5151e65a0416301ac8f790",
   "createdAt": "2026-06-27T18:13:51.395Z",
-  "updatedAt": "2026-06-27T18:13:51.395Z",
+  "updatedAt": "2026-09-11T21:21:56.713Z",
   "__v": 0
 }

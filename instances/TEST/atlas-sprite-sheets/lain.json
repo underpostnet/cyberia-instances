@@ -1,12 +1,14 @@
 {
   "_id": "6a8fcae5d1e1a48e3f29f838",
-  "fileId": "6a9fd60e4bd86e560db3a920",
-  "cid": "bafkreiamh6qc3enm37pokysgspx73g672lwzqgd6i7ozpq4ulweplmt4cm",
+  "fileId": "dce4c27751680872e67e58b6",
+  "minifyFileId": "f259a1e949884bfab2f37d10",
+  "cid": "bafkreieq66nujunpjkio4tysfruqh5r6zpt4gfsl3lzfqriu6klymommce",
   "metadata": {
     "itemKey": "lain",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-08-27T05:28:05.361Z",
-  "updatedAt": "2026-09-08T09:31:58.762Z",
+  "updatedAt": "2026-08-27T05:28:05.361Z",
   "__v": 0
 }

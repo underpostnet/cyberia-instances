@@ -1,8 +1,6 @@
 {
-  "_id": "6a9fe26d9bf3126ac87ba562",
+  "_id": "6a9f3b890a55742d256c27d1",
   "code": "craft",
-  "__v": 0,
-  "createdAt": "2026-09-08T10:24:45.772Z",
   "fileId": "5356f0207ebf22eb78a9efd2",
   "manifest": {
     "id": "craft",
@@ -60,5 +58,7 @@
       }
     }
   },
-  "updatedAt": "2026-09-08T10:24:45.772Z"
+  "createdAt": "2026-09-07T22:32:41.543Z",
+  "updatedAt": "2026-09-12T02:48:21.582Z",
+  "__v": 0
 }

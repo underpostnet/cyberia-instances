@@ -1,13 +1,14 @@
 {
   "_id": "69c906c9178523f2652d36a5",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 2,
-      "resistance": 0,
-      "agility": 5,
-      "range": 10,
-      "intelligence": 6,
-      "utility": 10
+      "effect": 5,
+      "resistance": 2,
+      "agility": -3,
+      "range": 0,
+      "intelligence": 5,
+      "utility": 1
     },
     "item": {
       "id": "atlas_pistol_mk2",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreie55rdkyygnyy53hf5b7bh6zhv7tqgyx4fokjio5okz6umv4fsrku",
-      "metadataCid": "bafkreiebmyyavwgipr2w5k66zpnd4mqajt4ig2pzhg6rehjby4yqchzyxu"
+      "cid": "bafkreihy5ri66zslaijmtjfz7tm7h4rcmypldhxa2eiwmmgkphg6w5552m",
+      "metadataCid": "bafkreibaq54sw64aeclmj2z4o753fxy7j72o32vm7gcubqfsacobkojlnq"
     }
   },
-  "cid": "bafkreihyt2ywevzmj3wkkxl57boudoxhcdhvp7enl754ehqghklq22djqu",
-  "objectLayerRenderFramesId": "6a9fe1d16d406550557c83ec",
+  "cid": "bafkreidh5zszp67qmqztwi6j5fyp7vgyowedeyk7pg2pxnrknvl2d7lwiu",
+  "objectLayerRenderFramesId": "6aa4aecab6e6781e0ada1436",
   "atlasSpriteSheetId": "69c906c9178523f2652d36a1",
-  "sha256": "f89eb162572c4eeca55d7df85d41bae710cf57fc8d5ffbc21e063a970d686985",
+  "sha256": "67ee6597fbf064333b23c9e970ffd4d8758832615f79b4fbb62a6d57a1fd7645",
   "createdAt": "2026-03-29T11:02:33.855Z",
-  "updatedAt": "2026-09-08T10:22:09.879Z",
+  "updatedAt": "2026-09-12T02:18:19.794Z",
   "__v": 0
 }

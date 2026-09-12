@@ -1,12 +1,14 @@
 {
   "_id": "6a8fcb7d0faca8157bde4216",
-  "fileId": "6a9fd5f64bd86e560db3a906",
-  "cid": "bafkreifi7mvr3lpd5ipftjkhigp5cnmwlouldpjyatmy4q7m4zkxejwmbu",
+  "fileId": "c735fe4cb6630d0af40a873a",
+  "minifyFileId": "1df82ba3b5c544dbb2d94c32",
+  "cid": "bafkreig6nmviljyetodt7cimio7dx3aaakv4lr24q44fkkyrm43ostarlq",
   "metadata": {
     "itemKey": "agent",
     "atlasWidth": 250,
     "atlasHeight": 75,
     "cellPixelDim": 1,
+    "upscaleFactor": 20,
     "frame_duration": 250,
     "frames": {
       "up_idle": [
@@ -230,6 +232,6 @@
     }
   },
   "createdAt": "2026-08-27T05:30:37.674Z",
-  "updatedAt": "2026-09-08T09:31:34.870Z",
+  "updatedAt": "2026-08-27T05:30:37.674Z",
   "__v": 0
 }

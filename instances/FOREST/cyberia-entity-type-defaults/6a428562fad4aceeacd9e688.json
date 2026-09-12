@@ -11,7 +11,14 @@
     "wood-drop-1"
   ],
   "inventoryItemsIds": [],
-  "overrideItemsIdsState": [],
+  "overrideItemsIdsState": [
+    {
+      "itemId": "wood-drop-1",
+      "active": false,
+      "quantity": 2
+    }
+  ],
+  "behavior": "",
   "createdAt": "2026-06-29T14:46:58.708Z",
   "updatedAt": "2026-06-29T14:46:58.708Z",
   "__v": 0

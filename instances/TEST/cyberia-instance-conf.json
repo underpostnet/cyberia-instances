@@ -16,7 +16,34 @@
   "playerBaseSpeed": 8,
   "playerBaseLifeRegenMin": 0.5,
   "playerBaseLifeRegenMax": 1.5,
-  "sumStatsLimit": 500,
+  "progressionRules": {
+    "maxLevel": 100,
+    "xpPerLevel": 100,
+    "killXp": 25,
+    "questXp": 100,
+    "objectiveXp": 10,
+    "minAwardIntervalMs": 500,
+    "repeatWindowMs": 60000,
+    "maxRepeatAwards": 4,
+    "maxAwardsPerWindow": 30,
+    "defaultBotLevel": 1,
+    "baseStats": {
+      "effect": 5,
+      "resistance": 10,
+      "agility": 0,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
+    },
+    "perLevelStats": {
+      "effect": 2,
+      "resistance": 5,
+      "agility": 1,
+      "range": 10,
+      "intelligence": 1,
+      "utility": 1
+    }
+  },
   "maxActiveLayers": 4,
   "initialLifeFraction": 1,
   "respawnDurationMs": 3000,
@@ -31,11 +58,10 @@
     "portalFee": 0,
     "craftingFeePercent": 0
   },
-  "lifeRegenChance": 300,
-  "maxChance": 10000,
+  "lifeRegenChance": 0.15,
+  "maxChance": 0.95,
   "entityDefaults": [
     "6a428562fad4aceeacd9e67f",
-    "6a5979c02e1dbf5a3a3086f3",
     "6a8fcb812ccebd1c7e97d20e",
     "6a8fcb812ccebd1c7e97d20f",
     "6a8fcb812ccebd1c7e97d210",
@@ -43,13 +69,14 @@
     "6a8fcb812ccebd1c7e97d212",
     "6a8fcb812ccebd1c7e97d213",
     "6a8fcb812ccebd1c7e97d214",
-    "6a9e0c0bc39c51c63a376346",
-    "6a9e0c0bc39c51c63a376347",
     "6a428562fad4aceeacd9e683",
     "6a428562fad4aceeacd9e689",
     "6a4456d8b38301b2f28dd1b4",
     "6a9e1084e98a8dfee2a72d73",
-    "6a428562fad4aceeacd9e688"
+    "6a428562fad4aceeacd9e688",
+    "6aa31e937c5b5c1831170be9",
+    "6a428562fad4aceeacd9e681",
+    "6a428562fad4aceeacd9e682"
   ],
   "statusIcons": [
     {
@@ -134,6 +161,6 @@
     "requireSkin": true
   },
   "createdAt": "2026-08-27T05:52:34.212Z",
-  "updatedAt": "2026-08-27T05:52:34.212Z",
+  "updatedAt": "2026-09-12T02:34:06.607Z",
   "__v": 0
 }

@@ -1,13 +1,14 @@
 {
   "_id": "6a4012df6112c35896109083",
+  "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 5,
-      "resistance": 2,
-      "agility": 6,
-      "range": 5,
-      "intelligence": 7,
-      "utility": 4
+      "effect": 1,
+      "resistance": 18,
+      "agility": 10,
+      "range": 0,
+      "intelligence": 0,
+      "utility": 0
     },
     "item": {
       "id": "elara-voss-kalu",
@@ -20,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreihztbwfwnlqcqgw7twjcodo7m24dy4543dksd4zrhzcffkpbkgqhy",
-      "metadataCid": "bafkreiauscoo5hklhpcmhmll4xz7nygxg4tx47evryb2vctivzahluqhrm"
+      "cid": "bafkreierhpsuykl4bwmiu3c5h66k3mrdywbu7tqm5i6lbig7rxmkse5iz4",
+      "metadataCid": "bafkreicbciollvpei64yrw5taq2xoff3ctacefy3iheh6z3ogausalxghe"
     }
   },
-  "cid": "bafkreiabcwsa2xtisfux3pzvgq4oswifdqbpft6mp2oguc74rdqcb7fdju",
+  "cid": "bafkreicow52c7ybwnwbquftm76auzwfh4lm4fwxmbrfpnv46ry5mw57arq",
   "objectLayerRenderFramesId": "6a9fe00451ee8bb636a5e683",
   "atlasSpriteSheetId": "6a413e2d68158a3e6f841640",
-  "sha256": "0115a40d5e6891697dbf353438e959051c02f2cfcc7e9c6a0bfc88e020fca34d",
+  "sha256": "4eb7742fe0366d830a166cff814cd8a7e2d9c2daec0c4af6d79e8e3acb77e08c",
   "createdAt": "2026-06-27T18:13:51.375Z",
-  "updatedAt": "2026-09-08T10:14:28.742Z",
+  "updatedAt": "2026-09-11T21:21:55.327Z",
   "__v": 0
 }
