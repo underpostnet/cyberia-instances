@@ -398,11 +398,6 @@
         "ssr": "CyberiaPortal"
       },
       {
-        "path": "/fallback-world-engine",
-        "client": "CyberiaPortal",
-        "ssr": "CyberiaPortal"
-      },
-      {
         "path": "/instance-selection",
         "title": "Select World",
         "client": "CyberiaPortal",
