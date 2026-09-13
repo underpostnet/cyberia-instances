@@ -4,11 +4,11 @@
   "data": {
     "stats": {
       "effect": 1,
-      "resistance": 0,
-      "agility": -3,
+      "resistance": 8,
+      "agility": 8,
       "range": 0,
       "intelligence": 2,
-      "utility": 5
+      "utility": 1
     },
     "item": {
       "id": "kaneki",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreienr7bwo7bwy6kwaxneihmrkq6p2u6vj6yigzjlaabtqy45inlpcy"
     }
   },
-  "cid": "bafkreig2lgb5vqivasm2ypygdjrs6fnwlvfwhajeq6qmdr7sp56uvg6y7e",
+  "cid": "bafkreia6jdf463cy2wu7gvms6uhaoaxq3mztthpe6qutlzssq5ctiduapu",
   "objectLayerRenderFramesId": "6a9fd60a4bd86e560db3a91d",
   "atlasSpriteSheetId": "6a8fcae8d1e1a48e3f29f83c",
-  "sha256": "da5983dac1150499ac3f061a632f15b65d4b63812487a0c1c7f27f7d4a9bd8f9",
+  "sha256": "1e48cbcf6c58d5a9f35592f50e0702f0db33399de4f42935e6528745340e807d",
   "createdAt": "2026-08-27T05:28:08.886Z",
-  "updatedAt": "2026-09-11T21:21:55.709Z",
+  "updatedAt": "2026-09-12T16:00:15.574Z",
   "__v": 0
 }

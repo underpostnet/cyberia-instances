@@ -1,8 +1,9 @@
 {
   "_id": "6a8fcabfd1e1a48e3f29f820",
-  "fileId": "1b3da92a3baf64203458c0bf",
-  "minifyFileId": "2cf5b99b76543196a02e5dcd",
-  "cid": "bafkreid652kusjcz4bslzqnvxvimvx2yhybcw5h5renbebbfpyvlcbd4te",
+  "fileId": "c53a1b2ca9e2319a39c315bd",
+  "minifyFileId": "c07112601a28b0cfbb35ccc5",
+  "idlePreviewFileId": "107ba035c71b01d4d1f05e3f",
+  "cid": "bafkreie432evxw32qugd2ek2sqhevf3zcb3zrkzvvjvvrtgukqaqh5t2cq",
   "metadata": {
     "itemKey": "hatchet",
     "atlasWidth": 125,
@@ -176,6 +177,6 @@
     }
   },
   "createdAt": "2026-08-27T05:27:27.748Z",
-  "updatedAt": "2026-08-27T05:27:27.748Z",
+  "updatedAt": "2026-09-12T20:36:58.031Z",
   "__v": 0
 }

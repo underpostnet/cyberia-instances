@@ -10,7 +10,7 @@
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreih4axvgggns2ib2vg36xvogiclfyj6jufmsfo7nyftvzpeieq2f6e",
+    "cid": "bafkreidpzxlto6kb5bvdfs6xxpibinbsavsqhhnxg6beqxkikotvvvuuki",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/anon/anon_data.json"
   },
@@ -40,7 +40,7 @@
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidvlkx7vayv4cj6u2p2qahd4srmeclm5fpw6chiuq3hajuknjhyym",
+    "cid": "bafkreia4czi6zfj6kfefsplg7fyo6ucxhatn4appbtjuk425ttmut3a2fi",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_data.json"
   },
@@ -70,7 +70,7 @@
     "mfsPath": "/object-layer/ghost/ghost_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreibu2kohdhegqhmvyp26njf3yyypedyhgpaw2t453dckastpwau6bq",
+    "cid": "bafkreid3uam3bh6khovisdjkv6ziqgjzel7236x5iw4xgbjd2xncmwivma",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/ghost/ghost_data.json"
   },
@@ -85,7 +85,7 @@
     "mfsPath": "/object-layer/gp1/gp1_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiepp52d3czndhfpe2vxnnrjwe4l2toqbur62slpqozae6l43i4eky",
+    "cid": "bafkreiaykbr4ni34unzvloht5uipvgi32phfwbouusm6vrcu4qwkve5ucq",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/gp1/gp1_data.json"
   },
@@ -100,7 +100,7 @@
     "mfsPath": "/object-layer/gp2/gp2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreigymyes2cvsvnwdpc2sslyrpjac5v5tjyx5tg75kdgiu7gi6p5iba",
+    "cid": "bafkreicdykj4dnnxc53fkrryy4tvxzxqvcotww7syyvgc5tlez3vrguxvu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/gp2/gp2_data.json"
   },
@@ -190,7 +190,7 @@
     "mfsPath": "/object-layer/purple/purple_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidsixbgtmflpgkloclav4i5qd7gpq3p3ikgpldejeyleo4rvxojgy",
+    "cid": "bafkreifo7robx5gp7vly7dgbwv6xpqveynp3aufrxrlhinxgi73vqfyi3a",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/purple/purple_data.json"
   },

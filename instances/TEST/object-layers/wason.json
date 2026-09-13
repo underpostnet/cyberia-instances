@@ -3,11 +3,11 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 5,
+      "effect": 1,
       "resistance": 7,
       "agility": 8,
-      "range": 4,
-      "intelligence": 9,
+      "range": 0,
+      "intelligence": 2,
       "utility": 5
     },
     "item": {
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreie3ffh6j6amtzqeefrvnlwnqb3oki524bxwvrmtzarnnuw4nr7rqe"
     }
   },
-  "cid": "bafkreie53uw2ynwnt4hdj62p3c6en4ntkxm2ip3jmzce7qpl7bwwjgspka",
+  "cid": "bafkreieqy3s62lu7bjvhoczgrug4j5zcfe42ulasb5sosmgrxi2cuk45qi",
   "objectLayerRenderFramesId": "6a9fd6164bd86e560db3a927",
   "atlasSpriteSheetId": "6a8fcad5d1e1a48e3f29f824",
-  "sha256": "9ddd2dac36cd9f0e34fb4fd8bc46f1b355d9a43f6966444fc1ebf86d649a4f50",
+  "sha256": "90c6e5ed2e9f0a6a770b268d0dc4f7222939aa2c120f64e930d1ba342a2b9d82",
   "createdAt": "2026-08-27T05:27:49.208Z",
-  "updatedAt": "2026-09-12T02:02:01.718Z",
+  "updatedAt": "2026-09-12T16:00:15.608Z",
   "__v": 0
 }

@@ -58,8 +58,8 @@
     "portalFee": 0,
     "craftingFeePercent": 0
   },
-  "lifeRegenChance": 300,
-  "maxChance": 10000,
+  "lifeRegenChance": 0.15,
+  "maxChance": 0.95,
   "entityDefaults": [
     "6a5979c02e1dbf5a3a3086f3",
     "6a428562fad4aceeacd9e681",
@@ -153,6 +153,6 @@
     "requireSkin": true
   },
   "createdAt": "2026-06-27T18:43:37.568Z",
-  "updatedAt": "2026-09-12T01:46:52.129Z",
+  "updatedAt": "2026-06-27T18:43:37.568Z",
   "__v": 0
 }

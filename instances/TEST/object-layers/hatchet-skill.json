@@ -6,7 +6,7 @@
       "effect": 4,
       "resistance": 5,
       "agility": 4,
-      "range": 2,
+      "range": 5,
       "intelligence": 1,
       "utility": 0
     },
@@ -21,15 +21,15 @@
       "tokenId": ""
     },
     "render": {
-      "cid": "bafkreibk67c2blpqwyo62kgoarjgpypozywljiwa7uayjvahn5zfexoate",
-      "metadataCid": "bafkreieavyi2cpszqnnwwfa25xbj2po5ozypujksicnynddwxsh2ivwfr4"
+      "cid": "bafkreibrh4qwc7wvh5pbfitexsikd35hpjsrzyaiokx7x6csobug2bunyy",
+      "metadataCid": "bafkreid4s3muh7iio76if4ipkplhuiwyaz3z5drvg5esfjtee6l3vgxfji"
     }
   },
-  "cid": "bafkreifbputhrcxa65gpunlzbe7yhsnp54vij22h6tei33tosxcrdyjcsy",
-  "objectLayerRenderFramesId": "6a9fd6084bd86e560db3a91b",
+  "cid": "bafkreidngjpqwcmura4avhxejdoc4mcd3eor2plxnjg67rkoik7nq6tfxy",
+  "objectLayerRenderFramesId": "6aa5cf1a32f0b7bade1023bb",
   "atlasSpriteSheetId": "6a8fca72d1e1a48e3f29f810",
-  "sha256": "a17d26788ae0f74cfa3579093f83c9afef2a84eb47f4c88dee6e95c511e12296",
+  "sha256": "6d325f0b099488380a9ee448dc2e3043d91d1d3d776a4defc54e42bed87a65be",
   "createdAt": "2026-08-27T05:26:11.156Z",
-  "updatedAt": "2026-09-12T02:02:01.689Z",
+  "updatedAt": "2026-09-12T22:16:03.121Z",
   "__v": 0
 }

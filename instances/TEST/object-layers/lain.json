@@ -3,12 +3,12 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 10,
+      "effect": 1,
       "resistance": 0,
       "agility": 8,
-      "range": 1,
-      "intelligence": 4,
-      "utility": 9
+      "range": 0,
+      "intelligence": 2,
+      "utility": 5
     },
     "item": {
       "id": "lain",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreifi2r3dcoiaegglbsvpqulmll3yzezekpwowcpbfjpjev6bjqqo6a"
     }
   },
-  "cid": "bafkreighatsfseh2qcsht25pke7mkfs66dfvd4iigax5pdl6ug6ar6fexi",
+  "cid": "bafkreibh2bhsifzypqy2ujeqyc6xlm5c4ao4xqyxnbfq2wg74guqqvpaxe",
   "objectLayerRenderFramesId": "6a9fd60e4bd86e560db3a921",
   "atlasSpriteSheetId": "6a8fcae5d1e1a48e3f29f838",
-  "sha256": "c704e45910fa80a479ebaf513ec5165ef0cb51f108302fd78d7ea1bc08f8a4ba",
+  "sha256": "27d04f2417387c31aa2490c0bd75b3a2e01dcbc317684b0d58dfe1a90855e0b9",
   "createdAt": "2026-08-27T05:28:05.485Z",
-  "updatedAt": "2026-09-12T02:02:01.706Z",
+  "updatedAt": "2026-09-12T16:00:15.588Z",
   "__v": 0
 }

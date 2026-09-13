@@ -5,8 +5,8 @@
     "stats": {
       "effect": 5,
       "resistance": 3,
-      "agility": 7,
-      "range": 0,
+      "agility": 5,
+      "range": 5,
       "intelligence": 3,
       "utility": 5
     },
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreiazyqxtwidd6gmo3e6hmbhb4ezfk4djziczmetlq6eclkqyme3nny"
     }
   },
-  "cid": "bafkreibasb5s443jhz65a3dwjlr7ghp7pxua4eddz6jm5k4kkf22vawcju",
+  "cid": "bafkreia4czi6zfj6kfefsplg7fyo6ucxhatn4appbtjuk425ttmut3a2fi",
   "objectLayerRenderFramesId": "6a9fd5ff4bd86e560db3a90f",
   "atlasSpriteSheetId": "69b9183eac68ab7566e440ad",
-  "sha256": "20907b2e73693e7dd06c764ae3f31dff7de80e1063cf92ceab8a5175aa82c24d",
+  "sha256": "1c1651ec953e5148593d66f970ef50573826de01ef0cd345735d9cd949ec1a2a",
   "createdAt": "2026-03-28T00:56:48.199Z",
-  "updatedAt": "2026-09-12T02:02:38.923Z",
+  "updatedAt": "2026-09-12T16:02:57.416Z",
   "__v": 0
 }

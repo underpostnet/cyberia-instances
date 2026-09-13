@@ -3,12 +3,12 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 6,
+      "effect": 1,
       "resistance": 8,
       "agility": 10,
-      "range": 4,
+      "range": 0,
       "intelligence": 2,
-      "utility": 8
+      "utility": 5
     },
     "item": {
       "id": "punk",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreiai24qjt6zg7xqne3pejfzmskrgjhbnlrnvgupkmtyy7i5zve567u"
     }
   },
-  "cid": "bafkreid3ekdtb5zfoedrnm7mgfkuxr7mqpofmak7a6o4algt7fxqppn5q4",
+  "cid": "bafkreiavomanqccglxsiq2m5pm5cih6zr6zxxjboonhok7r3sysaxkqudi",
   "objectLayerRenderFramesId": "6a9fd6104bd86e560db3a923",
   "atlasSpriteSheetId": "6a8fcae2d1e1a48e3f29f834",
-  "sha256": "7b228730f725710716b3ec31554bc7ec83dc56015f079dc02cd3f96f07bdbd87",
+  "sha256": "157300d808465de488699d7b3a241fd98fb37ba42e734ee57e3b96240baa141a",
   "createdAt": "2026-08-27T05:28:02.277Z",
-  "updatedAt": "2026-09-12T02:02:01.710Z",
+  "updatedAt": "2026-09-12T16:00:15.595Z",
   "__v": 0
 }

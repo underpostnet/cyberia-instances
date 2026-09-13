@@ -3,12 +3,12 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 10,
+      "effect": 1,
       "resistance": 6,
       "agility": 2,
-      "range": 8,
-      "intelligence": 6,
-      "utility": 7
+      "range": 0,
+      "intelligence": 2,
+      "utility": 5
     },
     "item": {
       "id": "anon-blood",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreigmoy5ros4jgsiwlwnb4ftgtq66ci2tncxuvecnpswinfkg3r3rdu"
     }
   },
-  "cid": "bafkreihbydkuszegum6dbw26w4vl53dpppgrka6cy53gy42vzvffhr7m54",
+  "cid": "bafkreia7ewtmyuyg3tmlnthwubf4c2otphd6vnsr2ud6haqpzik67z4bpy",
   "objectLayerRenderFramesId": "6aa2d76ad8cf1ab551ee57c1",
   "atlasSpriteSheetId": "6aa2d773d8cf1ab551ee57c2",
-  "sha256": "e1c0d5496486a33c30db5eb72abeec6f7bcd1503c2c7766c7355cd4a53c7ecef",
+  "sha256": "1f25a6cc5306dcd8b6ccf6a04bc169d379c7eab651d507e3820fca15efe7817e",
   "createdAt": "2026-09-10T16:14:43.468Z",
-  "updatedAt": "2026-09-12T02:02:01.652Z",
+  "updatedAt": "2026-09-12T16:00:15.503Z",
   "__v": 0
 }

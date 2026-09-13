@@ -4,11 +4,11 @@
   "data": {
     "stats": {
       "effect": 1,
-      "resistance": 0,
-      "agility": 10,
+      "resistance": 6,
+      "agility": 2,
       "range": 0,
       "intelligence": 2,
-      "utility": 0
+      "utility": 5
     },
     "item": {
       "id": "anon",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreidoppaujpssldbsjc52qoxrdugaibwizwv2gadprxqsuapkijuisi"
     }
   },
-  "cid": "bafkreih4axvgggns2ib2vg36xvogiclfyj6jufmsfo7nyftvzpeieq2f6e",
+  "cid": "bafkreidpzxlto6kb5bvdfs6xxpibinbsavsqhhnxg6beqxkikotvvvuuki",
   "objectLayerRenderFramesId": "6a9fd5fb4bd86e560db3a90b",
   "atlasSpriteSheetId": "69b91802ac68ab7566e43f75",
-  "sha256": "fc05ea6319b2d203aa9b7ebd5c640965c27c9a15922bbedc1675cbc8824345f1",
+  "sha256": "6fcdd7377941e86a32cbd7bbd01434320565039db73782485d4853a75ad69452",
   "createdAt": "2026-03-28T00:56:47.192Z",
-  "updatedAt": "2026-09-11T21:21:55.010Z",
+  "updatedAt": "2026-09-12T16:02:57.396Z",
   "__v": 0
 }

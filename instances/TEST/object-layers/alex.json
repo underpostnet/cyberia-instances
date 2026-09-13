@@ -3,7 +3,7 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 9,
+      "effect": 1,
       "resistance": 8,
       "agility": 5,
       "range": 0,
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreiczjdoqzqiy4eaylimfp7kke7hxqpiadadavth7u4w4wqnbxakvxi"
     }
   },
-  "cid": "bafkreiairnqeckpgvi7qf7uw75cy33mcwigjboty2vvhb5vkgu4dbhpm7i",
+  "cid": "bafkreibgbvudr3327zinogneutmkk7fwqibtitsnnarb7dkcvmlegobwri",
   "objectLayerRenderFramesId": "6a9fd5f94bd86e560db3a909",
   "atlasSpriteSheetId": "6a8fcb7a0faca8157bde4212",
-  "sha256": "088b604129e6aa3f02fe96ff458ded82b20c90ba78d56a70f6aa3538309decfa",
+  "sha256": "260d6838ef7afe50d719a4a4d8a57cb68203344e4d68221f8d42ab164338368a",
   "createdAt": "2026-08-27T05:30:34.293Z",
-  "updatedAt": "2026-09-12T02:02:01.646Z",
+  "updatedAt": "2026-09-12T16:00:15.496Z",
   "__v": 0
 }

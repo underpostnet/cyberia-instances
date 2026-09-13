@@ -1,12 +1,13 @@
 {
   "_id": "6a8fca92d1e1a48e3f29f81c",
-  "fileId": "dee90ffd341203896d366925",
-  "minifyFileId": "7b19b21c119814b847d9eca4",
-  "cid": "bafkreiauhmdjhzhzgqs3g2c62cbn3mnjhlbkx2n7x3lo7ndya5envlk42y",
+  "fileId": "66bb622fa0f830dce962d787",
+  "minifyFileId": "16e743e76d3b6276ee4f39a8",
+  "idlePreviewFileId": "7932881d88ee37c262a2e3e1",
+  "cid": "bafkreibb3kyld7rvarxdk34zd3a5hoxgkiwguufbk7zgenfictpnmw5h6i",
   "metadata": {
     "itemKey": "tim-knife",
     "atlasWidth": 242,
-    "atlasHeight": 125,
+    "atlasHeight": 110,
     "cellPixelDim": 1,
     "upscaleFactor": 20,
     "frame_duration": 250,
@@ -16,21 +17,21 @@
           "x": 66,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 88,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 110,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
@@ -39,21 +40,21 @@
           "x": 0,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 22,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 44,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
@@ -62,21 +63,21 @@
           "x": 198,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 220,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 0,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
@@ -85,349 +86,349 @@
           "x": 132,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 154,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 176,
           "y": 0,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "up_right_idle": [
         {
           "x": 220,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 0,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 22,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "down_right_idle": [
         {
           "x": 88,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 110,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 132,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "up_left_idle": [
         {
           "x": 154,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 176,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 198,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "down_left_idle": [
         {
           "x": 22,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 44,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 66,
-          "y": 25,
+          "y": 22,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "default_idle": [
         {
           "x": 88,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 110,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 132,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "up_walking": [
         {
           "x": 110,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 132,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 154,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "down_walking": [
         {
           "x": 44,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 66,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 88,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "right_walking": [
         {
           "x": 0,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 22,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 44,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "left_walking": [
         {
           "x": 176,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 198,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 220,
-          "y": 50,
+          "y": 44,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "up_right_walking": [
         {
           "x": 22,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 44,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 66,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "down_right_walking": [
         {
           "x": 132,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 154,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 176,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "up_left_walking": [
         {
           "x": 198,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 220,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 0,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "down_left_walking": [
         {
           "x": 66,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 88,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 110,
-          "y": 75,
+          "y": 66,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ],
       "none_idle": [
         {
           "x": 154,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 0
         },
         {
           "x": 176,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 1
         },
         {
           "x": 198,
-          "y": 100,
+          "y": 88,
           "width": 22,
-          "height": 25,
+          "height": 22,
           "frameIndex": 2
         }
       ]
     }
   },
   "createdAt": "2026-08-27T05:26:42.737Z",
-  "updatedAt": "2026-08-27T05:26:42.737Z",
+  "updatedAt": "2026-09-12T22:42:32.123Z",
   "__v": 0
 }

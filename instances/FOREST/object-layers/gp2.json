@@ -3,12 +3,12 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 4,
+      "effect": 1,
       "resistance": 5,
       "agility": 5,
-      "range": 2,
-      "intelligence": 10,
-      "utility": 10
+      "range": 0,
+      "intelligence": 2,
+      "utility": 5
     },
     "item": {
       "id": "gp2",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreicrjjzw26oa4mu56ya54fgfs2a6cjfvcyahiiu6jea37kqgn3jiy4"
     }
   },
-  "cid": "bafkreigymyes2cvsvnwdpc2sslyrpjac5v5tjyx5tg75kdgiu7gi6p5iba",
+  "cid": "bafkreicdykj4dnnxc53fkrryy4tvxzxqvcotww7syyvgc5tlez3vrguxvu",
   "objectLayerRenderFramesId": "6a9fe1da6d406550557c83f6",
   "atlasSpriteSheetId": "69ebf00360b244b96d5224fc",
-  "sha256": "d866092d0ab2ab6c378b5292f117a402ed7b34e2fd99bfd50cc8a7cc8f3fa808",
+  "sha256": "43c293c1b5b71776554638c7275be6f0a89d3b5bf2c62a61766b2677589a97ad",
   "createdAt": "2026-04-24T21:45:36.694Z",
-  "updatedAt": "2026-09-12T02:02:38.943Z",
+  "updatedAt": "2026-09-12T16:02:57.442Z",
   "__v": 0
 }

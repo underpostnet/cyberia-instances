@@ -4,11 +4,11 @@
   "data": {
     "stats": {
       "effect": 1,
-      "resistance": 7,
-      "agility": 1,
+      "resistance": 6,
+      "agility": 3,
       "range": 0,
       "intelligence": 2,
-      "utility": 0
+      "utility": 5
     },
     "item": {
       "id": "fragmentation",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreiandfxcawcdcehkgxmttcfsa3np75pur4vezriyspyzce4vt235di"
     }
   },
-  "cid": "bafkreic7aa53cm7waydfjobs7kqiannrspzyejlpd6e5tmgdnbm4tja4fe",
+  "cid": "bafkreibajlurfixihf5vbnif6yxbaxfn2wcgpyaz7gl5vldvxke3qyfboy",
   "objectLayerRenderFramesId": "6a9fd6044bd86e560db3a915",
   "atlasSpriteSheetId": "6a56b91a9fab49c408b339e0",
-  "sha256": "5f003bb133f6060654b832faa08035b193f382256f1f89d9b0c36859c9a41c29",
+  "sha256": "204ae912a2e8397b50b505f62e105cadd58467e019f997daac75ba89b860a176",
   "createdAt": "2026-07-14T22:32:58.866Z",
-  "updatedAt": "2026-09-11T21:21:55.408Z",
+  "updatedAt": "2026-09-12T16:00:15.546Z",
   "__v": 0
 }

@@ -1,0 +1,35 @@
+{
+  "_id": "6aa5db27917139c2a798d512",
+  "statContractVersion": 2,
+  "data": {
+    "stats": {
+      "effect": 2,
+      "resistance": 1,
+      "agility": 7,
+      "range": 2,
+      "intelligence": 1,
+      "utility": 4
+    },
+    "item": {
+      "id": "tim-knife-skill",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
+    "ledger": {
+      "type": "OFF_CHAIN",
+      "tokenId": ""
+    },
+    "render": {
+      "cid": "bafkreidhbzna6w5gejcn3kwfmadmkwqk22h2wjvqltn25yrmxxrkuft23q",
+      "metadataCid": "bafkreide3aewqnwwvhfwyqclvr4fpazzbnehptzdifgre6ahqw5ohqnz24"
+    }
+  },
+  "cid": "bafkreifnlpmyeibd4wkamen2oygo2fnvo4kyv26yxbh3h2lit2fqtr2npi",
+  "objectLayerRenderFramesId": "6aa5db1f917139c2a798d510",
+  "atlasSpriteSheetId": "6aa5db27917139c2a798d511",
+  "sha256": "7978b6173bd9ce2d8a1fa1703278ba98fd47b0290f5d0d8ead19fd48e12767b1",
+  "createdAt": "2026-09-12T23:07:19.930Z",
+  "updatedAt": "2026-09-12T23:07:19.930Z",
+  "__v": 0
+}

@@ -70,7 +70,7 @@
     "mfsPath": "/object-layer/anon/anon_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreih4axvgggns2ib2vg36xvogiclfyj6jufmsfo7nyftvzpeieq2f6e",
+    "cid": "bafkreidpzxlto6kb5bvdfs6xxpibinbsavsqhhnxg6beqxkikotvvvuuki",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/anon/anon_data.json"
   },
@@ -85,7 +85,7 @@
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiafu7ipsovlusmf27kcxu4i67mw62xrqgylli57cmxfbvbxhxdztm",
+    "cid": "bafkreidh5zszp67qmqztwi6j5fyp7vgyowedeyk7pg2pxnrknvl2d7lwiu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2/atlas_pistol_mk2_data.json"
   },
@@ -100,7 +100,7 @@
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreidvlkx7vayv4cj6u2p2qahd4srmeclm5fpw6chiuq3hajuknjhyym",
+    "cid": "bafkreia4czi6zfj6kfefsplg7fyo6ucxhatn4appbtjuk425ttmut3a2fi",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/atlas_pistol_mk2_bullet/atlas_pistol_mk2_bullet_data.json"
   },
@@ -150,7 +150,7 @@
     "mfsPath": "/object-layer/fragmentation/fragmentation_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreic7aa53cm7waydfjobs7kqiannrspzyejlpd6e5tmgdnbm4tja4fe",
+    "cid": "bafkreibajlurfixihf5vbnif6yxbaxfn2wcgpyaz7gl5vldvxke3qyfboy",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/fragmentation/fragmentation_data.json"
   },
@@ -195,7 +195,7 @@
     "mfsPath": "/object-layer/kaneki/kaneki_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreig2lgb5vqivasm2ypygdjrs6fnwlvfwhajeq6qmdr7sp56uvg6y7e",
+    "cid": "bafkreia6jdf463cy2wu7gvms6uhaoaxq3mztthpe6qutlzssq5ctiduapu",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/kaneki/kaneki_data.json"
   },
@@ -225,7 +225,7 @@
     "mfsPath": "/object-layer/punk/punk_atlas_sprite_sheet_metadata.json"
   },
   {
-    "cid": "bafkreiavbkxl2inshgpr4svfe7w7es72dkjgw2flx66ugnyldgob6b65xa",
+    "cid": "bafkreiavomanqccglxsiq2m5pm5cih6zr6zxxjboonhok7r3sysaxkqudi",
     "resourceType": "object-layer-data",
     "mfsPath": "/object-layer/punk/punk_data.json"
   },

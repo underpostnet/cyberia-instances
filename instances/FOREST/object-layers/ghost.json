@@ -7,8 +7,8 @@
       "resistance": 0,
       "agility": 3,
       "range": 0,
-      "intelligence": 8,
-      "utility": 8
+      "intelligence": 2,
+      "utility": 5
     },
     "item": {
       "id": "ghost",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreidwakinm5zdaslbebdbi2nz3qefsevngkfkmkanu7z7ks3spyj5xm"
     }
   },
-  "cid": "bafkreibu2kohdhegqhmvyp26njf3yyypedyhgpaw2t453dckastpwau6bq",
+  "cid": "bafkreid3uam3bh6khovisdjkv6ziqgjzel7236x5iw4xgbjd2xncmwivma",
   "objectLayerRenderFramesId": "6a9fe1d66d406550557c83f2",
   "atlasSpriteSheetId": "69b917f2ac68ab7566e43e16",
-  "sha256": "34d29c719c8681d95c3f5e6a4bbc630f20f0733c16d4f9dd8c4a04a6fb029e0c",
+  "sha256": "7ba019b09fca3baa890d2aafb288193922ffadfafd45b9730523d5da26591560",
   "createdAt": "2026-03-28T00:56:47.794Z",
-  "updatedAt": "2026-09-12T02:02:38.933Z",
+  "updatedAt": "2026-09-12T16:02:57.430Z",
   "__v": 0
 }

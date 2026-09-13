@@ -3,12 +3,12 @@
   "statContractVersion": 2,
   "data": {
     "stats": {
-      "effect": 10,
+      "effect": 1,
       "resistance": 6,
       "agility": 2,
-      "range": 8,
-      "intelligence": 6,
-      "utility": 7
+      "range": 0,
+      "intelligence": 2,
+      "utility": 5
     },
     "item": {
       "id": "anon",
@@ -25,11 +25,11 @@
       "metadataCid": "bafkreidoppaujpssldbsjc52qoxrdugaibwizwv2gadprxqsuapkijuisi"
     }
   },
-  "cid": "bafkreig2zgxbpbzyf5whwxsnvprvxl2qrtgrn5ggga7ajmgq4qqv7qhutq",
+  "cid": "bafkreidpzxlto6kb5bvdfs6xxpibinbsavsqhhnxg6beqxkikotvvvuuki",
   "objectLayerRenderFramesId": "6a9fd5fb4bd86e560db3a90b",
   "atlasSpriteSheetId": "69b91802ac68ab7566e43f75",
-  "sha256": "dac9ae1787382f6c7b5e4dabe35baf508ccd16f4c6303e04b0d0e4215fc0f49c",
+  "sha256": "6fcdd7377941e86a32cbd7bbd01434320565039db73782485d4853a75ad69452",
   "createdAt": "2026-03-28T00:56:47.192Z",
-  "updatedAt": "2026-09-12T02:02:38.906Z",
+  "updatedAt": "2026-09-12T16:02:57.396Z",
   "__v": 0
 }

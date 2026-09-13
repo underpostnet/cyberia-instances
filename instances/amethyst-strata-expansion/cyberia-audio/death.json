@@ -1,8 +1,6 @@
 {
   "_id": "6aa4763b27c1b48119d6273e",
   "code": "death",
-  "__v": 0,
-  "createdAt": "2026-09-11T21:44:27.337Z",
   "fileId": "9e6453c9aea502add2ff6f87",
   "manifest": {
     "id": "death",
@@ -65,5 +63,7 @@
       }
     }
   },
-  "updatedAt": "2026-09-11T21:44:27.337Z"
+  "createdAt": "2026-09-11T21:44:27.337Z",
+  "updatedAt": "2026-09-12T16:11:09.396Z",
+  "__v": 0
 }
