@@ -29,6 +29,13 @@
         "client": "Test",
         "head": [],
         "body": []
+      },
+      {
+        "path": "/404",
+        "title": "404 Not Found",
+        "client": "NotFound",
+        "head": [],
+        "body": []
       }
     ]
   },
@@ -102,6 +109,13 @@
         "client": "Test",
         "head": [],
         "body": []
+      },
+      {
+        "path": "/404",
+        "title": "404 Not Found",
+        "client": "NotFound",
+        "head": [],
+        "body": []
       }
     ]
   },
@@ -133,6 +147,13 @@
         "path": "/test",
         "title": "Test",
         "client": "Test",
+        "head": [],
+        "body": []
+      },
+      {
+        "path": "/404",
+        "title": "404 Not Found",
+        "client": "NotFound",
         "head": [],
         "body": []
       }
