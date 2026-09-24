@@ -1,7 +1,17 @@
 {
-  "_id": "69c72750324871a1514a65ef",
-  "statContractVersion": 2,
+  "_id": "6ab5904237f96ecaa15c5749",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "coin",
+      "type": "coin",
+      "description": "Standard Atlas-sanctioned credit chit accepted across the outpost's vendors and contractors.",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "coin",
-      "type": "coin",
-      "description": "Standard Atlas-sanctioned credit chit accepted across the outpost's vendors and contractors.",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreidmbaxfnp5gwq6uknhfyq4amb2lo7wn2cvn7gemxko4vn7lrindcu",
+      "cid": "bafkreid4ztvkxi3bhbvlpmed4it4gdkkddcisdogguaj2cxi3aws62ftsy",
       "metadataCid": "bafkreicst3cbu5e5paeukfmyxqdzr4hscnrkfdpr25vublbhop2lygs2ei"
     }
   },
-  "cid": "bafkreiaazzag2okfpwroo7u24663peph6yficmaeplii4ewnn5r2cl56qm",
-  "objectLayerRenderFramesId": "6a9fd6004bd86e560db3a911",
-  "atlasSpriteSheetId": "69b91822ac68ab7566e43ff3",
-  "sha256": "00ce406d39457da2e77e9ae7bdb791e7f60a8130047ad08e12cd6f63a12fbe83",
-  "createdAt": "2026-03-28T00:56:48.283Z",
-  "updatedAt": "2026-09-12T16:02:57.423Z",
+  "cid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
+  "contentHash": "602fffaeae89cd431a8d11c414a12150b635140674739097528f9676055829d0",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:02.780Z",
+  "updatedAt": "2026-09-24T21:04:02.817Z",
   "__v": 0
 }

@@ -16,6 +16,7 @@
         {
           "type": "collect",
           "itemId": "coin",
+          "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
           "quantity": 3,
           "_id": "6a8fd26901edebf032f93c8b"
         }
@@ -26,6 +27,7 @@
   "rewards": [
     {
       "itemId": "coin",
+      "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
       "quantity": 10,
       "_id": "6a8fd26901edebf032f93c89"
     }

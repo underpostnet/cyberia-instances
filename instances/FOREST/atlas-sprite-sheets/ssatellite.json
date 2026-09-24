@@ -1,9 +1,10 @@
 {
-  "_id": "69e9551f5c639cfaa8d89a48",
-  "fileId": "b7b4f8a32302c57be076ea84",
-  "minifyFileId": "92f0733983eed0c113cf9c77",
-  "idlePreviewFileId": "98f01e139318f5d5036f643b",
-  "cid": "bafkreihewdy2vegbrrrh65gtgrtfwamujbemdy65b4tp2nojf7662n7uwe",
+  "_id": "6ab5905ebb37c1151110a0fe",
+  "objectLayerCid": "bafkreibckxf4hlp6eacd74h57lktiksw4d5i4uka4ds3fpzalvypg64cw4",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:30.414Z",
+  "fileId": "cf5cc89cb5c56e3f84a7b959",
+  "idlePreviewFileId": "d1d5dedb3268153e2033f42e",
   "metadata": {
     "itemKey": "ssatellite",
     "atlasWidth": 125,
@@ -98,7 +99,6 @@
       ]
     }
   },
-  "createdAt": "2026-04-22T23:09:19.697Z",
-  "updatedAt": "2026-04-22T23:09:19.697Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:30.414Z",
+  "upscaleFileId": "7f1dc6b60878757fa793b50c"
 }

@@ -16,6 +16,7 @@
         {
           "type": "collect",
           "itemId": "wood-drop-1",
+          "objectLayerCid": "bafkreichd64rpvuube75uciu3rg6co7yoisuvkg5ynavhb2abyb2dewcqu",
           "quantity": 4,
           "_id": "6a8fd26901edebf032f93caf"
         }
@@ -26,6 +27,7 @@
   "rewards": [
     {
       "itemId": "coin",
+      "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
       "quantity": 30,
       "_id": "6a8fd26901edebf032f93cad"
     }

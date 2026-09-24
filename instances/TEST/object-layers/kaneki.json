@@ -1,7 +1,17 @@
 {
   "_id": "6a8fcae8d1e1a48e3f29f83e",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "kaneki",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 8,
@@ -10,26 +20,16 @@
       "intelligence": 2,
       "utility": 1
     },
-    "item": {
-      "id": "kaneki",
-      "type": "skin",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreidbb3mx5eqqywygxedy7upwkdepqmgkplnkzeiuwkoih7spqevgby",
+      "cid": "bafkreihgwn7vkd7w3twmvjmozak4nkj3ip3ad6tzeybsrvxo25ltvrnm44",
       "metadataCid": "bafkreienr7bwo7bwy6kwaxneihmrkq6p2u6vj6yigzjlaabtqy45inlpcy"
     }
   },
-  "cid": "bafkreia6jdf463cy2wu7gvms6uhaoaxq3mztthpe6qutlzssq5ctiduapu",
-  "objectLayerRenderFramesId": "6a9fd60a4bd86e560db3a91d",
-  "atlasSpriteSheetId": "6a8fcae8d1e1a48e3f29f83c",
-  "sha256": "1e48cbcf6c58d5a9f35592f50e0702f0db33399de4f42935e6528745340e807d",
-  "createdAt": "2026-08-27T05:28:08.886Z",
-  "updatedAt": "2026-09-12T16:00:15.574Z",
+  "cid": "bafkreianr47vgwkmyxhc7ms4rvx3havp4yhnuw4ibmj4fjw36n7lix27ge",
+  "contentHash": "0d8f3f53594cc5ce2fb25c8d6fb382afe60eda5b880b13c2a6dbf37eb45f5f31",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:08.644Z",
+  "updatedAt": "2026-09-24T21:04:08.673Z",
   "__v": 0
 }

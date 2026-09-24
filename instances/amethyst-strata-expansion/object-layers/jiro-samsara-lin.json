@@ -1,7 +1,17 @@
 {
-  "_id": "6a4012df6112c35896109084",
-  "statContractVersion": 2,
+  "_id": "6ab5904637f96ecaa15c5758",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "jiro-samsara-lin",
+      "type": "skin",
+      "description": "A veteran Atlas-security-contractor specialized in managing non-compliant botanical-growth.",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 1
     },
-    "item": {
-      "id": "jiro-samsara-lin",
-      "type": "skin",
-      "description": "A veteran Atlas-security-contractor specialized in managing non-compliant botanical-growth.",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreiakxnx6aca5mlukjwxoexrawfoihq564ahaho2ef2cgam62ryld24",
+      "cid": "bafkreib23tj3badowyhm2kpnnc4nwvthgqk6bff75tgmnqgnkudvtgkksq",
       "metadataCid": "bafkreif23vdaofxnvummb7ar3qjgwjpxsnx6t5zl7dey5jisxonk37itbu"
     }
   },
-  "cid": "bafkreihjg4pe7skgzyq3rtgewyrzyb5oxefgqchcfg3dahj2hhchhvqy3i",
-  "objectLayerRenderFramesId": "6a9fe00751ee8bb636a5e687",
-  "atlasSpriteSheetId": "6a405ed0c5b68b16f4305910",
-  "sha256": "e9371e4fc946ce21b8ccc4b6239c07aeb90a6808e229b6301d3a39c473d618da",
-  "createdAt": "2026-06-27T18:13:51.382Z",
-  "updatedAt": "2026-09-12T15:59:02.260Z",
+  "cid": "bafkreidvppsp4v5cmbszru6gijnplk35uy3fsfu4vsucx3ktmgrnnoe6sq",
+  "contentHash": "757be4fe57a2606598d3c6425af5ab7da63659169caca82bed5361a2d6b89e94",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:06.162Z",
+  "updatedAt": "2026-09-24T21:04:06.196Z",
   "__v": 0
 }

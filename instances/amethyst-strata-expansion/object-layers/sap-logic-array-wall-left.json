@@ -1,7 +1,17 @@
 {
   "_id": "6a415b01175934e535d9d0d8",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "sap-logic-array-wall-left",
+      "type": "obstacle",
+      "description": "",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "sap-logic-array-wall-left",
-      "type": "obstacle",
-      "description": "",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreiawxr5b5eeq7g7qi5h7rxqh53mtooz2gwub5kplsdducsjepzjbei",
+      "cid": "bafkreibf6y3ctgmqzbiflseukcvrlyzs64dd3jgo7mqe5kg5tgk3jsgmse",
       "metadataCid": "bafkreie23gchp7ufoxnhkbz3f4gjwwyg6he2hcq7ehhxl6yz2bmypbur3e"
     }
   },
-  "cid": "bafkreicwckyuwjj6sjbyav3pcudyzflfzu4exav3rf3tjkcp3xl2f5qcse",
-  "objectLayerRenderFramesId": "6a9fe00a51ee8bb636a5e695",
-  "atlasSpriteSheetId": "6a415b01175934e535d9d0d7",
-  "sha256": "5612b14b253e924380576f15078c9565cd384b82bb897734a84fddd7a2f60291",
-  "createdAt": "2026-06-28T17:33:53.499Z",
-  "updatedAt": "2026-09-12T15:59:02.326Z",
+  "cid": "bafkreif6levjdso2k26mksfrjp5jhw3sft4fgvzlh5gpx35edqz6ygjzum",
+  "contentHash": "be592a91c9da56bcc548b14bfa93db722cf853572b3f4cfbefa41c33ec1939a3",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:13.981Z",
+  "updatedAt": "2026-09-24T21:04:14.055Z",
   "__v": 0
 }

@@ -1,7 +1,17 @@
 {
   "_id": "6a401802192c16dbcde165ad",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "amethyst-tree-alpha",
+      "type": "static",
+      "description": "",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "amethyst-tree-alpha",
-      "type": "static",
-      "description": "",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreiegjomwrdesn77z5yn6tqor53wzltwcfjgwkvsqmmrre6s7elcupa",
+      "cid": "bafkreifhbi7uxgqetpv3b44o7jwcjfeilsgwhc5u7risfzle5pm5etvpt4",
       "metadataCid": "bafkreienu7hkcmsfa764bgnixdp2lrdue4jjc2sslf67snm4plsjg2ebxm"
     }
   },
-  "cid": "bafkreie4ijlz2fz42qxgnq53yroqfmg4pssroqxlormeimsy5syndvu2ki",
-  "objectLayerRenderFramesId": "6a9fdffd51ee8bb636a5e679",
-  "atlasSpriteSheetId": "6a401802192c16dbcde165ac",
-  "sha256": "9c42579d173cd42e66c3bbc45d02b0dc7ca51742eb7458443258ecb0d1d69a52",
-  "createdAt": "2026-06-27T18:35:46.903Z",
-  "updatedAt": "2026-09-12T15:59:02.207Z",
+  "cid": "bafkreid3ichhwfuyceq7qukadc2wjgpe3xfvnmip5ybij4bz7tb4t4bgqq",
+  "contentHash": "7b408e7b16981121f8514018b56499e4ddcb56b10fee0284f039fcc3c9f02684",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:03:57.980Z",
+  "updatedAt": "2026-09-24T21:03:58.047Z",
   "__v": 0
 }

@@ -1,7 +1,17 @@
 {
   "_id": "6a8fca73d1e1a48e3f29f812",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "hatchet-skill",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 4,
       "resistance": 5,
@@ -10,26 +20,16 @@
       "intelligence": 1,
       "utility": 0
     },
-    "item": {
-      "id": "hatchet-skill",
-      "type": "skill",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreibrh4qwc7wvh5pbfitexsikd35hpjsrzyaiokx7x6csobug2bunyy",
+      "cid": "bafkreifcw4usnibxcs3dsvvalrqazc32ckhob3a7ikjx7lim26nai6nkqu",
       "metadataCid": "bafkreid4s3muh7iio76if4ipkplhuiwyaz3z5drvg5esfjtee6l3vgxfji"
     }
   },
-  "cid": "bafkreidngjpqwcmura4avhxejdoc4mcd3eor2plxnjg67rkoik7nq6tfxy",
-  "objectLayerRenderFramesId": "6aa5cf1a32f0b7bade1023bb",
-  "atlasSpriteSheetId": "6a8fca72d1e1a48e3f29f810",
-  "sha256": "6d325f0b099488380a9ee448dc2e3043d91d1d3d776a4defc54e42bed87a65be",
-  "createdAt": "2026-08-27T05:26:11.156Z",
-  "updatedAt": "2026-09-12T22:16:03.121Z",
+  "cid": "bafkreicvf6c57tuxha5zrvahtk4zpscg646u5xnskrutwvjfww7ydzuuzy",
+  "contentHash": "552f85dfce97383b98d4079ab997c846f73d4eddb254693b5525b5bf81e694ce",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:47.150Z",
+  "updatedAt": "2026-09-24T21:04:47.182Z",
   "__v": 0
 }

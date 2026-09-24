@@ -2,6 +2,7 @@
   "underpost": {
     "metadata": {
       "title": "Underpost Platform | Tech Lab for Infrastructure, Orchestration and Runtime",
+      "siteName": "Underpost",
       "description": "Engineering logs and system development for Underpost Platform: cloud infrastructure, orchestration, CI/CD, containers, and real-time runtime applications.",
       "keywords": [
         "Underpost Platform",
@@ -35,6 +36,7 @@
         "SearchBox",
         "BtnIcon",
         "Logger",
+        "Markdown",
         "Css",
         "NotificationManager",
         "ToggleSwitch",
@@ -60,13 +62,13 @@
         "D3Chart",
         "Stream",
         "SocketIo",
+        "Documentation",
         "Docs",
         "Content",
         "FileExplorer",
         "Chat",
         "Worker",
         "CssCore",
-        "Wallet",
         "Badge",
         "ToolTip",
         "Webhook",
@@ -144,6 +146,11 @@
         "ssr": "Underpost"
       },
       {
+        "path": "/entry",
+        "client": "Underpost",
+        "ssr": "Underpost"
+      },
+      {
         "path": "/recover",
         "client": "Underpost",
         "ssr": "Underpost"
@@ -160,6 +167,11 @@
       },
       {
         "path": "/polyhedron",
+        "client": "Underpost",
+        "ssr": "Underpost"
+      },
+      {
+        "path": "/user-management",
         "client": "Underpost",
         "ssr": "Underpost"
       }
@@ -220,7 +232,7 @@
         "import_name_build": "/dist/dexie/dexie.mjs"
       }
     ],
-    "services": ["core", "user", "file", "test", "document"]
+    "services": ["default", "core", "user", "file", "test", "document"]
   },
   "cyberia-portal": {
     "metadata": {
@@ -231,14 +243,84 @@
       "thumbnail": "assets/splash/CYBERIA.jpg",
       "themeColor": "#1a1a1a"
     },
+    "docs": {
+      "canonical": true,
+      "typedoc": {
+        "name": "CYBERIA Online",
+        "entryPoints": [
+          "./src/server",
+          "./src/api",
+          "./src/cli",
+          "./src/db",
+          "./src/ws",
+          "./src/grpc",
+          "./src/mailer",
+          "./src/runtime",
+          "./src/client-builder",
+          "./src/projects/cyberia"
+        ],
+        "exclude": [
+          "**/api/atlas-sprite-sheet/**",
+          "**/api/ipfs/**",
+          "**/api/item-ledger-balance/**",
+          "**/api/item-ledger-checkpoint/**",
+          "**/api/item-ledger-transfer/**",
+          "**/api/item-ledger/**",
+          "**/api/object-layer-render-frames/**",
+          "**/api/object-layer/**",
+          "**/client/**",
+          "**/docs/**",
+          "**/hardhat/**",
+          "**/node_modules/**"
+        ],
+        "out": "./public/www.cyberiaonline.com/docs/",
+        "readme": "./src/client/public/docs/cyberia/overview/index.md"
+      },
+      "coverage": [
+        {
+          "id": "cyberia",
+          "label": "Cyberia coverage",
+          "suite": "cyberia"
+        },
+        {
+          "id": "hardhat",
+          "label": "Hardhat coverage",
+          "path": "./hardhat"
+        }
+      ],
+      "references": ["./src/client/public/docs"],
+      "api": [
+        "cyberia-entity",
+        "cyberia-map",
+        "cyberia-instance",
+        "cyberia-instance-conf",
+        "cyberia-dialogue",
+        "cyberia-quest",
+        "cyberia-quest-progress",
+        "cyberia-action",
+        "cyberia-skill",
+        "cyberia-entity-type-default",
+        "cyberia-client-hints",
+        "cyberia-saga",
+        "cyberia-audio",
+        "cyberia-map-audio-conf",
+        "cyberia-item-catalog",
+        "cyberia-content-release",
+        "cyberia-server-registry",
+        "wallet-account"
+      ],
+      "integrations": {
+        "object-layer": "https://objectlayer.org/docs",
+        "item-ledger": "https://itemledger.com/docs"
+      }
+    },
     "publicRef": "cyberia",
     "components": {
+      "object-layer": ["ObjectLayerProtocol", "ObjectLayerEngine", "ObjectLayerEngineModal", "ObjectLayerEngineViewer"],
       "cyberia": [
         "SharedDefaultsCyberia",
+        "ObjectLayerProfileCyberia",
         "MapEngineCyberia",
-        "ObjectLayerEngine",
-        "ObjectLayerEngineModal",
-        "ObjectLayerEngineViewer",
         "InstanceEngineCyberia",
         "ActionEngineCyberia",
         "EntityEngineCyberia",
@@ -254,6 +336,7 @@
         "SearchBox",
         "BtnIcon",
         "Logger",
+        "Markdown",
         "Css",
         "NotificationManager",
         "ToggleSwitch",
@@ -282,7 +365,6 @@
         "SocketIoHandler",
         "Chat",
         "Webhook",
-        "Wallet",
         "FileExplorer",
         "Badge",
         "ToolTip",
@@ -290,6 +372,7 @@
         "RichText",
         "Panel",
         "Content",
+        "Documentation",
         "Docs",
         "ColorPaletteElement",
         "EventBus",
@@ -456,6 +539,12 @@
         "public_folder": "/dist/vanilla-jsoneditor/standalone.js.map"
       },
       {
+        "folder": "./node_modules/marked/lib",
+        "public_folder": "/dist/marked",
+        "import_name": "marked",
+        "import_name_build": "/dist/marked/marked.esm.js"
+      },
+      {
         "folder": "./node_modules/dexie/dist",
         "public_folder": "/dist/dexie",
         "import_name": "dexie",
@@ -466,7 +555,6 @@
       "core",
       "file",
       "user",
-      "crypto",
       "document",
       "instance",
       "object-layer",
@@ -484,8 +572,16 @@
       "cyberia-skill",
       "cyberia-entity-type-default",
       "cyberia-client-hints",
-      "cyberia-saga"
-    ]
+      "cyberia-saga",
+      "item-ledger",
+      "item-ledger-balance",
+      "item-ledger-transfer"
+    ],
+    "apiHosts": {
+      "item-ledger": "itemledger.com",
+      "item-ledger-balance": "itemledger.com",
+      "item-ledger-transfer": "itemledger.com"
+    }
   },
   "cryptokoyn": {
     "metadata": {
@@ -495,6 +591,21 @@
       "author": "https://github.com/underpostnet",
       "thumbnail": "assets/banner/koyn-social.png",
       "themeColor": "#E1DB07"
+    },
+    "docs": {
+      "typedoc": {
+        "name": "Cryptokoyn",
+        "entryPoints": ["./src/api/wallet-account"],
+        "exclude": ["**/node_modules/**", "**/docs/**", "**/client/**", "**/hardhat/**"],
+        "out": "./public/cryptokoyn.net/docs/",
+        "readme": "./src/client/public/docs/cryptokoyn/overview/index.md"
+      },
+      "references": ["./src/client/public/docs"],
+      "api": ["wallet-account"],
+      "integrations": {
+        "item-ledger": "https://itemledger.com/docs",
+        "object-layer": "https://objectlayer.org/docs"
+      }
     },
     "publicCopyNonExistingFiles": "cyberia",
     "components": {
@@ -508,6 +619,8 @@
         "SearchBox",
         "BtnIcon",
         "Logger",
+        "Markdown",
+        "MainBodyDocument",
         "Css",
         "NotificationManager",
         "ToggleSwitch",
@@ -533,13 +646,13 @@
         "D3Chart",
         "Stream",
         "SocketIo",
+        "Documentation",
         "Docs",
         "Content",
         "FileExplorer",
         "Chat",
         "Worker",
         "CssCore",
-        "Wallet",
         "Badge",
         "ToolTip",
         "Webhook",
@@ -560,7 +673,8 @@
         "SignUpCryptokoyn",
         "SocketIoCryptokoyn",
         "SettingsCryptokoyn"
-      ]
+      ],
+      "wallet": ["WalletProvider", "EmbeddedWallet", "WalletView"]
     },
     "views": [
       {
@@ -601,6 +715,11 @@
       },
       {
         "path": "/recover",
+        "client": "Cryptokoyn",
+        "ssr": "Cryptokoyn"
+      },
+      {
+        "path": "/docs",
         "client": "Cryptokoyn",
         "ssr": "Cryptokoyn"
       }
@@ -645,22 +764,65 @@
         "public_folder": "/dist/peerjs"
       },
       {
+        "folder": "./node_modules/marked/lib",
+        "public_folder": "/dist/marked",
+        "import_name": "marked",
+        "import_name_build": "/dist/marked/marked.esm.js"
+      },
+      {
         "folder": "./node_modules/dexie/dist",
         "public_folder": "/dist/dexie",
         "import_name": "dexie",
         "import_name_build": "/dist/dexie/dexie.mjs"
+      },
+      {
+        "folder": "./node_modules/ethers/dist",
+        "public_folder": "/dist/ethers",
+        "import_name": "ethers",
+        "import_name_build": "/dist/ethers/ethers.js"
       }
     ],
-    "services": ["core", "user", "file", "crypto"]
+    "services": ["core", "user", "file", "wallet-account"]
   },
   "itemledger": {
     "metadata": {
-      "title": "Item Ledger",
-      "description": "Canonical registry, metadata resolver, and IPFS indexer for Object Layer items — semi-fungible and non-fungible ERC-1155 tokens in the Cyberia Online ecosystem. Item search, provenance, and marketplace.",
-      "keywords": ["itemledger", "object layer", "NFT", "ERC-1155", "metadata", "IPFS", "registry", "marketplace"],
+      "title": "ItemLedger",
+      "siteName": "ItemLedger",
+      "description": "ItemLedger — registry, indexing, provenance and ownership bridge for Object Layers: canonical Object Layer CIDs bound to ERC-1155 token types, supply and holders. Cyberia Online is the first participating runtime.",
+      "keywords": [
+        "itemledger",
+        "object layer",
+        "registry",
+        "ERC-1155",
+        "token",
+        "provenance",
+        "ownership",
+        "IPFS",
+        "CID",
+        "marketplace"
+      ],
       "author": "https://github.com/underpostnet",
       "thumbnail": "apple-touch-startup-image-1136x640.png",
       "themeColor": "#0551C4"
+    },
+    "docs": {
+      "typedoc": {
+        "name": "ItemLedger",
+        "entryPoints": [
+          "./src/api/item-ledger",
+          "./src/api/item-ledger-transfer",
+          "./src/api/item-ledger-balance",
+          "./src/api/item-ledger-checkpoint"
+        ],
+        "exclude": ["**/node_modules/**", "**/docs/**", "**/client/**", "**/hardhat/**"],
+        "out": "./public/itemledger.com/docs/",
+        "readme": "./src/client/public/docs/item-ledger/overview/index.md"
+      },
+      "references": ["./src/client/public/docs"],
+      "api": ["item-ledger", "item-ledger-transfer", "item-ledger-balance", "item-ledger-checkpoint", "wallet-account"],
+      "integrations": {
+        "object-layer": "https://objectlayer.org/docs"
+      }
     },
     "publicCopyNonExistingFiles": "cyberia",
     "components": {
@@ -674,6 +836,8 @@
         "SearchBox",
         "BtnIcon",
         "Logger",
+        "Markdown",
+        "MainBodyDocument",
         "Css",
         "NotificationManager",
         "ToggleSwitch",
@@ -695,17 +859,12 @@
         "Auth",
         "ViewModeController",
         "RichText",
-        "CalendarCore",
-        "D3Chart",
-        "Stream",
         "SocketIo",
+        "Documentation",
         "Docs",
-        "Content",
-        "FileExplorer",
         "Chat",
         "Worker",
         "CssCore",
-        "Wallet",
         "Badge",
         "ToolTip",
         "Webhook",
@@ -714,7 +873,8 @@
         "SocketIoHandler",
         "EventBus",
         "ClientEvents",
-        "Repository"
+        "Repository",
+        "ColorPaletteElement"
       ],
       "itemledger": [
         "AppShellItemledger",
@@ -762,12 +922,18 @@
         "ssr": "Itemledger"
       },
       {
-        "path": "/wallet",
+        "path": "/recover",
         "client": "Itemledger",
         "ssr": "Itemledger"
       },
       {
-        "path": "/recover",
+        "path": "/item-ledger-registry",
+        "title": "Registry",
+        "client": "Itemledger",
+        "ssr": "Itemledger"
+      },
+      {
+        "path": "/docs",
         "client": "Itemledger",
         "ssr": "Itemledger"
       }
@@ -812,12 +978,273 @@
         "public_folder": "/dist/peerjs"
       },
       {
+        "folder": "./node_modules/marked/lib",
+        "public_folder": "/dist/marked",
+        "import_name": "marked",
+        "import_name_build": "/dist/marked/marked.esm.js"
+      },
+      {
         "folder": "./node_modules/dexie/dist",
         "public_folder": "/dist/dexie",
         "import_name": "dexie",
         "import_name_build": "/dist/dexie/dexie.mjs"
+      },
+      {
+        "folder": "./node_modules/vanilla-jsoneditor/standalone.js",
+        "public_folder": "/dist/vanilla-jsoneditor/standalone.js",
+        "import_name": "vanilla-jsoneditor",
+        "import_name_build": "/dist/vanilla-jsoneditor/standalone.js",
+        "styles": "./node_modules/vanilla-jsoneditor/themes",
+        "public_styles_folder": "/styles/vanilla-jsoneditor"
+      },
+      {
+        "folder": "./node_modules/vanilla-jsoneditor/standalone.js.map",
+        "public_folder": "/dist/vanilla-jsoneditor/standalone.js.map"
       }
     ],
-    "services": ["core", "user", "file", "crypto", "default"]
+    "services": [
+      "core",
+      "user",
+      "file",
+      "default",
+      "item-ledger",
+      "item-ledger-balance",
+      "item-ledger-transfer"
+    ]
+  },
+  "objectlayer": {
+    "metadata": {
+      "title": "Object Layer",
+      "siteName": "Object Layer",
+      "description": "Object Layer — the protocol and content domain: canonical schema, canonicalization, validation and content identity (CID) of Object Layer definitions, with an explorer. Independent of any runtime; ItemLedger registers what it publishes.",
+      "keywords": [
+        "object layer",
+        "protocol",
+        "canonical schema",
+        "content identity",
+        "CID",
+        "IPFS",
+        "explorer",
+        "pixel art",
+        "atlas"
+      ],
+      "author": "https://github.com/underpostnet",
+      "thumbnail": "apple-touch-startup-image-1136x640.png",
+      "themeColor": "#0D1A10"
+    },
+    "docs": {
+      "typedoc": {
+        "name": "Object Layer",
+        "entryPoints": [
+          "./src/api/object-layer",
+          "./src/api/object-layer-render-frames",
+          "./src/api/atlas-sprite-sheet",
+          "./src/api/ipfs"
+        ],
+        "exclude": ["**/node_modules/**", "**/docs/**", "**/client/**", "**/hardhat/**"],
+        "out": "./public/objectlayer.org/docs/",
+        "readme": "./src/client/public/docs/object-layer/overview/index.md"
+      },
+      "references": ["./src/client/public/docs"],
+      "api": ["object-layer", "object-layer-render-frames", "atlas-sprite-sheet", "ipfs"],
+      "integrations": {
+        "item-ledger": "https://itemledger.com/docs"
+      }
+    },
+    "publicCopyNonExistingFiles": "cyberia",
+    "components": {
+      "object-layer": ["ObjectLayerProtocol", "ObjectLayerEngine", "ObjectLayerEngineModal", "ObjectLayerEngineViewer"],
+      "core": [
+        "CommonJs",
+        "VanillaJs",
+        "Responsive",
+        "Keyboard",
+        "Translate",
+        "Modal",
+        "SearchBox",
+        "BtnIcon",
+        "Logger",
+        "Markdown",
+        "MainBodyDocument",
+        "Css",
+        "NotificationManager",
+        "ToggleSwitch",
+        "DropDown",
+        "LoadingAnimation",
+        "EventsUI",
+        "AgGrid",
+        "Pagination",
+        "windowGetDimensions",
+        "Input",
+        "Validator",
+        "SignUp",
+        "LogIn",
+        "LogOut",
+        "Router",
+        "Account",
+        "PublicProfile",
+        "Scroll",
+        "Auth",
+        "ViewModeController",
+        "RichText",
+        "SocketIo",
+        "Documentation",
+        "Docs",
+        "Chat",
+        "Worker",
+        "CssCore",
+        "Badge",
+        "ToolTip",
+        "Webhook",
+        "Recover",
+        "AppStore",
+        "SocketIoHandler",
+        "EventBus",
+        "ClientEvents",
+        "Repository",
+        "ColorPaletteElement"
+      ],
+      "objectlayer": [
+        "AppShellObjectlayer",
+        "RouterObjectlayer",
+        "AppStoreObjectlayer",
+        "CssObjectlayer",
+        "LogInObjectlayer",
+        "LogOutObjectlayer",
+        "SignUpObjectlayer",
+        "SocketIoObjectlayer",
+        "SettingsObjectlayer",
+        "TranslateObjectlayer"
+      ]
+    },
+    "views": [
+      {
+        "path": "/",
+        "title": "Home",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/settings",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/log-in",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/sign-up",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/log-out",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/account",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/recover",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/object-layer-engine-viewer",
+        "title": "Explorer",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      },
+      {
+        "path": "/docs",
+        "client": "Objectlayer",
+        "ssr": "Objectlayer"
+      }
+    ],
+    "dists": [
+      {
+        "folder": "./node_modules/@neodrag/vanilla/dist/min",
+        "public_folder": "/dist/@neodrag-vanilla",
+        "import_name": "@neodrag/vanilla",
+        "import_name_build": "/dist/@neodrag-vanilla/index.js"
+      },
+      {
+        "folder": "./node_modules/@fortawesome/fontawesome-free",
+        "public_folder": "/dist/fontawesome"
+      },
+      {
+        "folder": "./node_modules/sortablejs/modular",
+        "public_folder": "/dist/sortablejs",
+        "import_name": "sortablejs",
+        "import_name_build": "/dist/sortablejs/sortable.complete.esm.js"
+      },
+      {
+        "folder": "./node_modules/validator",
+        "public_folder": "/dist/validator"
+      },
+      {
+        "import_name": "ag-grid-community",
+        "import_name_build": "/dist/ag-grid-community/ag-grid-community.min.js",
+        "folder": "./node_modules/ag-grid-community/dist",
+        "public_folder": "/dist/ag-grid-community",
+        "styles": "./node_modules/ag-grid-community/styles",
+        "public_styles_folder": "/styles/ag-grid-community"
+      },
+      {
+        "folder": "./node_modules/socket.io/client-dist",
+        "public_folder": "/dist/socket.io",
+        "import_name": "socket.io/client-dist/socket.io.esm.min.js",
+        "import_name_build": "/dist/socket.io/socket.io.esm.min.js"
+      },
+      {
+        "folder": "./node_modules/peerjs/dist",
+        "public_folder": "/dist/peerjs"
+      },
+      {
+        "folder": "./node_modules/marked/lib",
+        "public_folder": "/dist/marked",
+        "import_name": "marked",
+        "import_name_build": "/dist/marked/marked.esm.js"
+      },
+      {
+        "folder": "./node_modules/dexie/dist",
+        "public_folder": "/dist/dexie",
+        "import_name": "dexie",
+        "import_name_build": "/dist/dexie/dexie.mjs"
+      },
+      {
+        "folder": "./node_modules/vanilla-jsoneditor/standalone.js",
+        "public_folder": "/dist/vanilla-jsoneditor/standalone.js",
+        "import_name": "vanilla-jsoneditor",
+        "import_name_build": "/dist/vanilla-jsoneditor/standalone.js",
+        "styles": "./node_modules/vanilla-jsoneditor/themes",
+        "public_styles_folder": "/styles/vanilla-jsoneditor"
+      },
+      {
+        "folder": "./node_modules/vanilla-jsoneditor/standalone.js.map",
+        "public_folder": "/dist/vanilla-jsoneditor/standalone.js.map"
+      }
+    ],
+    "services": [
+      "core",
+      "user",
+      "file",
+      "default",
+      "object-layer",
+      "atlas-sprite-sheet",
+      "item-ledger",
+      "item-ledger-balance",
+      "item-ledger-transfer"
+    ],
+    "apiHosts": {
+      "item-ledger": "itemledger.com",
+      "item-ledger-balance": "itemledger.com",
+      "item-ledger-transfer": "itemledger.com"
+    }
   }
 }

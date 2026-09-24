@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcad5d1e1a48e3f29f824",
-  "fileId": "6bbf42ac8ac4cb095427ed7b",
-  "minifyFileId": "1fcd9815e3ef8a00275b0820",
-  "idlePreviewFileId": "5d91275e2915e6c6d58ea73d",
-  "cid": "bafkreibm2bgg2pmctslm6l6ej5kyn42yqd5bvmqu2wmbeguwgw7h4mxpty",
+  "_id": "6ab59079bb37c1151110a176",
+  "objectLayerCid": "bafkreictf7rwsdtzr3ytdpyjmsxndjkei7dyyfq2iedhr47xuykfxsxcca",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:57.424Z",
+  "fileId": "1a860fa2f159077200568541",
+  "idlePreviewFileId": "78cda628d94d92a6fdd2ad51",
   "metadata": {
     "itemKey": "wason",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:27:49.069Z",
-  "updatedAt": "2026-08-27T05:27:49.069Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:57.424Z",
+  "upscaleFileId": "796a0102711372076c3c5bc2"
 }

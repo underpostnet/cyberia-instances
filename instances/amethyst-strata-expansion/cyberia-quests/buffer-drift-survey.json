@@ -18,6 +18,7 @@
         {
           "type": "talk",
           "itemId": "jiro-samsara-lin",
+          "objectLayerCid": "bafkreidvppsp4v5cmbszru6gijnplk35uy3fsfu4vsucx3ktmgrnnoe6sq",
           "quantity": 1,
           "_id": "6a4068bec5b68b16f4307921"
         }
@@ -31,6 +32,7 @@
         {
           "type": "collect",
           "itemId": "purplish-sap-vial",
+          "objectLayerCid": "bafkreiaqnmy3btr5y6xmpugmkgahimnoaq7uoutqnjva5vsofc5gfii2ci",
           "quantity": 3,
           "_id": "6a4068bec5b68b16f4307923"
         }
@@ -41,6 +43,7 @@
   "rewards": [
     {
       "itemId": "coin",
+      "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
       "quantity": 50,
       "_id": "6a4068bec5b68b16f4307924"
     }

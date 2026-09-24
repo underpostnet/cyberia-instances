@@ -1,7 +1,17 @@
 {
   "_id": "6a8fcad5d1e1a48e3f29f826",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "wason",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 7,
@@ -10,26 +20,16 @@
       "intelligence": 2,
       "utility": 5
     },
-    "item": {
-      "id": "wason",
-      "type": "skin",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreibm2bgg2pmctslm6l6ej5kyn42yqd5bvmqu2wmbeguwgw7h4mxpty",
+      "cid": "bafkreifhnpchl5kf5vpa3mdblg7cxetdk74thckehc52tyrtwcfthl77pe",
       "metadataCid": "bafkreie3ffh6j6amtzqeefrvnlwnqb3oki524bxwvrmtzarnnuw4nr7rqe"
     }
   },
-  "cid": "bafkreieqy3s62lu7bjvhoczgrug4j5zcfe42ulasb5sosmgrxi2cuk45qi",
-  "objectLayerRenderFramesId": "6a9fd6164bd86e560db3a927",
-  "atlasSpriteSheetId": "6a8fcad5d1e1a48e3f29f824",
-  "sha256": "90c6e5ed2e9f0a6a770b268d0dc4f7222939aa2c120f64e930d1ba342a2b9d82",
-  "createdAt": "2026-08-27T05:27:49.208Z",
-  "updatedAt": "2026-09-12T16:00:15.608Z",
+  "cid": "bafkreictf7rwsdtzr3ytdpyjmsxndjkei7dyyfq2iedhr47xuykfxsxcca",
+  "contentHash": "532fe3690e798ef131bf0964aed1a54447c78c161a410678f3f7a6145bcae210",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:57.147Z",
+  "updatedAt": "2026-09-24T21:04:57.177Z",
   "__v": 0
 }

@@ -1,7 +1,17 @@
 {
   "_id": "6a4013e2192c16dbcde161d5",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "amethyst-grass-alpha",
+      "type": "floor",
+      "description": "",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "amethyst-grass-alpha",
-      "type": "floor",
-      "description": "",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreibxdvlscyfh5aj6pi5vb4dpzmzpoha4joojmykpnrmrwts35kkku4",
+      "cid": "bafkreidln6445xk3kssoilbqk6ikva2xeumyihj23q2trmbymx3soxbdpm",
       "metadataCid": "bafkreighdv7abhp5vqlcmiq42jxjsbouu34amck3zkuq76sa5uvdtiwleq"
     }
   },
-  "cid": "bafkreigwyjocgnki35vw52b37crc2nvc6cyw3pvvgckthvr5tvrfnk4wda",
-  "objectLayerRenderFramesId": "6a9fdffb51ee8bb636a5e673",
-  "atlasSpriteSheetId": "6a4013e2192c16dbcde161d4",
-  "sha256": "d6c25c233548df6b6ee83bf8a22d36a2f0b16dbeb5309533d63d9d6256ab9618",
-  "createdAt": "2026-06-27T18:18:10.270Z",
-  "updatedAt": "2026-09-12T15:59:02.180Z",
+  "cid": "bafkreiffm7bhq4erjqglbx7fh5todzdt4adjdq7fjbhhz7lojzgyrf54q4",
+  "contentHash": "a567c27870914c0cb0dfe53f66e1e473e00691c3e5484e7cfd6e4e4d8897bc87",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:03:55.984Z",
+  "updatedAt": "2026-09-24T21:03:56.053Z",
   "__v": 0
 }

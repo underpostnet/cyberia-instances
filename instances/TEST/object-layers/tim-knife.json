@@ -1,7 +1,17 @@
 {
   "_id": "6a8fca9dd1e1a48e3f29f81e",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "tim-knife",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 5,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 1,
       "utility": 0
     },
-    "item": {
-      "id": "tim-knife",
-      "type": "weapon",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreibb3kyld7rvarxdk34zd3a5hoxgkiwguufbk7zgenfictpnmw5h6i",
+      "cid": "bafkreifxfibr7q2jpw566zeuqrj4675y7iwmoczqtryybo225v7jge6rm4",
       "metadataCid": "bafkreiaevsctatp3jpf6uu5345odiayfk3qryd3yc3v6sim7noheyybbla"
     }
   },
-  "cid": "bafkreid3bgcwcwgyz3xqk2mvz47bu2myjvi46yexjx4cp72qu7bxzgm7vi",
-  "objectLayerRenderFramesId": "6aa5d54932f0b7bade10240b",
-  "atlasSpriteSheetId": "6a8fca92d1e1a48e3f29f81c",
-  "sha256": "7b09856158d8ceef056995cf3e1a69984d51cf60974df827ff50a7c37c999faa",
-  "createdAt": "2026-08-27T05:26:53.043Z",
-  "updatedAt": "2026-09-12T22:42:32.209Z",
+  "cid": "bafkreiabqt3y3onkltm7osgfbyifzu2cau46ihb4z3m2chefwbkfjnid6u",
+  "contentHash": "0184f78db9aa5cd9f748c50e105cd3420539e41c3cced9a11c85b05454b503f5",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:55.296Z",
+  "updatedAt": "2026-09-24T21:04:55.325Z",
   "__v": 0
 }

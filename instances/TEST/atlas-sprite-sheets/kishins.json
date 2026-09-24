@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcad8d1e1a48e3f29f828",
-  "fileId": "be21658b3a12d24c9c6d8b1b",
-  "minifyFileId": "70e4e8c3fd51f2c171c89013",
-  "idlePreviewFileId": "ba3d26eda098c16c3105e565",
-  "cid": "bafkreicowemsfjm6qzmqe2tzk3himoruof76uluadmmnr2jfayfyjlpibu",
+  "_id": "6ab59072bb37c1151110a15e",
+  "objectLayerCid": "bafkreidq6p3vtgid7qvto5fnqm2udn5typquf5aeoltqdbqonmz2cq3q5e",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:50.735Z",
+  "fileId": "2a8d7842e9eddc79470fc81c",
+  "idlePreviewFileId": "2e3a071e67ef76ca1b358ce8",
   "metadata": {
     "itemKey": "kishins",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:27:52.316Z",
-  "updatedAt": "2026-08-27T05:27:52.316Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:50.735Z",
+  "upscaleFileId": "747d9dfb3c3d0ca2a0ff53c8"
 }

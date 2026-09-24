@@ -1,5 +1,29 @@
 {
-  "_id": "6a9fe00951ee8bb636a5e691",
+  "_id": "6ab5904cbb37c1151110a0a9",
+  "objectLayerCid": "bafkreie4burttj2ebajk237lphx2mkfi4oj537nh7n5abz6f3kkrxxwvvu",
+  "__v": 0,
+  "colors": [
+    [
+      56,
+      50,
+      72,
+      255
+    ],
+    [
+      37,
+      33,
+      46,
+      255
+    ],
+    [
+      10,
+      94,
+      27,
+      255
+    ]
+  ],
+  "createdAt": "2026-09-24T21:04:12.813Z",
+  "frame_duration": 500,
   "frames": {
     "up_idle": [],
     "down_idle": [
@@ -1901,28 +1925,5 @@
       ]
     ]
   },
-  "colors": [
-    [
-      56,
-      50,
-      72,
-      255
-    ],
-    [
-      37,
-      33,
-      46,
-      255
-    ],
-    [
-      10,
-      94,
-      27,
-      255
-    ]
-  ],
-  "frame_duration": 500,
-  "createdAt": "2026-09-08T10:14:33.790Z",
-  "updatedAt": "2026-09-08T10:14:33.790Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:12.813Z"
 }

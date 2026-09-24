@@ -1,9 +1,10 @@
 {
-  "_id": "6a405ed0c5b68b16f4305910",
-  "fileId": "ea81ef6c10443577814805c3",
-  "minifyFileId": "e92b531d99844d18b9ba7877",
-  "idlePreviewFileId": "bb2a45a10fab26825fd8134a",
-  "cid": "bafkreiakxnx6aca5mlukjwxoexrawfoihq564ahaho2ef2cgam62ryld24",
+  "_id": "6ab59046bb37c1151110a07e",
+  "objectLayerCid": "bafkreidvppsp4v5cmbszru6gijnplk35uy3fsfu4vsucx3ktmgrnnoe6sq",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:06.403Z",
+  "fileId": "d754fcc557478de16385fbcf",
+  "idlePreviewFileId": "d069fe828578b7ef4f6172c3",
   "metadata": {
     "itemKey": "jiro-samsara-lin",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-27T23:37:52.681Z",
-  "updatedAt": "2026-06-27T23:37:52.681Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:06.403Z",
+  "upscaleFileId": "cd56f6cab41b5b214a84d027"
 }

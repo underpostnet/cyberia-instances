@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fca92d1e1a48e3f29f81c",
-  "fileId": "66bb622fa0f830dce962d787",
-  "minifyFileId": "16e743e76d3b6276ee4f39a8",
-  "idlePreviewFileId": "7932881d88ee37c262a2e3e1",
-  "cid": "bafkreibb3kyld7rvarxdk34zd3a5hoxgkiwguufbk7zgenfictpnmw5h6i",
+  "_id": "6ab59077bb37c1151110a170",
+  "objectLayerCid": "bafkreiabqt3y3onkltm7osgfbyifzu2cau46ihb4z3m2chefwbkfjnid6u",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:55.672Z",
+  "fileId": "d81e66dd4f86c2bed077b5c1",
+  "idlePreviewFileId": "b12568976a3cf2a0a9352fd0",
   "metadata": {
     "itemKey": "tim-knife",
     "atlasWidth": 242,
@@ -428,7 +429,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:26:42.737Z",
-  "updatedAt": "2026-09-12T22:42:32.123Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:55.672Z",
+  "upscaleFileId": "40d1cf2fbf18cbc9789fc080"
 }

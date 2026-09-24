@@ -1,9 +1,10 @@
 {
-  "_id": "6aa2d773d8cf1ab551ee57c2",
-  "fileId": "d2a314d9c48f9c1b856fde31",
-  "minifyFileId": "b585aa82ce4ccc4b02f9a1c7",
-  "idlePreviewFileId": "47fe9fcd13112eee91e91151",
-  "cid": "bafkreig7r7lk3xwb47wgmyonfrotjypiq2ujq6ropsppt3e37luyhlb2xa",
+  "_id": "6ab59067bb37c1151110a140",
+  "objectLayerCid": "bafkreiawz2gw7wnhj733yep3cfqljjrmd3p4ugrjdxaqmdr7rioq5a24dm",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:39.856Z",
+  "fileId": "86ff2e1940f10ee26a0de0f0",
+  "idlePreviewFileId": "1eeb5afbfaf3f499d2bb1e34",
   "metadata": {
     "itemKey": "anon-blood",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-09-10T16:14:43.438Z",
-  "updatedAt": "2026-09-10T16:14:43.438Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:39.856Z",
+  "upscaleFileId": "4aec846ab2212fbf074ae7b8"
 }

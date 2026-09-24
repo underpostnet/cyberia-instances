@@ -1,9 +1,10 @@
 {
-  "_id": "6a56b91a9fab49c408b339e0",
-  "fileId": "48c79e713e1f5743f7d62f81",
-  "minifyFileId": "0ab5841c263f156b4560e65e",
-  "idlePreviewFileId": "dc394ff31792e8b3a4b4d5cf",
-  "cid": "bafkreifnnaqvsowyylq3u4iybrznufh5eodgb6ti44lebgys7lw7txfbkq",
+  "_id": "6ab59045bb37c1151110a07a",
+  "objectLayerCid": "bafkreiba2vggzo36m77ukdh2h46kmydgr3wpaobxy6pvgt4wcexrqitrry",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:05.107Z",
+  "fileId": "f7405fbbeed845623e7ec03b",
+  "idlePreviewFileId": "1bc0bab7d6e1238a3f578561",
   "metadata": {
     "itemKey": "fragmentation",
     "atlasWidth": 250,
@@ -266,7 +267,6 @@
       ]
     }
   },
-  "createdAt": "2026-07-14T22:32:58.699Z",
-  "updatedAt": "2026-07-14T22:32:58.699Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:45.793Z",
+  "upscaleFileId": "2383216323528ab577c451d9"
 }

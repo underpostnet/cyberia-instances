@@ -1,9 +1,10 @@
 {
-  "_id": "69c906c9178523f2652d36a1",
-  "fileId": "623cd43843df92595107948d",
-  "minifyFileId": "f6752563fac2d79e6c372792",
-  "idlePreviewFileId": "f49e98338326dc4083e5237d",
-  "cid": "bafkreihy5ri66zslaijmtjfz7tm7h4rcmypldhxa2eiwmmgkphg6w5552m",
+  "_id": "6ab59040bb37c1151110a066",
+  "objectLayerCid": "bafkreibsnhcwbytdlyltmhkj5bfukpfdiy77gdmujohninygvcwmhkfopa",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:00.447Z",
+  "fileId": "b0552492343c72f335814780",
+  "idlePreviewFileId": "afb5085b6ab956c9e9fe11a4",
   "metadata": {
     "itemKey": "atlas_pistol_mk2",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-03-29T11:02:33.682Z",
-  "updatedAt": "2026-03-29T11:02:33.682Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:41.890Z",
+  "upscaleFileId": "7af4b09f51b9b04663c65d98"
 }

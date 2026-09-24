@@ -1,9 +1,10 @@
 {
-  "_id": "6a40139c192c16dbcde161c7",
-  "fileId": "6e9827237fabd399401b7a7f",
-  "minifyFileId": "3c1e3fba1be4019018302447",
-  "idlePreviewFileId": "7a8768a72bb2440ce4b77690",
-  "cid": "bafkreidqrjt5kxndjgf62dx2qplcunpehm6bvqp522wgc43z6nuecoayue",
+  "_id": "6ab5903cbb37c1151110a04e",
+  "objectLayerCid": "bafkreiad4dsuutcpv6udaqdcqf3lnej275mhllgs6z6vhhwcr6vzg66se4",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:03:56.817Z",
+  "fileId": "4b35323604908601fbb005f3",
+  "idlePreviewFileId": "d7d2159fa9c002ec48d66b59",
   "metadata": {
     "itemKey": "amethyst-grass-beta",
     "atlasWidth": 120,
@@ -77,7 +78,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-27T18:17:00.041Z",
-  "updatedAt": "2026-06-27T18:17:00.041Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:03:56.817Z",
+  "upscaleFileId": "b294d652ad7e23353e563f1c"
 }

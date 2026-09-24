@@ -1,0 +1,98 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "CryptoKoyn",
+    "alternateName": "CKY",
+    "url": "https://cryptokoyn.net",
+    "description": "CKY finance hub: the wallet surface and the public account record of the platform, and the domain that will serve CKY — token id 0 of the ObjectLayerToken contract. Pre-Alpha.",
+    "applicationCategory": "FinanceApplication",
+    "operatingSystem": "Any",
+    "browserRequirements": "Requires JavaScript. Requires HTML5.",
+    "isAccessibleForFree": true,
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Underpost",
+      "url": "https://github.com/underpost",
+      "sameAs": ["https://underpost.net"]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Underpost",
+      "url": "https://github.com/underpost",
+      "sameAs": ["https://underpost.net"]
+    },
+    "softwareHelp": {
+      "@type": "CreativeWork",
+      "name": "CryptoKoyn documentation",
+      "url": "https://cryptokoyn.net/docs?cid=guide&doc=cryptokoyn/overview/index"
+    },
+    "featureList": [
+      "Wallet sign-in and provider choice",
+      "Embedded vault that keeps every key in the browser",
+      "Public account record in CAIP-10 form",
+      "CKY documentation and roadmap"
+    ],
+    "keywords": "cryptokoyn, CKY, wallet, account record, CAIP-10, ERC-1155, ObjectLayerToken",
+    "screenshot": "https://cryptokoyn.net/assets/banner/koyn-social.png",
+    "inLanguage": "en"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "CryptoKoyn",
+    "url": "https://cryptokoyn.net",
+    "logo": "https://cryptokoyn.net/assets/splash/android-chrome-256x256.png",
+    "description": "The domain that owns CKY — the fungible currency of the platform — the wallet surface and the public account record.",
+    "sameAs": ["https://github.com/underpost"],
+    "parentOrganization": {
+      "@type": "Organization",
+      "name": "Underpost",
+      "url": "https://github.com/underpost",
+      "sameAs": ["https://underpost.net"]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is CryptoKoyn (CKY)?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "CKY is the fungible currency of the platform: token id 0 of the shared ObjectLayerToken contract. Every token id above zero is an ItemLedger asset."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I hold or trade CKY today?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. The domain is Pre-Alpha: the contract is written and tested but not deployed to a public network, so no CKY balance is authoritative. Supply, staking, governance and fiat bridges belong to Phase 3 of the roadmap."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where do my keys live?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In your browser. The domain serves the wallet surface and the public account record only. It never receives a private key, a mnemonic or any other secret material."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is the Cyberia coin balance the same as CKY?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. The coin balance Cyberia runs off-chain is game progress state. CKY is ledger state. The two never mix."
+        }
+      }
+    ]
+  }
+]

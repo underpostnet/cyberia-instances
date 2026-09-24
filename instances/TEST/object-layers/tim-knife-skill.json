@@ -1,7 +1,17 @@
 {
   "_id": "6aa5db27917139c2a798d512",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "tim-knife-skill",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 2,
       "resistance": 1,
@@ -10,26 +20,16 @@
       "intelligence": 1,
       "utility": 4
     },
-    "item": {
-      "id": "tim-knife-skill",
-      "type": "skill",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreidhbzna6w5gejcn3kwfmadmkwqk22h2wjvqltn25yrmxxrkuft23q",
+      "cid": "bafkreia7jivvlwttkekb3ndhu3awxqpmzt3jyltjiqe7pzbsc5odpwleva",
       "metadataCid": "bafkreide3aewqnwwvhfwyqclvr4fpazzbnehptzdifgre6ahqw5ohqnz24"
     }
   },
-  "cid": "bafkreifnlpmyeibd4wkamen2oygo2fnvo4kyv26yxbh3h2lit2fqtr2npi",
-  "objectLayerRenderFramesId": "6aa5db1f917139c2a798d510",
-  "atlasSpriteSheetId": "6aa5db27917139c2a798d511",
-  "sha256": "7978b6173bd9ce2d8a1fa1703278ba98fd47b0290f5d0d8ead19fd48e12767b1",
-  "createdAt": "2026-09-12T23:07:19.930Z",
-  "updatedAt": "2026-09-12T23:07:19.930Z",
+  "cid": "bafkreie7tq4dzkgyzdjljhlixhejzsj6cn33tf6roltrb5aq3oa6wc43rm",
+  "contentHash": "9f9c383ca8d8c8d2b49d68b9c89cc93e1377b997d172e710f410db81eb0b9b8b",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:54.193Z",
+  "updatedAt": "2026-09-24T21:04:54.225Z",
   "__v": 0
 }

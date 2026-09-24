@@ -1,7 +1,17 @@
 {
   "_id": "69e8ae58853cd147846eea44",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "wood-drop-2",
+      "type": "resource",
+      "description": "",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "wood-drop-2",
-      "type": "resource",
-      "description": "",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreiehaksqwnhedkopakz3pxgevs6nsrce5jc3ryox7s6riju334hqqe",
+      "cid": "bafkreicuojnz5xdsbgnycuyilhoycicgkt74maxvh6zhtuzoumowpy6w4q",
       "metadataCid": "bafkreiakmfu4tyzqoxhsmgxicxwhiyjqdpy6h7dodzn6iiuoivl7kyzo5e"
     }
   },
-  "cid": "bafkreiew62dfbpheqfm7uxzjpyllcnxgf5ruoqasnery3liujnfzeimimu",
-  "objectLayerRenderFramesId": "6a9fd6184bd86e560db3a92f",
-  "atlasSpriteSheetId": "69e8ae58853cd147846eea43",
-  "sha256": "96f68650bce48159fa5f297e16b136e62f6347401269238dad144b4b92218865",
-  "createdAt": "2026-04-22T11:17:44.936Z",
-  "updatedAt": "2026-09-12T16:02:57.522Z",
+  "cid": "bafkreihpvjhxr7opvmxsge7fxbkhnpwdpx5tbzg3qcz4hdhioufwitluve",
+  "contentHash": "efaa4f78fdcfab2f2313e5b85476bec37dfb30e4db80b3c38ce8750b644d74a9",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:33.058Z",
+  "updatedAt": "2026-09-24T21:04:33.093Z",
   "__v": 0
 }

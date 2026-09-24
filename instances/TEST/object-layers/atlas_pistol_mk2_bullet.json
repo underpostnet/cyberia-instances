@@ -1,7 +1,17 @@
 {
   "_id": "69c72750324871a1514a65e9",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "atlas_pistol_mk2_bullet",
+      "type": "skill",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 5,
       "resistance": 3,
@@ -10,26 +20,16 @@
       "intelligence": 3,
       "utility": 5
     },
-    "item": {
-      "id": "atlas_pistol_mk2_bullet",
-      "type": "skill",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreie5szh3xx5v32neiw25nvmipa25o7vqp6ka7w4idiyjxgbfkuktgy",
+      "cid": "bafkreieh2kl77ljrggq3mjyvoqcduma3m7pk3pbjusob6fzymjebahnnve",
       "metadataCid": "bafkreiazyqxtwidd6gmo3e6hmbhb4ezfk4djziczmetlq6eclkqyme3nny"
     }
   },
-  "cid": "bafkreia4czi6zfj6kfefsplg7fyo6ucxhatn4appbtjuk425ttmut3a2fi",
-  "objectLayerRenderFramesId": "6a9fd5ff4bd86e560db3a90f",
-  "atlasSpriteSheetId": "69b9183eac68ab7566e440ad",
-  "sha256": "1c1651ec953e5148593d66f970ef50573826de01ef0cd345735d9cd949ec1a2a",
-  "createdAt": "2026-03-28T00:56:48.199Z",
-  "updatedAt": "2026-09-12T16:02:57.416Z",
+  "cid": "bafkreiay7p7cegnpekxhekiebwp547zxueqauii72erpyqmjrlrtr7dyzi",
+  "contentHash": "18fbfe2219af22ae7229040d9fde7f37a1200a211fd122fc41898ae338fc78ca",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:01.440Z",
+  "updatedAt": "2026-09-24T21:04:01.473Z",
   "__v": 0
 }

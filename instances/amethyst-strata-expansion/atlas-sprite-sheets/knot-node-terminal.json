@@ -1,9 +1,10 @@
 {
-  "_id": "6a43320f07990bc335ece0ba",
-  "fileId": "460e6a9c3e02f4c4f18c3235",
-  "minifyFileId": "0929924f3074da781ddbc90c",
-  "idlePreviewFileId": "c84c4530f27a90982a5b9455",
-  "cid": "bafkreicgtvobt7bb5vlkx33suq6dh6qv4hkspdinh4zku7yteyjtmgdcay",
+  "_id": "6ab5904abb37c1151110a08e",
+  "objectLayerCid": "bafkreiaukgve74h5efrrdlq7zs6fsewchgowzrybiml5c3imlmzyvw7unm",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:10.054Z",
+  "fileId": "e25b40b88881d7c77b3967f7",
+  "idlePreviewFileId": "ea073fc640291657647d3753",
   "metadata": {
     "itemKey": "knot-node-terminal",
     "atlasWidth": 120,
@@ -77,7 +78,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-30T03:03:43.473Z",
-  "updatedAt": "2026-06-30T03:03:43.473Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:10.054Z",
+  "upscaleFileId": "bc5f9d6ebff3f4b54a94f9fe"
 }

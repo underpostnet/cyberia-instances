@@ -1,7 +1,7 @@
 {
   "Underpost": {
-    "head": ["Seo", "Pwa", "UnderpostScripts", "Css"],
-    "body": ["CacheControl", "UnderpostDefaultSplashScreen"],
+    "head": ["Seo", "Pwa", "Microdata", "UnderpostScripts", "Css"],
+    "body": ["CacheControl", "DefaultSplashScreen"],
     "mailer": {
       "userVerifyEmail": "DefaultVerifyEmail",
       "userRecoverEmail": "DefaultRecoverEmail"
@@ -41,7 +41,7 @@
   },
   "CyberiaPortal": {
     "head": ["Seo", "Pwa", "Microdata", "CyberiaPortalScripts", "Css"],
-    "body": ["CacheControl", "CyberiaDefaultSplashScreen", "SwaggerDarkMode"],
+    "body": ["CacheControl", "DefaultSplashScreen", "SwaggerDarkMode"],
     "mailer": {
       "userVerifyEmail": "DefaultVerifyEmail",
       "userRecoverEmail": "DefaultRecoverEmail"
@@ -80,7 +80,7 @@
     ]
   },
   "Cryptokoyn": {
-    "head": ["Seo", "Pwa", "Microdata", "CryptokoynScripts", "Css"],
+    "head": ["Seo", "PwaCryptokoyn", "Microdata", "CryptokoynScripts", "Css"],
     "body": ["CacheControl", "DefaultSplashScreen"],
     "mailer": {
       "userVerifyEmail": "DefaultVerifyEmail",
@@ -121,6 +121,46 @@
   },
   "Itemledger": {
     "head": ["Seo", "PwaItemledger", "Microdata", "ItemledgerScripts", "Css"],
+    "body": ["CacheControl", "DefaultSplashScreen"],
+    "mailer": {
+      "userVerifyEmail": "DefaultVerifyEmail",
+      "userRecoverEmail": "DefaultRecoverEmail"
+    },
+    "views": [
+      {
+        "path": "/offline",
+        "title": "No Network Connection",
+        "client": "NoNetworkConnection",
+        "head": [],
+        "body": [],
+        "offlineDefault": true
+      },
+      {
+        "path": "/maintenance",
+        "title": "Server Maintenance",
+        "client": "Maintenance",
+        "head": [],
+        "body": [],
+        "maintenanceDefault": true
+      },
+      {
+        "path": "/test",
+        "title": "Test",
+        "client": "Test",
+        "head": [],
+        "body": []
+      },
+      {
+        "path": "/404",
+        "title": "404 Not Found",
+        "client": "NotFound",
+        "head": [],
+        "body": []
+      }
+    ]
+  },
+  "Objectlayer": {
+    "head": ["Seo", "PwaObjectlayer", "Microdata", "ObjectlayerScripts", "Css"],
     "body": ["CacheControl", "DefaultSplashScreen"],
     "mailer": {
       "userVerifyEmail": "DefaultVerifyEmail",

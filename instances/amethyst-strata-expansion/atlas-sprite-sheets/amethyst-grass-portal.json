@@ -1,9 +1,10 @@
 {
-  "_id": "6a42a08daf8795d1b2205c6d",
-  "fileId": "075e634009760e268bf4c34b",
-  "minifyFileId": "ef7bd461dcf4b9eb8b78e09b",
-  "idlePreviewFileId": "46119a33f311105ce8ab714d",
-  "cid": "bafkreiecyfimrrqr6bfyz3ouo6hkkqo3dlcormqxftpdzgrubx43cegsdq",
+  "_id": "6ab5903dbb37c1151110a054",
+  "objectLayerCid": "bafkreicvha6bvvzyype72yv656pgzj5dh7ult57pktxpzdvhcrtog3gnfi",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:03:57.425Z",
+  "fileId": "7b41927ff4532b4988dfe3a0",
+  "idlePreviewFileId": "954ef70556647da290d71503",
   "metadata": {
     "itemKey": "amethyst-grass-portal",
     "atlasWidth": 120,
@@ -98,7 +99,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-29T16:42:53.836Z",
-  "updatedAt": "2026-06-29T16:42:53.836Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:03:57.425Z",
+  "upscaleFileId": "bbc86bd454d7b9d39f0260f2"
 }

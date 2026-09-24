@@ -1,9 +1,10 @@
 {
-  "_id": "69e9179a0b49abe348f8aa77",
-  "fileId": "1e18cf027d9cc8baf6a542a2",
-  "minifyFileId": "20937d98eceb6492fede3f90",
-  "idlePreviewFileId": "ffc0c204432ebf09065eaeba",
-  "cid": "bafkreiejzcgj62l76oup3htk7l7ll7l23wsfc4ljtrl5nd4blqzl6q4yc4",
+  "_id": "6ab5905ebb37c1151110a104",
+  "objectLayerCid": "bafkreibk7fhp34pcnf2lg4sfv27h7a37ueclg7bzlzocfeg2s25v22m6xe",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:30.872Z",
+  "fileId": "2b4e970b4e211c09cd669931",
+  "idlePreviewFileId": "7fb6a6d44861c26590e3d8e1",
   "metadata": {
     "itemKey": "stone-1",
     "atlasWidth": 120,
@@ -77,7 +78,6 @@
       ]
     }
   },
-  "createdAt": "2026-04-22T18:46:50.983Z",
-  "updatedAt": "2026-04-22T18:46:50.983Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:30.872Z",
+  "upscaleFileId": "43f7894895258914c92fb93b"
 }

@@ -1,9 +1,10 @@
 {
-  "_id": "69e8aa8c2dbf391f54e05ed1",
-  "fileId": "00756315e54a1aca381d80d9",
-  "minifyFileId": "ff53d076c6cf744a5a344be2",
-  "idlePreviewFileId": "054e438796fce5da7cb0d24a",
-  "cid": "bafkreibow5bp3ll5x6rfhfwlxel732piv6izawami5zvwfs7wltt37syze",
+  "_id": "6ab59060bb37c1151110a11c",
+  "objectLayerCid": "bafkreichd64rpvuube75uciu3rg6co7yoisuvkg5ynavhb2abyb2dewcqu",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:32.796Z",
+  "fileId": "3db8daf90749b1bedb2277a8",
+  "idlePreviewFileId": "0686167d7f1c57528fecde8f",
   "metadata": {
     "itemKey": "wood-drop-1",
     "atlasWidth": 50,
@@ -56,7 +57,6 @@
       ]
     }
   },
-  "createdAt": "2026-04-22T11:01:32.644Z",
-  "updatedAt": "2026-04-22T11:01:32.644Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:59.278Z",
+  "upscaleFileId": "8108c5dc2cb0a3b3b4907b50"
 }

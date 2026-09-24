@@ -1,7 +1,17 @@
 {
-  "_id": "6a4012df6112c35896109085",
-  "statContractVersion": 2,
+  "_id": "6ab5904e37f96ecaa15c5796",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "spore-suppressor-slugger",
+      "type": "weapon",
+      "description": "A pneumatic tool designed to drive off aggressive, mutagen-heavy vegetation with high-pressure bursts.",
+      "activable": true
+    },
     "stats": {
       "effect": 5,
       "resistance": 2,
@@ -10,21 +20,16 @@
       "intelligence": 5,
       "utility": 4
     },
-    "item": {
-      "id": "spore-suppressor-slugger",
-      "type": "weapon",
-      "description": "A pneumatic tool designed to drive off aggressive, mutagen-heavy vegetation with high-pressure bursts.",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
-    "render": {}
+    "render": {
+      "cid": "",
+      "metadataCid": ""
+    }
   },
-  "cid": "bafkreih6n4t334t4p5rx7vlh6uavkdruh2k5cv6vaxdukegdebvuxnnnpi",
-  "sha256": "c0ca8374328c6d3c089b187a75b78ee3a92a0b206b7de68791a3cf2ffdf595fe",
-  "createdAt": "2026-06-27T18:13:51.386Z",
-  "updatedAt": "2026-09-12T15:59:02.340Z",
+  "cid": "bafkreibybqnbgdg3h2ax3bhmkeohi542arfqf3b5ftvmwateu5hatjibli",
+  "contentHash": "380c1a130cdb3e817d84ec511c74779a044b02ec3d2ceacb0264a74e09a5015a",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:14.821Z",
+  "updatedAt": "2026-09-24T21:04:14.964Z",
   "__v": 0
 }

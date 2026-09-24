@@ -1,9 +1,10 @@
 {
-  "_id": "6a401802192c16dbcde165ac",
-  "fileId": "3af6eaaa261deb0ddb2b3191",
-  "minifyFileId": "f2f28e509dea363dc7107237",
-  "idlePreviewFileId": "4c21419f090764582beae5c8",
-  "cid": "bafkreiegjomwrdesn77z5yn6tqor53wzltwcfjgwkvsqmmrre6s7elcupa",
+  "_id": "6ab5903ebb37c1151110a05a",
+  "objectLayerCid": "bafkreid3ichhwfuyceq7qukadc2wjgpe3xfvnmip5ybij4bz7tb4t4bgqq",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:03:58.106Z",
+  "fileId": "c080fadb0e6174d394c40536",
+  "idlePreviewFileId": "e90bc4fb25ba648fc6b49539",
   "metadata": {
     "itemKey": "amethyst-tree-alpha",
     "atlasWidth": 120,
@@ -77,7 +78,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-27T18:35:46.872Z",
-  "updatedAt": "2026-06-27T18:35:46.872Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:03:58.106Z",
+  "upscaleFileId": "d633454a3b9571632ffa85a8"
 }

@@ -1,7 +1,17 @@
 {
-  "_id": "6a4012df6112c35896109086",
-  "statContractVersion": 2,
+  "_id": "6ab5904237f96ecaa15c5745",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "biometric-masking-array",
+      "type": "skill",
+      "description": "A tactical adjustment that mimics the biological signature of the local violet-flora.",
+      "activable": true
+    },
     "stats": {
       "effect": 6,
       "resistance": 5,
@@ -10,21 +20,16 @@
       "intelligence": 10,
       "utility": 0
     },
-    "item": {
-      "id": "biometric-masking-array",
-      "type": "skill",
-      "description": "A tactical adjustment that mimics the biological signature of the local violet-flora.",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
-    "render": {}
+    "render": {
+      "cid": "",
+      "metadataCid": ""
+    }
   },
-  "cid": "bafkreig6zpyeyykwnnxe5tqftonnh3l7acafo42v2zuskd3iql6uqh2y5i",
-  "sha256": "e9b71d0bf4ba897823c9c1b3d0898a8577444773d07cfd673527f11cae555468",
-  "createdAt": "2026-06-27T18:13:51.391Z",
-  "updatedAt": "2026-09-12T15:59:02.232Z",
+  "cid": "bafkreigs2f5yxg7daam3uomc22gxbctz6cvu3iu3zq25rmm43o2pumzwbu",
+  "contentHash": "d2d17b8b9be30019ba3982d68d708a79f0ab4da29bcc35d8b19cdbb4fa33360d",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:02.630Z",
+  "updatedAt": "2026-09-24T21:04:02.667Z",
   "__v": 0
 }

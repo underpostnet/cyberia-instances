@@ -1,7 +1,17 @@
 {
   "_id": "69c906d0178523f2652d36bd",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "purple",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 9,
@@ -10,26 +20,16 @@
       "intelligence": 2,
       "utility": 0
     },
-    "item": {
-      "id": "purple",
-      "type": "skin",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreierhpsuykl4bwmiu3c5h66k3mrdywbu7tqm5i6lbig7rxmkse5iz4",
+      "cid": "bafkreihztbwfwnlqcqgw7twjcodo7m24dy4543dksd4zrhzcffkpbkgqhy",
       "metadataCid": "bafkreieghwlom7h52uqzcvnsccavv5u6uq6vbj7vchf36c4snjnyothwoy"
     }
   },
-  "cid": "bafkreifo7robx5gp7vly7dgbwv6xpqveynp3aufrxrlhinxgi73vqfyi3a",
-  "objectLayerRenderFramesId": "6a9fe1de6d406550557c8402",
-  "atlasSpriteSheetId": "69c906d0178523f2652d36b9",
-  "sha256": "aefc5c1bf4cffd578f8cc1b57d77c2a4c35fb050b1bc567436e647f7581708d8",
-  "createdAt": "2026-03-29T11:02:40.649Z",
-  "updatedAt": "2026-09-12T16:02:57.482Z",
+  "cid": "bafkreicygoeri6yzttrq2bovhixw7bk4ahhxuh7r7epjd5lw6ept4bn2ry",
+  "contentHash": "583389147b199ce30d05d53a2f6f855c01cf7a1ff1f91e91f576f11f3e05ba8e",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:28.991Z",
+  "updatedAt": "2026-09-24T21:04:29.041Z",
   "__v": 0
 }

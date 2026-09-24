@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcae2d1e1a48e3f29f834",
-  "fileId": "d47c30dfeb38de51da0a662c",
-  "minifyFileId": "973b70a7f5f6191dad29a034",
-  "idlePreviewFileId": "0f9e6b1f09a36383bbe0614f",
-  "cid": "bafkreihmvp4cw64se44lubfg4qt2xnylzovww3b3skt24ao5fx2oktfjie",
+  "_id": "6ab5904abb37c1151110a094",
+  "objectLayerCid": "bafkreih5uobga7at6ritj7srwr56r7vnsrdsi6gchmbhnzvi2jcc72imje",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:10.574Z",
+  "fileId": "d83dc23b48a006129adc37ad",
+  "idlePreviewFileId": "8b53e5b9936581846624a4de",
   "metadata": {
     "itemKey": "punk",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:28:02.145Z",
-  "updatedAt": "2026-08-27T05:28:02.145Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:53.149Z",
+  "upscaleFileId": "65a99d0890ba3f068f4ec0ea"
 }

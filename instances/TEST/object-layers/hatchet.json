@@ -1,7 +1,17 @@
 {
   "_id": "6a8fcad1d1e1a48e3f29f822",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "hatchet",
+      "type": "weapon",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 8,
       "resistance": 2,
@@ -10,26 +20,16 @@
       "intelligence": 1,
       "utility": 3
     },
-    "item": {
-      "id": "hatchet",
-      "type": "weapon",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreie432evxw32qugd2ek2sqhevf3zcb3zrkzvvjvvrtgukqaqh5t2cq",
+      "cid": "bafkreifgoq7gmv6muumuvxbmaa7smrendtll2gpst4anpbdlnff4nqcnja",
       "metadataCid": "bafkreiamfl6hypqjwi72ueq5tm62llnluk77usy2o36lffbnmnqt6kvkr4"
     }
   },
-  "cid": "bafkreieczkg2ho7lxh56ekp3pcixkwd6ragrixhzmg7776ptja6vyktg3a",
-  "objectLayerRenderFramesId": "6aa5b7e36d82c209eb8d02e0",
-  "atlasSpriteSheetId": "6a8fcabfd1e1a48e3f29f820",
-  "sha256": "82ca8da3bbebb9fbe229fb789175587e880d145cf961bffff9f3483d5c2a66d8",
-  "createdAt": "2026-08-27T05:27:45.653Z",
-  "updatedAt": "2026-09-12T20:36:58.063Z",
+  "cid": "bafkreihx43arogbdype2wqjbfqkcl4odjbzrkvuebkmm2rdmlao32rsbfu",
+  "contentHash": "f7e6c1171823c3c9ab41212c1425f1c348731556840a98cd446c581dbd46412d",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:48.543Z",
+  "updatedAt": "2026-09-24T21:04:48.573Z",
   "__v": 0
 }

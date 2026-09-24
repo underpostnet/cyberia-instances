@@ -1,9 +1,10 @@
 {
-  "_id": "6a413e2d68158a3e6f841640",
-  "fileId": "3c06e71c03749c42f0918f6e",
-  "minifyFileId": "1fc033ef0df8827090f0afac",
-  "idlePreviewFileId": "b8f60f08308c8a904ea97431",
-  "cid": "bafkreierhpsuykl4bwmiu3c5h66k3mrdywbu7tqm5i6lbig7rxmkse5iz4",
+  "_id": "6ab59043bb37c1151110a074",
+  "objectLayerCid": "bafkreidvbwe2epnxuijfwf3wcmmy63h3bkcpadku5aepj6winegw3e5paq",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:03.790Z",
+  "fileId": "e1b069c94b6f51d81747eb5d",
+  "idlePreviewFileId": "86aad6ff181b23813299c2c2",
   "metadata": {
     "itemKey": "elara-voss-kalu",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-28T15:30:53.992Z",
-  "updatedAt": "2026-06-28T15:30:53.992Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:03.790Z",
+  "upscaleFileId": "a8e1c1918c9bd332cb8eed84"
 }

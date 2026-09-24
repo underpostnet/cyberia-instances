@@ -18,6 +18,7 @@
         {
           "type": "talk",
           "itemId": "alex",
+          "objectLayerCid": "bafkreierkm27o2q6fs2tq5rdik7m6zvlfpxlg35mpjtzvslc4wtqn2fq5m",
           "quantity": 1,
           "_id": "6a8fd26901edebf032f93c65"
         }
@@ -31,6 +32,7 @@
         {
           "type": "collect",
           "itemId": "wood-drop-1",
+          "objectLayerCid": "bafkreichd64rpvuube75uciu3rg6co7yoisuvkg5ynavhb2abyb2dewcqu",
           "quantity": 1,
           "_id": "6a8fd26901edebf032f93c67"
         }
@@ -44,6 +46,7 @@
         {
           "type": "kill",
           "itemId": "kishins",
+          "objectLayerCid": "bafkreidq6p3vtgid7qvto5fnqm2udn5typquf5aeoltqdbqonmz2cq3q5e",
           "quantity": 2,
           "_id": "6a8fd26901edebf032f93c69"
         }
@@ -54,6 +57,7 @@
   "rewards": [
     {
       "itemId": "coin",
+      "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
       "quantity": 50,
       "_id": "6a8fd26901edebf032f93c63"
     }

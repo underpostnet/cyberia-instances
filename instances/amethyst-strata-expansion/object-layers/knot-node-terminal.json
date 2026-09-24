@@ -1,7 +1,17 @@
 {
-  "_id": "6a403b6b80ab6141ed688511",
-  "statContractVersion": 2,
+  "_id": "6ab5904937f96ecaa15c5767",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "knot-node-terminal",
+      "type": "skin",
+      "description": "A decommissioned environmental-control terminal at the Sap-Logic Array, now the interface for coordinating node neutralization.",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 7,
@@ -10,26 +20,16 @@
       "intelligence": 2,
       "utility": 0
     },
-    "item": {
-      "id": "knot-node-terminal",
-      "type": "skin",
-      "description": "A decommissioned environmental-control terminal at the Sap-Logic Array, now the interface for coordinating node neutralization.",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreicgtvobt7bb5vlkx33suq6dh6qv4hkspdinh4zku7yteyjtmgdcay",
+      "cid": "bafkreigrexyfve6zxoxenk2bej7lvnlhpcgkvikuho3yiezq2g6ter26p4",
       "metadataCid": "bafkreidi6cfp4paz76tdxznqwmbeugjbziulkf5xu3awhdf6fdsvtygjte"
     }
   },
-  "cid": "bafkreiblus274z457ieoj2lgoygnmbkcbgggpdfuthosed4vr2mtz5xj7i",
-  "objectLayerRenderFramesId": "6a9fe00851ee8bb636a5e689",
-  "atlasSpriteSheetId": "6a43320f07990bc335ece0ba",
-  "sha256": "2ba4b5fe679dfa08e4e966760cd60542098c678cb499dd220f958e993cf6e9fa",
-  "createdAt": "2026-06-27T21:06:51.982Z",
-  "updatedAt": "2026-09-12T15:59:02.277Z",
+  "cid": "bafkreiaukgve74h5efrrdlq7zs6fsewchgowzrybiml5c3imlmzyvw7unm",
+  "contentHash": "1451aa4ff0fd216311ae1fccbc5912c2399d6cc7014317d16d0c5b338adbf46b",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:09.948Z",
+  "updatedAt": "2026-09-24T21:04:09.986Z",
   "__v": 0
 }

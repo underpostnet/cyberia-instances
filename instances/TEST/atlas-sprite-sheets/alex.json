@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcb7a0faca8157bde4212",
-  "fileId": "a41690c5e4f941e1dd5fcc0d",
-  "minifyFileId": "2ffbea76d85f1c3e1689c944",
-  "idlePreviewFileId": "c8b65eb94fdfa9df696316b3",
-  "cid": "bafkreiepabd3rxhp7fw7rkkhr7khpfoe5s5aiacowjzf5anmmcponwkun4",
+  "_id": "6ab59066bb37c1151110a13a",
+  "objectLayerCid": "bafkreierkm27o2q6fs2tq5rdik7m6zvlfpxlg35mpjtzvslc4wtqn2fq5m",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:38.412Z",
+  "fileId": "9721bca6d082a4fb443a16ba",
+  "idlePreviewFileId": "3f1415dc933ba8142c72c341",
   "metadata": {
     "itemKey": "alex",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:30:34.121Z",
-  "updatedAt": "2026-08-27T05:30:34.121Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:38.412Z",
+  "upscaleFileId": "c4c9047a16d66456a9a6334c"
 }

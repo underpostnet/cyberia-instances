@@ -1,7 +1,17 @@
 {
   "_id": "6a4268cdedd599827e7088c9",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "sap-logic-array-floor-degraded-alpha",
+      "type": "floor",
+      "description": "",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "sap-logic-array-floor-degraded-alpha",
-      "type": "floor",
-      "description": "",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreibxkifrjyik6ifi4usig5vm4nrp2llultzu5hkxwxpmuqi2il5dyu",
+      "cid": "bafkreigb27ubmtamq2ovjsf63kkf2vc4yaonlc5i7rxbnv6unhbq2dejna",
       "metadataCid": "bafkreifb3ikrhhdquauzx5flu72ihvjdotrclaf2pwxga2rwrxuhgzqyve"
     }
   },
-  "cid": "bafkreicniwekgssnrygip5clorshihtjmvpflndq77culqfknaogjlplwm",
-  "objectLayerRenderFramesId": "6a9fe00951ee8bb636a5e693",
-  "atlasSpriteSheetId": "6a4268cdedd599827e7088c8",
-  "sha256": "4d4588a34a4d8e0c87f44b7464741e69655e55b470ffc545c0aa681c64adebb3",
-  "createdAt": "2026-06-29T12:45:01.711Z",
-  "updatedAt": "2026-09-12T15:59:02.302Z",
+  "cid": "bafkreibsjerabrd3flixkvicjgq4h5vwe26axvuiafqwzb25aecy7etd5y",
+  "contentHash": "32492200c47b2ad175550249a1c3f6b626bc0bd68801616c875d01058f9263ee",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:12.530Z",
+  "updatedAt": "2026-09-24T21:04:12.565Z",
   "__v": 0
 }

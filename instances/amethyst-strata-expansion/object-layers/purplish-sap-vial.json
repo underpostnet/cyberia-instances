@@ -1,7 +1,17 @@
 {
-  "_id": "6a4012df6112c35896109088",
-  "statContractVersion": 2,
+  "_id": "6ab5904c37f96ecaa15c5776",
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "purplish-sap-vial",
+      "type": "resource",
+      "description": "A viscous, violet fluid harvested from the rogue biomass, used in improvised biological stabilizers.",
+      "activable": false
+    },
     "stats": {
       "effect": 0,
       "resistance": 10,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 0
     },
-    "item": {
-      "id": "purplish-sap-vial",
-      "type": "resource",
-      "description": "A viscous, violet fluid harvested from the rogue biomass, used in improvised biological stabilizers.",
-      "activable": false
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreifrc43hg3iiz6pi3nu5ykmqj5c3yinsit22hvm7zj6zmnvvt63h2e",
+      "cid": "bafkreicbwdlx5utajhajzmam32iukyrvbjffyjbcdgyacalesu5rufzowa",
       "metadataCid": "bafkreigracfp7fpak7shjqjzcsev2blulzxkwnyyujhwhuxk647vuxnssy"
     }
   },
-  "cid": "bafkreidvyb7xomurwmfmo2a52jq3cpb43bdrdjkllkkg7ago2psoyz7vnm",
-  "objectLayerRenderFramesId": "6a9fe00851ee8bb636a5e68b",
-  "atlasSpriteSheetId": "6a4145217eb0d5fb6728f8c0",
-  "sha256": "75c07f773291b30ac7681dd261b13c3cd84711a54b5a946f80ced3e4ec67f56b",
-  "createdAt": "2026-06-27T18:13:51.399Z",
-  "updatedAt": "2026-09-12T15:59:02.296Z",
+  "cid": "bafkreiaqnmy3btr5y6xmpugmkgahimnoaq7uoutqnjva5vsofc5gfii2ci",
+  "contentHash": "106b31b0ce3dc7aec7d0cc51807431ae043f4752706a6a0ed64e28ba62a11a12",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:12.166Z",
+  "updatedAt": "2026-09-24T21:04:12.208Z",
   "__v": 0
 }

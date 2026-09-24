@@ -1,9 +1,10 @@
 {
-  "_id": "6a4145217eb0d5fb6728f8c0",
-  "fileId": "b76583d514fa4c0ca0d82036",
-  "minifyFileId": "90f38407b5cab5ee519f1e5e",
-  "idlePreviewFileId": "af79545361cd3784f869a496",
-  "cid": "bafkreifrc43hg3iiz6pi3nu5ykmqj5c3yinsit22hvm7zj6zmnvvt63h2e",
+  "_id": "6ab5904cbb37c1151110a09e",
+  "objectLayerCid": "bafkreiaqnmy3btr5y6xmpugmkgahimnoaq7uoutqnjva5vsofc5gfii2ci",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:12.274Z",
+  "fileId": "606f33a8678f60e09c689c05",
+  "idlePreviewFileId": "a02be38afed76a3e5f31843a",
   "metadata": {
     "itemKey": "purplish-sap-vial",
     "atlasWidth": 120,
@@ -77,7 +78,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-28T16:00:33.073Z",
-  "updatedAt": "2026-06-28T16:00:33.073Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:12.274Z",
+  "upscaleFileId": "cb07f667127c3736420c160f"
 }

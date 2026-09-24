@@ -1,7 +1,17 @@
 {
   "_id": "6aa32562d6c189a3f8d6bb19",
-  "statContractVersion": 2,
+  "schemaVersion": 1,
+  "profile": {
+    "id": "cyberia",
+    "version": 2
+  },
   "data": {
+    "item": {
+      "id": "junko",
+      "type": "skin",
+      "description": "",
+      "activable": true
+    },
     "stats": {
       "effect": 1,
       "resistance": 0,
@@ -10,26 +20,16 @@
       "intelligence": 0,
       "utility": 5
     },
-    "item": {
-      "id": "junko",
-      "type": "skin",
-      "description": "",
-      "activable": true
-    },
-    "ledger": {
-      "type": "OFF_CHAIN",
-      "tokenId": ""
-    },
     "render": {
-      "cid": "bafkreiam4kcc4gsjngsjtc3ttbpxpixgk4h2cf2viztnpqlpuo36nt5u54",
+      "cid": "bafkreic6ik532buf6fnvqg57qkpfradr3gwwrgij7mrypvoljscggai6qa",
       "metadataCid": "bafkreibx53bl2slmhqyiv6v4qv7nmnfzr6yoyqb77t7fvkamenqnbvvprq"
     }
   },
-  "cid": "bafkreicnohag65nyh7lrivkriuw6w22ymlvlbpa3mxqx3lrfqvrk7kpzdi",
-  "objectLayerRenderFramesId": "6aa32557d6c189a3f8d6bb17",
-  "atlasSpriteSheetId": "6aa32562d6c189a3f8d6bb18",
-  "sha256": "4d71c06f75b83fd7145551452deb6b5862eab0bc1b65e17dae258562afa9f91a",
-  "createdAt": "2026-09-10T21:47:14.113Z",
-  "updatedAt": "2026-09-12T15:59:02.266Z",
+  "cid": "bafkreibnjjs4lye5whh3hnte6qucepx7izspynxtw7p2ybzqubbyiugojm",
+  "contentHash": "2d4a65c5e09db1cfb3b664f428223eff4664fc36f3b7dfac0730a0438450ce4b",
+  "createdBy": "",
+  "archivedAt": null,
+  "createdAt": "2026-09-24T21:04:07.415Z",
+  "updatedAt": "2026-09-24T21:04:07.445Z",
   "__v": 0
 }

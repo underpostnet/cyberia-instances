@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcae8d1e1a48e3f29f83c",
-  "fileId": "5a471eff9bd15d59fde9caee",
-  "minifyFileId": "18c963facfde481de295ac49",
-  "idlePreviewFileId": "1f3db8e6938d86b038285bae",
-  "cid": "bafkreidbb3mx5eqqywygxedy7upwkdepqmgkplnkzeiuwkoih7spqevgby",
+  "_id": "6ab59048bb37c1151110a08a",
+  "objectLayerCid": "bafkreianr47vgwkmyxhc7ms4rvx3havp4yhnuw4ibmj4fjw36n7lix27ge",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:08.885Z",
+  "fileId": "f93fce4d7b92e5e768705f9d",
+  "idlePreviewFileId": "ef9e0e06de85670cff8423e8",
   "metadata": {
     "itemKey": "kaneki",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:28:08.674Z",
-  "updatedAt": "2026-08-27T05:28:08.674Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:49.468Z",
+  "upscaleFileId": "5d8923dad0934591044d04cc"
 }

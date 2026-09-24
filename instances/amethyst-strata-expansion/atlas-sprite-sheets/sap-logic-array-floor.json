@@ -1,9 +1,10 @@
 {
-  "_id": "6a418d77175934e535d9e59a",
-  "fileId": "05f5cb60476d6a0dc2f9bd45",
-  "minifyFileId": "9c9e26e7fd7b5b20ba499f9d",
-  "idlePreviewFileId": "3beea3487fee213584379c07",
-  "cid": "bafkreigzncmqmjlz7ui34sqgfwqan4j2vvr7cxvkk7nopmh5pi7r6zmikq",
+  "_id": "6ab5904dbb37c1151110a0b0",
+  "objectLayerCid": "bafkreicivm4wqzuyia446wxdgacv64mxd6d4slfnlfryimj3riz6zl4dwy",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:13.489Z",
+  "fileId": "f60d59f45ff5f939269ef483",
+  "idlePreviewFileId": "fcb8ae08f96cbf40851a0f4b",
   "metadata": {
     "itemKey": "sap-logic-array-floor",
     "atlasWidth": 48,
@@ -56,7 +57,6 @@
       ]
     }
   },
-  "createdAt": "2026-06-28T21:09:11.844Z",
-  "updatedAt": "2026-06-28T21:09:11.844Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:13.489Z",
+  "upscaleFileId": "92541aa689f358b2b222a0bc"
 }

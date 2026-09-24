@@ -1,9 +1,10 @@
 {
-  "_id": "6a8fcb7d0faca8157bde4216",
-  "fileId": "c735fe4cb6630d0af40a873a",
-  "minifyFileId": "1df82ba3b5c544dbb2d94c32",
-  "idlePreviewFileId": "615a87f3df4d489bdf5d0912",
-  "cid": "bafkreig6nmviljyetodt7cimio7dx3aaakv4lr24q44fkkyrm43ostarlq",
+  "_id": "6ab59064bb37c1151110a134",
+  "objectLayerCid": "bafkreicyjadsouu62hybrq45qgzaklrqjlmyonxmlsamgliahova637qyq",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:36.830Z",
+  "fileId": "10e96011d563f060015f633d",
+  "idlePreviewFileId": "c9176ec30509df41cee89901",
   "metadata": {
     "itemKey": "agent",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-08-27T05:30:37.674Z",
-  "updatedAt": "2026-08-27T05:30:37.674Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:36.830Z",
+  "upscaleFileId": "1348474ae06cafb4d9d3c68b"
 }

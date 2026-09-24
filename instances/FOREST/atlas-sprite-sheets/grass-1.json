@@ -1,9 +1,10 @@
 {
-  "_id": "69e7804a5e56cc1b4f5102ae",
-  "fileId": "834fccdda7bee47e0573bd67",
-  "minifyFileId": "5811babb253d20290358870a",
-  "idlePreviewFileId": "ad4b59066813b308be9470b3",
-  "cid": "bafkreidr6opnzqwe3w5f5htofvygazmiktdbznhwchwgv4fqs6zobwmu34",
+  "_id": "6ab5905abb37c1151110a0e0",
+  "objectLayerCid": "bafkreif3pdsvecmohdtild4ehunal3ffeigi34vcgyzdwhjc7gkaihi3wa",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:26.642Z",
+  "fileId": "5fb448223bad632df5301246",
+  "idlePreviewFileId": "126d6c59bca0a5f259c8264b",
   "metadata": {
     "itemKey": "grass-1",
     "atlasWidth": 50,
@@ -56,7 +57,6 @@
       ]
     }
   },
-  "createdAt": "2026-04-21T13:48:58.701Z",
-  "updatedAt": "2026-04-21T13:48:58.701Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:26.642Z",
+  "upscaleFileId": "ac69de25f5f2aa9d107c50af"
 }

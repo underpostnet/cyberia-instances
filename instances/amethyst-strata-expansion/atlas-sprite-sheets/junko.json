@@ -1,9 +1,10 @@
 {
-  "_id": "6aa32562d6c189a3f8d6bb18",
-  "fileId": "19441ae99dc76c01877b6154",
-  "minifyFileId": "90d31d10c773063a7384843e",
-  "idlePreviewFileId": "cf9efb88ac0cc435f3a0cc40",
-  "cid": "bafkreiam4kcc4gsjngsjtc3ttbpxpixgk4h2cf2viztnpqlpuo36nt5u54",
+  "_id": "6ab59047bb37c1151110a084",
+  "objectLayerCid": "bafkreibnjjs4lye5whh3hnte6qucepx7izspynxtw7p2ybzqubbyiugojm",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:07.649Z",
+  "fileId": "5911d66f35accd3079e3db66",
+  "idlePreviewFileId": "2138c17bfbe9d473fffdec3b",
   "metadata": {
     "itemKey": "junko",
     "atlasWidth": 250,
@@ -232,7 +233,6 @@
       ]
     }
   },
-  "createdAt": "2026-09-10T21:47:14.080Z",
-  "updatedAt": "2026-09-10T21:47:14.080Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:07.649Z",
+  "upscaleFileId": "53fe4266dff2b48fa66a9e35"
 }

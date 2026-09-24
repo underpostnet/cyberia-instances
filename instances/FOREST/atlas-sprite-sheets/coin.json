@@ -1,9 +1,10 @@
 {
-  "_id": "69b91822ac68ab7566e43ff3",
-  "fileId": "fa5aa0af8836b883e2cb52ea",
-  "minifyFileId": "07d45d4bc35a9fe1d301c688",
-  "idlePreviewFileId": "2340cc552aeaf94d18a2ea5e",
-  "cid": "bafkreidmbaxfnp5gwq6uknhfyq4amb2lo7wn2cvn7gemxko4vn7lrindcu",
+  "_id": "6ab59042bb37c1151110a070",
+  "objectLayerCid": "bafkreidaf7725lujzvbrvdiryqkkcikqwy2ribtuooijouupsz3akwbj2a",
+  "__v": 0,
+  "createdAt": "2026-09-24T21:04:02.973Z",
+  "fileId": "eb3d7ecafc337dd2eff0f29a",
+  "idlePreviewFileId": "f8f4dab45a01f82f8f3dc782",
   "metadata": {
     "itemKey": "coin",
     "atlasWidth": 125,
@@ -161,7 +162,6 @@
       ]
     }
   },
-  "createdAt": "2026-03-17T09:00:18.163Z",
-  "updatedAt": "2026-03-17T09:00:18.163Z",
-  "__v": 0
+  "updatedAt": "2026-09-24T21:04:43.802Z",
+  "upscaleFileId": "4a9cbf74f39ecc1e135f72c4"
 }
